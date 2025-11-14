@@ -1,0 +1,808 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 14,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 358269052,
+            "memory": 872448,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 346946421,
+            "memory": 856064,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 351195929,
+            "memory": 614400,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 342805829,
+            "memory": 622592,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 398152114,
+            "memory": 884736,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 444103600,
+            "memory": 618496,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 389959189,
+            "memory": 864256,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 174891361,
+            "memory": 589824,
+            "msg": "points 0.5168 Correct guess N. Ratio: 0.5168\n",
+            "scoreRatio": 0.5168
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 414335764,
+            "memory": 843776,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 417958897,
+            "memory": 774144,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 383636410,
+            "memory": 524288,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 389122751,
+            "memory": 622592,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 418615074,
+            "memory": 786432,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 370225989,
+            "memory": 630784,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 364523574,
+            "memory": 778240,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 339512931,
+            "memory": 778240,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 388378060,
+            "memory": 860160,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 37607804,
+            "memory": 786432,
+            "msg": "points 0.8876 Correct guess N. Ratio: 0.8876\n",
+            "scoreRatio": 0.8876
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 380184503,
+            "memory": 602112,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 18585495,
+            "memory": 552960,
+            "msg": "points 0.9578 Correct guess Y. Ratio: 0.9578\n",
+            "scoreRatio": 0.9578
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 364424636,
+            "memory": 593920,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 52344978,
+            "memory": 585728,
+            "msg": "points 0.8592 Correct guess Y. Ratio: 0.8592\n",
+            "scoreRatio": 0.8592
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 384638623,
+            "memory": 1044480,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 353397999,
+            "memory": 778240,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 346253505,
+            "memory": 868352,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 321135836,
+            "memory": 778240,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 326110803,
+            "memory": 856064,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 149711395,
+            "memory": 593920,
+            "msg": "points 0.5306 Correct guess Y. Ratio: 0.5306\n",
+            "scoreRatio": 0.5306
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 389555255,
+            "memory": 864256,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 115942550,
+            "memory": 598016,
+            "msg": "points 0.7028 Correct guess Y. Ratio: 0.7028\n",
+            "scoreRatio": 0.7028
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 43007935,
+            "memory": 593920,
+            "msg": "points 0.8942 Correct guess Y. Ratio: 0.8942\n",
+            "scoreRatio": 0.8942
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 389024248,
+            "memory": 847872,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 373691429,
+            "memory": 872448,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 441752585,
+            "memory": 847872,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 444666711,
+            "memory": 610304,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 510828300,
+            "memory": 1056768,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 476676440,
+            "memory": 811008,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 387099511,
+            "memory": 860160,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 387378936,
+            "memory": 778240,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 442409664,
+            "memory": 610304,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 353096214,
+            "memory": 602112,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 400689823,
+            "memory": 856064,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 396863234,
+            "memory": 839680,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 384258626,
+            "memory": 598016,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 146191981,
+            "memory": 524288,
+            "msg": "points 0.5838 Correct guess Y. Ratio: 0.5838\n",
+            "scoreRatio": 0.5838
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 333454130,
+            "memory": 1040384,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 349653103,
+            "memory": 593920,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 350017611,
+            "memory": 589824,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 64622943,
+            "memory": 589824,
+            "msg": "points 0.8106 Correct guess Y. Ratio: 0.8106\n",
+            "scoreRatio": 0.8106
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 41203691,
+            "memory": 524288,
+            "msg": "points 0.8942 Correct guess Y. Ratio: 0.8942\n",
+            "scoreRatio": 0.8942
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 365560590,
+            "memory": 847872,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 371863583,
+            "memory": 618496,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 170513969,
+            "memory": 585728,
+            "msg": "points 0.5306 Correct guess Y. Ratio: 0.5306\n",
+            "scoreRatio": 0.5306
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 356321997,
+            "memory": 524288,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 118960093,
+            "memory": 577536,
+            "msg": "points 0.6692 Correct guess Y. Ratio: 0.6692\n",
+            "scoreRatio": 0.6692
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 425424593,
+            "memory": 835584,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 352339085,
+            "memory": 1114112,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 401115417,
+            "memory": 610304,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 381981176,
+            "memory": 778240,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 426438782,
+            "memory": 843776,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 105356116,
+            "memory": 778240,
+            "msg": "points 0.7242 Correct guess Y. Ratio: 0.7242\n",
+            "scoreRatio": 0.7242
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 378389525,
+            "memory": 868352,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 280240212,
+            "memory": 786432,
+            "msg": "points 0.2688 Correct guess Y. Ratio: 0.2688\n",
+            "scoreRatio": 0.2688
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 353466999,
+            "memory": 835584,
+            "msg": "points 0.1808 Correct guess Y. Ratio: 0.1808\n",
+            "scoreRatio": 0.1808
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 121483266,
+            "memory": 786432,
+            "msg": "points 0.6918 Correct guess Y. Ratio: 0.6918\n",
+            "scoreRatio": 0.6918
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 414957064,
+            "memory": 880640,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 426236207,
+            "memory": 1081344,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 404493430,
+            "memory": 876544,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 450735014,
+            "memory": 868352,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 370934088,
+            "memory": 577536,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 405284234,
+            "memory": 618496,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 375614739,
+            "memory": 589824,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 372612937,
+            "memory": 593920,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 394043416,
+            "memory": 864256,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 396998128,
+            "memory": 876544,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 428087981,
+            "memory": 589824,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 161229183,
+            "memory": 593920,
+            "msg": "points 0.5708 Correct guess Y. Ratio: 0.5708\n",
+            "scoreRatio": 0.5708
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 380224682,
+            "memory": 1134592,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 370563921,
+            "memory": 786432,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 350073186,
+            "memory": 778240,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 313928454,
+            "memory": 847872,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 331686547,
+            "memory": 860160,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 310330894,
+            "memory": 606208,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 162116251,
+            "memory": 585728,
+            "msg": "points 0.4448 Correct guess Y. Ratio: 0.4448\n",
+            "scoreRatio": 0.4448
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 170603857,
+            "memory": 585728,
+            "msg": "points 0.4448 Correct guess Y. Ratio: 0.4448\n",
+            "scoreRatio": 0.4448
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 350786634,
+            "memory": 598016,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 379428838,
+            "memory": 778240,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 375413909,
+            "memory": 847872,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 340059413,
+            "memory": 856064,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 347197069,
+            "memory": 782336,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 363394949,
+            "memory": 864256,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 313397054,
+            "memory": 860160,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 20056718,
+            "memory": 524288,
+            "msg": "points 0.9398 Correct guess Y. Ratio: 0.9398\n",
+            "scoreRatio": 0.9398
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 335133313,
+            "memory": 585728,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 362126414,
+            "memory": 778240,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 321047880,
+            "memory": 856064,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 65239900,
+            "memory": 524288,
+            "msg": "points 0.8276 Correct guess Y. Ratio: 0.8276\n",
+            "scoreRatio": 0.8276
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 339366770,
+            "memory": 839680,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 335880310,
+            "memory": 876544,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 365130721,
+            "memory": 856064,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        }
+    ]
+}

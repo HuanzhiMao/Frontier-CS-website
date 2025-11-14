@@ -1,0 +1,80 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 9,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5267082,
+            "memory": 524288,
+            "msg": "points 0.4150943396 Correct answer. s1=22, s2=30. Ratio: 0.4151\n",
+            "scoreRatio": 0.4151
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3426877,
+            "memory": 524288,
+            "msg": "points 0.4150943396 Correct answer. s1=22, s2=30. Ratio: 0.4151\n",
+            "scoreRatio": 0.4151
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 343933113,
+            "memory": 573440,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 331988130,
+            "memory": 569344,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 296612526,
+            "memory": 524288,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 53466658,
+            "memory": 638976,
+            "msg": "points 0.0 Wrong answer. s1=1000, s2=0. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 54242522,
+            "memory": 643072,
+            "msg": "points 0.0 Wrong answer. s1=1000, s2=0. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 53912726,
+            "memory": 786432,
+            "msg": "points 0.0 Wrong answer. s1=1000, s2=0. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 54828881,
+            "memory": 552960,
+            "msg": "points 0.0 Wrong answer. s1=1000, s2=0. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        }
+    ]
+}

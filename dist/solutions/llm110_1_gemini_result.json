@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 0,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1424145,
+            "memory": 524288,
+            "msg": "<3>WSL (7893 - ) ERROR: UtilGetPpid:1293: Failed to parse: /proc/1/stat, content: 1 (exe) R 0 0 0 0 -1 4194560 3924 5823727 0 199 205 790 159391 15298 20 0 5 0 77752 1276067840 4438 18446744073709551615 1 1 0 0 0 0 0 16423 2143403736 0 0 0 17 7 0 0 0 0 0 0 0 0 0 0 0 0 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1497077,
+            "memory": 524288,
+            "msg": "<3>WSL (7895 - ) ERROR: UtilGetPpid:1293: Failed to parse: /proc/1/stat, content: 1 (exe) S 0 0 0 0 -1 4194560 3929 5823954 0 199 206 790 159391 15298 20 0 5 0 77752 1276067840 4438 18446744073709551615 1 1 0 0 0 0 0 16423 2143403736 0 0 0 17 7 0 0 0 0 0 0 0 0 0 0 0 0 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1441243,
+            "memory": 524288,
+            "msg": "<3>WSL (7897 - ) ERROR: UtilGetPpid:1293: Failed to parse: /proc/1/stat, content: 1 (exe) S 0 0 0 0 -1 4194560 3930 5824182 0 199 206 790 159391 15298 20 0 5 0 77752 1276067840 4438 18446744073709551615 1 1 0 0 0 0 0 16423 2143403736 0 0 0 17 7 0 0 0 0 0 0 0 0 0 0 0 0 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2262277,
+            "memory": 524288,
+            "msg": "<3>WSL (7899 - ) ERROR: UtilGetPpid:1293: Failed to parse: /proc/1/stat, content: 1 (exe) S 0 0 0 0 -1 4194560 3932 5824406 0 199 206 790 159391 15298 20 0 5 0 77752 1276067840 4438 18446744073709551615 1 1 0 0 0 0 0 16423 2143403736 0 0 0 17 7 0 0 0 0 0 0 0 0 0 0 0 0 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1436172,
+            "memory": 528384,
+            "msg": "<3>WSL (7901 - ) ERROR: UtilGetPpid:1293: Failed to parse: /proc/1/stat, content: 1 (exe) S 0 0 0 0 -1 4194560 3932 5824629 0 199 206 791 159391 15298 20 0 5 0 77752 1276067840 4438 18446744073709551615 1 1 0 0 0 0 0 16423 2143403736 0 0 0 17 7 0 0 0 0 0 0 0 0 0 0 0 0 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1697720,
+            "memory": 524288,
+            "msg": "<3>WSL (7903 - ) ERROR: UtilGetPpid:1293: Failed to parse: /proc/1/stat, content: 1 (exe) S 0 0 0 0 -1 4194560 3932 5824855 0 199 206 791 159391 15299 20 0 5 0 77752 1276067840 4438 18446744073709551615 1 1 0 0 0 0 0 16423 2143403736 0 0 0 17 7 0 0 0 0 0 0 0 0 0 0 0 0 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1705238,
+            "memory": 573440,
+            "msg": "<3>WSL (7905 - ) ERROR: UtilGetPpid:1293: Failed to parse: /proc/1/stat, content: 1 (exe) S 0 0 0 0 -1 4194560 3932 5825081 0 199 206 791 159391 15299 20 0 5 0 77752 1276067840 4438 18446744073709551615 1 1 0 0 0 0 0 16423 2143403736 0 0 0 17 7 0 0 0 0 0 0 0 0 0 0 0 0 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1303954,
+            "memory": 524288,
+            "msg": "<3>WSL (7907 - ) ERROR: UtilGetPpid:1293: Failed to parse: /proc/1/stat, content: 1 (exe) S 0 0 0 0 -1 4194560 3935 5825307 0 199 206 791 159391 15299 20 0 5 0 77752 1276067840 4438 18446744073709551615 1 1 0 0 0 0 0 16423 2143403736 0 0 0 17 7 0 0 0 0 0 0 0 0 0 0 0 0 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1311211,
+            "memory": 524288,
+            "msg": "<3>WSL (7909 - ) ERROR: UtilGetPpid:1293: Failed to parse: /proc/1/stat, content: 1 (exe) S 0 0 0 0 -1 4194560 3935 5825532 0 199 206 792 159391 15299 20 0 5 0 77752 1276067840 4438 18446744073709551615 1 1 0 0 0 0 0 16423 2143403736 0 0 0 17 7 0 0 0 0 0 0 0 0 0 0 0 0 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1555153,
+            "memory": 524288,
+            "msg": "<3>WSL (7911 - ) ERROR: UtilGetPpid:1293: Failed to parse: /proc/1/stat, content: 1 (exe) S 0 0 0 0 -1 4194560 3936 5825757 0 199 206 792 159391 15299 20 0 5 0 77752 1276067840 4438 18446744073709551615 1 1 0 0 0 0 0 16423 2143403736 0 0 0 17 7 0 0 0 0 0 0 0 0 0 0 0 0 0\n",
+            "scoreRatio": 0
+        }
+    ]
+}

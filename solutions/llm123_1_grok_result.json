@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 77,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 50549584,
+            "memory": 2461696,
+            "msg": "points 1.0 Correct guess with 50 questions. Exceeded expectations. Ratio: 1.0000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 49045467,
+            "memory": 2404352,
+            "msg": "points 1.0 Correct guess with 52 questions. Exceeded expectations. Ratio: 1.0000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 51688906,
+            "memory": 2400256,
+            "msg": "points 0.6666666667 Correct guess in 51 questions. Ratio: 0.6667\n",
+            "scoreRatio": 0.6667
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 48479943,
+            "memory": 2453504,
+            "msg": "points 1.0 Correct guess with 50 questions. Exceeded expectations. Ratio: 1.0000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 50232250,
+            "memory": 2400256,
+            "msg": "points 0.5 Correct guess in 52 questions. Ratio: 0.5000\n",
+            "scoreRatio": 0.5
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 50087510,
+            "memory": 2396160,
+            "msg": "points 1.0 Correct guess with 52 questions. Exceeded expectations. Ratio: 1.0000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 48516293,
+            "memory": 2392064,
+            "msg": "points 1.0 Correct guess with 51 questions. Exceeded expectations. Ratio: 1.0000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 47706495,
+            "memory": 2404352,
+            "msg": "points 1.0 Correct guess with 52 questions. Exceeded expectations. Ratio: 1.0000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 49394030,
+            "memory": 2396160,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 49489608,
+            "memory": 2383872,
+            "msg": "points 0.5 Correct guess in 52 questions. Ratio: 0.5000\n",
+            "scoreRatio": 0.5
+        }
+    ]
+}

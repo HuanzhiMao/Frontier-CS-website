@@ -1,0 +1,112 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 0,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 57387904,
+            "memory": 1921024,
+            "msg": "wrong answer Claimed minimum steps 33 does not match actual 35\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 9641138,
+            "memory": 1048576,
+            "msg": "wrong answer Claimed minimum steps 10 does not match actual 12\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3613935,
+            "memory": 786432,
+            "msg": "wrong answer Claimed minimum steps 5 does not match actual 7\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1124447,
+            "memory": 524288,
+            "msg": "wrong answer Claimed minimum steps 1 does not match actual 3\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 401484778,
+            "memory": 5730304,
+            "msg": "wrong answer Claimed minimum steps 31 does not match actual 33\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1531756510,
+            "memory": 11792384,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 70169873,
+            "memory": 1835008,
+            "msg": "wrong answer Claimed minimum steps 23 does not match actual 25\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 57821220,
+            "memory": 2097152,
+            "msg": "wrong answer Claimed minimum steps 17 does not match actual 19\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 36242749,
+            "memory": 1966080,
+            "msg": "wrong answer Claimed minimum steps 20 does not match actual 22\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 35849045,
+            "memory": 1564672,
+            "msg": "wrong answer Claimed minimum steps 23 does not match actual 25\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 111634617,
+            "memory": 2686976,
+            "msg": "wrong answer Claimed minimum steps 30 does not match actual 32\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 91753317,
+            "memory": 2359296,
+            "msg": "wrong answer Claimed minimum steps 31 does not match actual 33\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 653390395,
+            "memory": 5758976,
+            "msg": "wrong answer Claimed minimum steps 39 does not match actual 41\n",
+            "scoreRatio": 0
+        }
+    ]
+}

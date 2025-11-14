@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 55,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 15616343,
+            "memory": 770048,
+            "msg": "points 0.5830078125 Ratio: 0.583008\n",
+            "scoreRatio": 0.583008
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 10252785,
+            "memory": 524288,
+            "msg": "points 0.7109375 Ratio: 0.710938\n",
+            "scoreRatio": 0.710938
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2635445,
+            "memory": 524288,
+            "msg": "points 0.9638671875 Ratio: 0.963867\n",
+            "scoreRatio": 0.963867
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 9927298,
+            "memory": 524288,
+            "msg": "points 0.69140625 Ratio: 0.691406\n",
+            "scoreRatio": 0.691406
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3347188,
+            "memory": 524288,
+            "msg": "points 0.9150390625 Ratio: 0.915039\n",
+            "scoreRatio": 0.915039
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1958639,
+            "memory": 524288,
+            "msg": "wrong answer Wrong answer. Expected (13172,79580,10798) but got (13172,60798,10798)\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3877561,
+            "memory": 520192,
+            "msg": "wrong answer Wrong answer. Expected (31946,28155,14432) but got (31946,35567,14432)\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 7747158,
+            "memory": 516096,
+            "msg": "points 0.7919921875 Ratio: 0.791992\n",
+            "scoreRatio": 0.791992
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 6286091,
+            "memory": 524288,
+            "msg": "points 0.8115234375 Ratio: 0.811523\n",
+            "scoreRatio": 0.811523
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 7449593,
+            "memory": 524288,
+            "msg": "wrong answer Wrong answer. Expected (54540,23220,11737) but got (54540,38262,11737)\n",
+            "scoreRatio": 0
+        }
+    ]
+}

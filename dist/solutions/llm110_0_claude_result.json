@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 19,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 27068968,
+            "memory": 524288,
+            "msg": "points 0.1757405925 Valid grid. Your=439 Best=2498 Ratio: 0.17574059\n",
+            "scoreRatio": 0.17574059
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 32019769,
+            "memory": 524288,
+            "msg": "points 0.1936479929 Valid grid. Your=439 Best=2267 Ratio: 0.19364799\n",
+            "scoreRatio": 0.19364799
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 27571020,
+            "memory": 561152,
+            "msg": "points 0.184067086 Valid grid. Your=439 Best=2385 Ratio: 0.18406709\n",
+            "scoreRatio": 0.18406709
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 30242794,
+            "memory": 552960,
+            "msg": "points 0.2056206089 Valid grid. Your=439 Best=2135 Ratio: 0.20562061\n",
+            "scoreRatio": 0.20562061
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 38073909,
+            "memory": 524288,
+            "msg": "points 0.2027713626 Valid grid. Your=439 Best=2165 Ratio: 0.20277136\n",
+            "scoreRatio": 0.20277136
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 30628941,
+            "memory": 548864,
+            "msg": "points 0.1996361983 Valid grid. Your=439 Best=2199 Ratio: 0.19963620\n",
+            "scoreRatio": 0.1996362
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 25915948,
+            "memory": 552960,
+            "msg": "points 0.1894691411 Valid grid. Your=439 Best=2317 Ratio: 0.18946914\n",
+            "scoreRatio": 0.18946914
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 29270119,
+            "memory": 360448,
+            "msg": "points 0.1962449709 Valid grid. Your=439 Best=2237 Ratio: 0.19624497\n",
+            "scoreRatio": 0.19624497
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 23105525,
+            "memory": 524288,
+            "msg": "points 0.1938189845 Valid grid. Your=439 Best=2265 Ratio: 0.19381898\n",
+            "scoreRatio": 0.19381898
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 28249130,
+            "memory": 524288,
+            "msg": "points 0.1845313157 Valid grid. Your=439 Best=2379 Ratio: 0.18453132\n",
+            "scoreRatio": 0.18453132
+        }
+    ]
+}

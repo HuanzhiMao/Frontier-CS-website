@@ -1,0 +1,184 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 27,
+    "cases": [
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 1115600,
+            "memory": 524288,
+            "msg": "ok Test 0.\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 1043795,
+            "memory": 524288,
+            "msg": "ok Test 0.\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 1080373,
+            "memory": 524288,
+            "msg": "ok Test 0.\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 1187278,
+            "memory": 524288,
+            "msg": "ok Test 0.\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 796550,
+            "memory": 524288,
+            "msg": "ok Test 0.\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 879865,
+            "memory": 524288,
+            "msg": "ok Test 0.\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 974896,
+            "memory": 524288,
+            "msg": "wrong answer WA on Test case 2. abcabbabcScbabb 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 817733,
+            "memory": 524288,
+            "msg": "wrong answer WA on Test case 1. ababaccbabSabacab 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 886333,
+            "memory": 524288,
+            "msg": "wrong answer WA on Test case 5. acbcSabcabacbc 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 449780,
+            "memory": 524288,
+            "msg": "wrong answer WA on Test case 3. caScacbacbb 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 345094,
+            "memory": 524288,
+            "msg": "wrong answer WA on Test case 1. cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccaScccccccccb 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 975768,
+            "memory": 524288,
+            "msg": "wrong answer WA on Test case 1. cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccaScccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccb 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 876904,
+            "memory": 524288,
+            "msg": "wrong answer WA on Test case 2. aSb 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 938977,
+            "memory": 528384,
+            "msg": "wrong answer WA on Test case 1. bcbcSaacab 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 978295,
+            "memory": 524288,
+            "msg": "wrong answer WA on Test case 1. ccbabSabccaa 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 987319,
+            "memory": 524288,
+            "msg": "wrong answer WA on Test case 1. aacbcSaccbab 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 836228,
+            "memory": 528384,
+            "msg": "wrong answer WA on Test case 1. baccaaSaaabac 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2439470,
+            "memory": 524288,
+            "msg": "wrong answer WA on Test case 1. abcacaSaa 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 767869,
+            "memory": 524288,
+            "msg": "wrong answer WA on Test case 1. bbcbabSabcab 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1035002,
+            "memory": 524288,
+            "msg": "wrong answer WA on Test case 1. cbccbbSacccaa 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 908724,
+            "memory": 524288,
+            "msg": "wrong answer WA on Test case 1. accaacSaaacab 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 830698,
+            "memory": 524288,
+            "msg": "wrong answer WA on Test case 1. bccbbcSababac 0\n",
+            "scoreRatio": 0
+        }
+    ]
+}

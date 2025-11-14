@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 13,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 337788162,
+            "memory": 15106048,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 863679603,
+            "memory": 15421440,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 356835867,
+            "memory": 15339520,
+            "msg": "points 0.3333333333 Correct guess in 52 questions. Ratio: 0.3333\n",
+            "scoreRatio": 0.3333
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 188932358,
+            "memory": 15028224,
+            "msg": "points 1.0 Correct guess with 41 questions. Exceeded expectations. Ratio: 1.0000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 236572539,
+            "memory": 15458304,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 374199060,
+            "memory": 15056896,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 325065047,
+            "memory": 15138816,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 478991159,
+            "memory": 15179776,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 405297782,
+            "memory": 15347712,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 440344320,
+            "memory": 15101952,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        }
+    ]
+}

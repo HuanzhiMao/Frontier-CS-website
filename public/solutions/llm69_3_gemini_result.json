@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 0,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 709678615,
+            "memory": 35647488,
+            "msg": "points 0.0 wrong answer\n - Query 1: u=117766912 out of range [1,1000]\n - Query 1: v=-2001784556 out of range [1,1000]\n - Query 2: wrong indices and wrong power; expected (2,51) with p=317, but (61,1) gives 314.\n - Query 3: wrong indices and wrong power; expected (3,88) with p=629, but (76,4) gives 623.\n - Query 4: wrong indices and wrong power; expected (4,125) with p=1015, but (4,41) gives 343.\n - Query 5: wrong indices and wrong power; expected (5,162) with p=1475, but (19,46) gives 1103.\n - Query 6: u=117766912 out of range [1,1000]\n - Query 6: v=-2001784556 out of range [1,1000]\n - Query 7: wrong indices and wrong power; expected (7,236) with p=2617, but (521,1) gives 2614.\n - Query 8: wrong indices and wrong power; expected (8,273) with p=3299, but (251,9) gives 3288.\n - Query 9: u=117766912 out of range [1,1000]\n - Query 9: v=-2001784556 out of range [1,1000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 671009427,
+            "memory": 35504128,
+            "msg": "points 0.0 wrong answer\n - Query 1: u=-862265088 out of range [1,999]\n - Query 1: v=-1686337870 out of range [1,999]\n - Query 2: wrong indices and wrong power; expected (2,51) with p=317, but (61,1) gives 314.\n - Query 3: wrong indices and wrong power; expected (3,88) with p=629, but (76,4) gives 623.\n - Query 4: wrong indices and wrong power; expected (4,125) with p=1015, but (4,41) gives 343.\n - Query 5: wrong indices and wrong power; expected (5,162) with p=1475, but (19,46) gives 1103.\n - Query 6: u=-862265088 out of range [1,999]\n - Query 6: v=-1686337870 out of range [1,999]\n - Query 7: wrong indices and wrong power; expected (7,236) with p=2617, but (521,1) gives 2614.\n - Query 8: wrong indices and wrong power; expected (8,273) with p=3299, but (251,9) gives 3288.\n - Query 9: u=-862265088 out of range [1,999]\n - Query 9: v=-1686337870 out of range [1,999]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 689586400,
+            "memory": 35622912,
+            "msg": "points 0.0 wrong answer\n - Query 1: u=263377920 out of range [1,998]\n - Query 1: v=196128297 out of range [1,998]\n - Query 2: wrong indices and wrong power; expected (2,51) with p=317, but (61,1) gives 314.\n - Query 3: wrong indices and wrong power; expected (3,88) with p=629, but (76,4) gives 623.\n - Query 4: wrong indices and wrong power; expected (4,125) with p=1015, but (4,41) gives 343.\n - Query 5: wrong indices and wrong power; expected (5,162) with p=1475, but (19,46) gives 1103.\n - Query 6: u=263377920 out of range [1,998]\n - Query 6: v=196128297 out of range [1,998]\n - Query 7: wrong indices and wrong power; expected (7,236) with p=2617, but (521,1) gives 2614.\n - Query 8: wrong indices and wrong power; expected (8,273) with p=3299, but (251,9) gives 3288.\n - Query 9: u=263377920 out of range [1,998]\n - Query 9: v=196128297 out of range [1,998]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 725195809,
+            "memory": 35364864,
+            "msg": "points 0.0 wrong answer\n - Query 1: u=734125568 out of range [1,997]\n - Query 1: v=743795228 out of range [1,997]\n - Query 2: wrong indices and wrong power; expected (2,51) with p=317, but (61,1) gives 314.\n - Query 3: wrong indices and wrong power; expected (3,88) with p=629, but (76,4) gives 623.\n - Query 4: wrong indices and wrong power; expected (4,125) with p=1015, but (4,41) gives 343.\n - Query 5: wrong indices and wrong power; expected (5,162) with p=1475, but (19,46) gives 1103.\n - Query 6: u=734125568 out of range [1,997]\n - Query 6: v=743795228 out of range [1,997]\n - Query 7: wrong indices and wrong power; expected (7,236) with p=2617, but (521,1) gives 2614.\n - Query 8: wrong indices and wrong power; expected (8,273) with p=3299, but (251,9) gives 3288.\n - Query 9: u=734125568 out of range [1,997]\n - Query 9: v=743795228 out of range [1,997]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 662281373,
+            "memory": 35364864,
+            "msg": "points 0.0 wrong answer\n - Query 1: u=-280933120 out of range [1,996]\n - Query 1: v=1753828440 out of range [1,996]\n - Query 2: wrong indices and wrong power; expected (2,51) with p=317, but (61,1) gives 314.\n - Query 3: wrong indices and wrong power; expected (3,88) with p=629, but (76,4) gives 623.\n - Query 4: wrong indices and wrong power; expected (4,125) with p=1015, but (4,41) gives 343.\n - Query 5: wrong indices and wrong power; expected (5,162) with p=1475, but (19,46) gives 1103.\n - Query 6: u=-280933120 out of range [1,996]\n - Query 6: v=1753828440 out of range [1,996]\n - Query 7: wrong indices and wrong power; expected (7,236) with p=2617, but (521,1) gives 2614.\n - Query 8: wrong indices and wrong power; expected (8,273) with p=3299, but (251,9) gives 3288.\n - Query 9: u=-280933120 out of range [1,996]\n - Query 9: v=1753828440 out of range [1,996]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 620633518,
+            "memory": 35356672,
+            "msg": "points 0.0 wrong answer\n - Query 1: u=-1888166656 out of range [1,995]\n - Query 1: v=1583588318 out of range [1,995]\n - Query 2: wrong indices and wrong power; expected (2,51) with p=317, but (61,1) gives 314.\n - Query 3: wrong indices and wrong power; expected (3,88) with p=629, but (76,4) gives 623.\n - Query 4: wrong indices and wrong power; expected (4,125) with p=1015, but (4,41) gives 343.\n - Query 5: wrong indices and wrong power; expected (5,162) with p=1475, but (19,46) gives 1103.\n - Query 6: u=-1888166656 out of range [1,995]\n - Query 6: v=1583588318 out of range [1,995]\n - Query 7: wrong indices and wrong power; expected (7,236) with p=2617, but (521,1) gives 2614.\n - Query 8: wrong indices and wrong power; expected (8,273) with p=3299, but (251,9) gives 3288.\n - Query 9: u=-1888166656 out of range [1,995]\n - Query 9: v=1583588318 out of range [1,995]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 615197958,
+            "memory": 35115008,
+            "msg": "points 0.0 wrong answer\n - Query 1: u=-424816896 out of range [1,994]\n - Query 1: v=-1442992128 out of range [1,994]\n - Query 2: wrong indices and wrong power; expected (2,51) with p=317, but (61,1) gives 314.\n - Query 3: wrong indices and wrong power; expected (3,88) with p=629, but (76,4) gives 623.\n - Query 4: wrong indices and wrong power; expected (4,125) with p=1015, but (4,41) gives 343.\n - Query 5: wrong indices and wrong power; expected (5,162) with p=1475, but (19,46) gives 1103.\n - Query 6: u=-424816896 out of range [1,994]\n - Query 6: v=-1442992128 out of range [1,994]\n - Query 7: wrong indices and wrong power; expected (7,236) with p=2617, but (521,1) gives 2614.\n - Query 8: wrong indices and wrong power; expected (8,273) with p=3299, but (251,9) gives 3288.\n - Query 9: u=-424816896 out of range [1,994]\n - Query 9: v=-1442992128 out of range [1,994]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 663137066,
+            "memory": 35074048,
+            "msg": "points 0.0 wrong answer\n - Query 1: u=333889792 out of range [1,993]\n - Query 1: v=445789044 out of range [1,993]\n - Query 2: wrong indices and wrong power; expected (2,51) with p=317, but (61,1) gives 314.\n - Query 3: wrong indices and wrong power; expected (3,88) with p=629, but (76,4) gives 623.\n - Query 4: wrong indices and wrong power; expected (4,125) with p=1015, but (4,41) gives 343.\n - Query 5: wrong indices and wrong power; expected (5,162) with p=1475, but (19,46) gives 1103.\n - Query 6: u=333889792 out of range [1,993]\n - Query 6: v=445789044 out of range [1,993]\n - Query 7: wrong indices and wrong power; expected (7,236) with p=2617, but (521,1) gives 2614.\n - Query 8: wrong indices and wrong power; expected (8,273) with p=3299, but (251,9) gives 3288.\n - Query 9: u=333889792 out of range [1,993]\n - Query 9: v=445789044 out of range [1,993]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 652503758,
+            "memory": 35000320,
+            "msg": "points 0.0 wrong answer\n - Query 1: u=399255040 out of range [1,992]\n - Query 1: v=1323416719 out of range [1,992]\n - Query 2: wrong indices and wrong power; expected (2,51) with p=317, but (61,1) gives 314.\n - Query 3: wrong indices and wrong power; expected (3,88) with p=629, but (76,4) gives 623.\n - Query 4: wrong indices and wrong power; expected (4,125) with p=1015, but (4,41) gives 343.\n - Query 5: wrong indices and wrong power; expected (5,162) with p=1475, but (19,46) gives 1103.\n - Query 6: u=399255040 out of range [1,992]\n - Query 6: v=1323416719 out of range [1,992]\n - Query 7: wrong indices and wrong power; expected (7,236) with p=2617, but (521,1) gives 2614.\n - Query 8: wrong indices and wrong power; expected (8,273) with p=3299, but (251,9) gives 3288.\n - Query 9: u=399255040 out of range [1,992]\n - Query 9: v=1323416719 out of range [1,992]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 618747254,
+            "memory": 34856960,
+            "msg": "points 0.0 wrong answer\n - Query 1: u=-1233534976 out of range [1,991]\n - Query 1: v=1859863471 out of range [1,991]\n - Query 2: wrong indices and wrong power; expected (2,51) with p=317, but (61,1) gives 314.\n - Query 3: wrong indices and wrong power; expected (3,88) with p=629, but (76,4) gives 623.\n - Query 4: wrong indices and wrong power; expected (4,125) with p=1015, but (4,41) gives 343.\n - Query 5: wrong indices and wrong power; expected (5,162) with p=1475, but (19,46) gives 1103.\n - Query 6: u=-1233534976 out of range [1,991]\n - Query 6: v=1859863471 out of range [1,991]\n - Query 7: wrong indices and wrong power; expected (7,236) with p=2617, but (521,1) gives 2614.\n - Query 8: wrong indices and wrong power; expected (8,273) with p=3299, but (251,9) gives 3288.\n - Query 9: u=-1233534976 out of range [1,991]\n - Query 9: v=1859863471 out of range [1,991]\n",
+            "scoreRatio": 0
+        }
+    ]
+}

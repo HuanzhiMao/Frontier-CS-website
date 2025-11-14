@@ -1,0 +1,808 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 0,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 579869916,
+            "memory": 1564672,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 573015018,
+            "memory": 1941504,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 595803427,
+            "memory": 1769472,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 683298069,
+            "memory": 2052096,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 640863057,
+            "memory": 1912832,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 698893326,
+            "memory": 1679360,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 688709188,
+            "memory": 1564672,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 738142295,
+            "memory": 1679360,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 666649055,
+            "memory": 1798144,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 622363748,
+            "memory": 1564672,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 674208019,
+            "memory": 1716224,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 689073528,
+            "memory": 1638400,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 727504623,
+            "memory": 1597440,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 746282065,
+            "memory": 1650688,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 776423648,
+            "memory": 1912832,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 789084057,
+            "memory": 1810432,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 717477508,
+            "memory": 1564672,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 692649363,
+            "memory": 1851392,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 668879171,
+            "memory": 1564672,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 722900648,
+            "memory": 1564672,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 837687880,
+            "memory": 1409024,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 746566820,
+            "memory": 1933312,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 676775049,
+            "memory": 1310720,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 663656112,
+            "memory": 1826816,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 666618456,
+            "memory": 1773568,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 573994456,
+            "memory": 1863680,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 575726155,
+            "memory": 1826816,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 587583557,
+            "memory": 1658880,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 585894026,
+            "memory": 1654784,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 565705447,
+            "memory": 1646592,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 625763829,
+            "memory": 1662976,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 584812355,
+            "memory": 1564672,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 611281504,
+            "memory": 1658880,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 590921074,
+            "memory": 1564672,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 576641879,
+            "memory": 1662976,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 683541662,
+            "memory": 1404928,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 491433641,
+            "memory": 1384448,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 580503718,
+            "memory": 1830912,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 608073661,
+            "memory": 1929216,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 581421143,
+            "memory": 1818624,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 607988349,
+            "memory": 1564672,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 617664589,
+            "memory": 1667072,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 610774251,
+            "memory": 1654784,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 622185887,
+            "memory": 1564672,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 590308133,
+            "memory": 1933312,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 574579048,
+            "memory": 1654784,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 641397914,
+            "memory": 1564672,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 607378065,
+            "memory": 1310720,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 580367007,
+            "memory": 1564672,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 605277373,
+            "memory": 1667072,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 639574480,
+            "memory": 1671168,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 628519519,
+            "memory": 1564672,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 661329369,
+            "memory": 1662976,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 608361156,
+            "memory": 1662976,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 617216621,
+            "memory": 1675264,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 642678858,
+            "memory": 1683456,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 588979476,
+            "memory": 1667072,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 608956041,
+            "memory": 1409024,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 623577717,
+            "memory": 1388544,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 631776308,
+            "memory": 1667072,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 593458460,
+            "memory": 1564672,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 690942604,
+            "memory": 1671168,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 599881676,
+            "memory": 1564672,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 669180763,
+            "memory": 1564672,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 616046463,
+            "memory": 1564672,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 581881010,
+            "memory": 1564672,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 601886073,
+            "memory": 1564672,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 587451951,
+            "memory": 1658880,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 627505665,
+            "memory": 1736704,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 637843465,
+            "memory": 1671168,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 571378554,
+            "memory": 1654784,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 651551254,
+            "memory": 1728512,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 572438710,
+            "memory": 1310720,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 599595639,
+            "memory": 1593344,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 617970334,
+            "memory": 1413120,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 595108651,
+            "memory": 1564672,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 595374763,
+            "memory": 1486848,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 601166595,
+            "memory": 1708032,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 574003892,
+            "memory": 1658880,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 465035913,
+            "memory": 1642496,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 620961802,
+            "memory": 1654784,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 593021011,
+            "memory": 1425408,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 594740983,
+            "memory": 1413120,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 582745820,
+            "memory": 1310720,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 583335758,
+            "memory": 1662976,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 585703640,
+            "memory": 1826816,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 656186279,
+            "memory": 1568768,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 628690485,
+            "memory": 1564672,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 644062095,
+            "memory": 1826816,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 618794382,
+            "memory": 1564672,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 598657222,
+            "memory": 1675264,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 613700699,
+            "memory": 1826816,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 716102137,
+            "memory": 1880064,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 660006409,
+            "memory": 1400832,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 610160312,
+            "memory": 1564672,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 616995676,
+            "memory": 1495040,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 662489488,
+            "memory": 1409024,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 608095313,
+            "memory": 1658880,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 627510135,
+            "memory": 1564672,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 594125603,
+            "memory": 1658880,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        }
+    ]
+}

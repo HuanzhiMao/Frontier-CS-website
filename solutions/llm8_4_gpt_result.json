@@ -1,0 +1,808 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 1,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 907521,
+            "memory": 524288,
+            "msg": "points 0.998046875 Correct Solution. Ratio: 0.9980\n",
+            "scoreRatio": 0.998
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 918387,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 820381,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1169830,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1217771,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 733082,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1210087,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1197044,
+            "memory": 749568,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 764657,
+            "memory": 528384,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 945967,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 933426,
+            "memory": 528384,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1166732,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1112101,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 848726,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1031002,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1358204,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 695796,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 872270,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1068067,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 949700,
+            "memory": 528384,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 923486,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 849898,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 900719,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1090115,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 582040,
+            "memory": 790528,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 981988,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1180001,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 775815,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 887328,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 742604,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1004477,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1055584,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1059869,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 997837,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1068726,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 797467,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1030657,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 911841,
+            "memory": 786432,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1003810,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 941973,
+            "memory": 503808,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 712432,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 794605,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2232721,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 977339,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 859616,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 911776,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1549210,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 935024,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 868832,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1042360,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 884084,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 751776,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 849543,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 891117,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 857190,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 828501,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 987122,
+            "memory": 507904,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1810308,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3688177,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1130379,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 843602,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 749166,
+            "memory": 528384,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 899790,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1359601,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1070298,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1188741,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 323620,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 936280,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1048098,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1230656,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 866483,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 841022,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 771428,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 948187,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 916968,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1028491,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1472085,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 962274,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 818688,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 926535,
+            "memory": 495616,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1212389,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 938226,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 707084,
+            "memory": 786432,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 821832,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 945790,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 848590,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1268242,
+            "memory": 528384,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 995077,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 926291,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 870216,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 828881,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 695770,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 888165,
+            "memory": 552960,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 353200,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 950506,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1432610,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 986188,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 927845,
+            "memory": 528384,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 943067,
+            "memory": 528384,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 978676,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        }
+    ]
+}

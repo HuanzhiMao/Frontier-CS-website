@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 0,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1035448,
+            "memory": 524288,
+            "msg": "wrong answer Wrong answer n=1000000000, actual=737074096-237074096, guessed=1-3\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 996434,
+            "memory": 524288,
+            "msg": "wrong answer Wrong answer n=1000000000, actual=384757346-884757275, guessed=1-3\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1124082,
+            "memory": 524288,
+            "msg": "wrong answer Wrong answer n=1000000000, actual=746218855-958127951, guessed=1-3\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1229127,
+            "memory": 524288,
+            "msg": "wrong answer Wrong answer n=999999999, actual=218618546-218618548, guessed=1-3\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1336304,
+            "memory": 524288,
+            "msg": "wrong answer Wrong answer n=999999999, actual=688176138-688176182, guessed=1-3\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1061142,
+            "memory": 524288,
+            "msg": "wrong answer Wrong answer n=999999999, actual=662272972-162272973, guessed=1-3\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1248378,
+            "memory": 524288,
+            "msg": "wrong answer Wrong answer n=999999999, actual=756492426-256492492, guessed=1-3\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 876306,
+            "memory": 524288,
+            "msg": "wrong answer Wrong answer n=999999999, actual=8010123-757275006, guessed=1-3\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1518090,
+            "memory": 528384,
+            "msg": "wrong answer Wrong answer n=536870912, actual=351882377-191802725, guessed=1-3\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1368715,
+            "memory": 786432,
+            "msg": "wrong answer Wrong answer n=536870911, actual=448463967-472490939, guessed=1-3\n",
+            "scoreRatio": 0
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+{
+    "status": "error",
+    "error": "Error: compile failed: main.cpp: In lambda function:\nmain.cpp:92:16: error: 'u32' was not declared in this scope\n   92 |         vector<u32> D(Q); // cache D_j for step k\n      |                ^~~\nmain.cpp:92:19: error: template argument 1 is invalid\n   92 |         vector<u32> D(Q); // cache D_j for step k\n      |                   ^\nmain.cpp:92:19: error: template argument 2 is invalid\nmain.cpp:102:18: error: invalid types 'int[int]' for array subscript\n  102 |                 D[j] = (u32)Dj;\n      |                  ^\nmain.cpp:114:33: error: invalid types 'int[int]' for array subscript\n  114 |                     pref[j] += D[j];\n      |                                 ^\nmain.cpp: In lambda function:\nmain.cpp:85:5: warning: control reaches end of non-void function [-Wreturn-type]\n   85 |     };\n      |     ^\n"
+}

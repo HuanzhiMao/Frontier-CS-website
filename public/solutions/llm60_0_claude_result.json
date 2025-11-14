@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 0,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 26383108,
+            "memory": 524288,
+            "msg": "wrong answer Wrong answer. Expected (86944,52292,2657) but got (84293,49631,178)\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 29869716,
+            "memory": 524288,
+            "msg": "wrong answer Wrong answer. Expected (75403,58845,17220) but got (58189,41621,455)\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 19147059,
+            "memory": 524288,
+            "msg": "wrong answer Wrong answer. Expected (27448,69141,20854) but got (99900,48288,0)\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 36101546,
+            "memory": 524288,
+            "msg": "wrong answer Wrong answer. Expected (79591,55996,17502) but got (62095,38490,458)\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 33497593,
+            "memory": 528384,
+            "msg": "wrong answer Wrong answer. Expected (37685,29611,21136) but got (16555,8471,504)\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 18853575,
+            "memory": 552960,
+            "msg": "wrong answer Wrong answer. Expected (13172,79580,10798) but got (99900,68783,0)\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 6461129,
+            "memory": 524288,
+            "msg": "wrong answer Wrong answer. Expected (31946,28155,14432) but got (99900,99900,0)\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 39434640,
+            "memory": 524288,
+            "msg": "wrong answer Wrong answer. Expected (59818,37201,18066) but got (41758,19131,466)\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 33672453,
+            "memory": 786432,
+            "msg": "wrong answer Wrong answer. Expected (52354,53204,14714) but got (37646,38486,420)\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 17422509,
+            "memory": 524288,
+            "msg": "wrong answer Wrong answer. Expected (54540,23220,11737) but got (42809,99895,375)\n",
+            "scoreRatio": 0
+        }
+    ]
+}

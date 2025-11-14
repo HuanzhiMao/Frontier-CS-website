@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 0,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 68127336,
+            "memory": 733184,
+            "msg": "a: main.cpp:43: int main(): Assertion `chosen_c != -1' failed.\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 67817261,
+            "memory": 696320,
+            "msg": "a: main.cpp:43: int main(): Assertion `chosen_c != -1' failed.\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 67491461,
+            "memory": 692224,
+            "msg": "a: main.cpp:43: int main(): Assertion `chosen_c != -1' failed.\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 69812804,
+            "memory": 692224,
+            "msg": "a: main.cpp:43: int main(): Assertion `chosen_c != -1' failed.\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 66551513,
+            "memory": 700416,
+            "msg": "a: main.cpp:43: int main(): Assertion `chosen_c != -1' failed.\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 66562823,
+            "memory": 696320,
+            "msg": "a: main.cpp:43: int main(): Assertion `chosen_c != -1' failed.\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 68736155,
+            "memory": 692224,
+            "msg": "a: main.cpp:43: int main(): Assertion `chosen_c != -1' failed.\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 67385432,
+            "memory": 696320,
+            "msg": "a: main.cpp:43: int main(): Assertion `chosen_c != -1' failed.\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 71267333,
+            "memory": 692224,
+            "msg": "a: main.cpp:43: int main(): Assertion `chosen_c != -1' failed.\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 71468464,
+            "memory": 688128,
+            "msg": "a: main.cpp:43: int main(): Assertion `chosen_c != -1' failed.\n (signal=unknown)",
+            "scoreRatio": 0
+        }
+    ]
+}

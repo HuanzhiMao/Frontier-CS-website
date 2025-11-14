@@ -1,0 +1,808 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 24,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 357543798,
+            "memory": 2437120,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 486488864,
+            "memory": 2322432,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 411397111,
+            "memory": 2445312,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 167285990,
+            "memory": 1003520,
+            "msg": "points 0.516 Correct guess N. Ratio: 0.5160\n",
+            "scoreRatio": 0.516
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 434035255,
+            "memory": 2510848,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 378047178,
+            "memory": 2576384,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 412443730,
+            "memory": 2674688,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 68170034,
+            "memory": 610304,
+            "msg": "points 0.7872 Correct guess N. Ratio: 0.7872\n",
+            "scoreRatio": 0.7872
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 416136724,
+            "memory": 2813952,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 407629676,
+            "memory": 2613248,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 389330313,
+            "memory": 2326528,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 410504530,
+            "memory": 2510848,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 459915073,
+            "memory": 2875392,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 438841676,
+            "memory": 2535424,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 194396696,
+            "memory": 1257472,
+            "msg": "points 0.4798 Correct guess N. Ratio: 0.4798\n",
+            "scoreRatio": 0.4798
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 440509873,
+            "memory": 2203648,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 435876883,
+            "memory": 2637824,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 23939588,
+            "memory": 524288,
+            "msg": "points 0.9182 Correct guess N. Ratio: 0.9182\n",
+            "scoreRatio": 0.9182
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 386189085,
+            "memory": 2506752,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 13593207,
+            "memory": 524288,
+            "msg": "points 0.9588 Correct guess Y. Ratio: 0.9588\n",
+            "scoreRatio": 0.9588
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 286052674,
+            "memory": 1695744,
+            "msg": "points 0.1904 Correct guess Y. Ratio: 0.1904\n",
+            "scoreRatio": 0.1904
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 25558105,
+            "memory": 618496,
+            "msg": "points 0.906 Correct guess Y. Ratio: 0.9060\n",
+            "scoreRatio": 0.906
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 400994760,
+            "memory": 2490368,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 406963265,
+            "memory": 2596864,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 398042006,
+            "memory": 2473984,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 397076261,
+            "memory": 2355200,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 362482068,
+            "memory": 2269184,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 57459857,
+            "memory": 798720,
+            "msg": "points 0.7922 Correct guess Y. Ratio: 0.7922\n",
+            "scoreRatio": 0.7922
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 415654718,
+            "memory": 2818048,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 52411961,
+            "memory": 618496,
+            "msg": "points 0.8442 Correct guess Y. Ratio: 0.8442\n",
+            "scoreRatio": 0.8442
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 21201074,
+            "memory": 598016,
+            "msg": "points 0.9232 Correct guess Y. Ratio: 0.9232\n",
+            "scoreRatio": 0.9232
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 271285070,
+            "memory": 1683456,
+            "msg": "points 0.2316 Correct guess Y. Ratio: 0.2316\n",
+            "scoreRatio": 0.2316
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 344419118,
+            "memory": 2088960,
+            "msg": "points 0.0666 Correct guess Y. Ratio: 0.0666\n",
+            "scoreRatio": 0.0666
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 480132645,
+            "memory": 2232320,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 549181926,
+            "memory": 2535424,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 460140169,
+            "memory": 2654208,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 514240957,
+            "memory": 2764800,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 447275655,
+            "memory": 2064384,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 191661041,
+            "memory": 1277952,
+            "msg": "points 0.5256 Correct guess Y. Ratio: 0.5256\n",
+            "scoreRatio": 0.5256
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 312124386,
+            "memory": 2134016,
+            "msg": "points 0.3126 Correct guess Y. Ratio: 0.3126\n",
+            "scoreRatio": 0.3126
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 495890654,
+            "memory": 2387968,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 459621694,
+            "memory": 2162688,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 391424938,
+            "memory": 2215936,
+            "msg": "points 0.0724 Correct guess Y. Ratio: 0.0724\n",
+            "scoreRatio": 0.0724
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 452866580,
+            "memory": 2146304,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 73470762,
+            "memory": 602112,
+            "msg": "points 0.8078 Correct guess Y. Ratio: 0.8078\n",
+            "scoreRatio": 0.8078
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 189371459,
+            "memory": 1056768,
+            "msg": "points 0.5312 Correct guess Y. Ratio: 0.5312\n",
+            "scoreRatio": 0.5312
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 437460734,
+            "memory": 1806336,
+            "msg": "points 0.1726 Correct guess Y. Ratio: 0.1726\n",
+            "scoreRatio": 0.1726
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 147518315,
+            "memory": 700416,
+            "msg": "points 0.6324 Correct guess Y. Ratio: 0.6324\n",
+            "scoreRatio": 0.6324
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 42695641,
+            "memory": 634880,
+            "msg": "points 0.8846 Correct guess Y. Ratio: 0.8846\n",
+            "scoreRatio": 0.8846
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 27835758,
+            "memory": 593920,
+            "msg": "points 0.923 Correct guess Y. Ratio: 0.9230\n",
+            "scoreRatio": 0.923
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 464545068,
+            "memory": 2371584,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 349616616,
+            "memory": 1691648,
+            "msg": "points 0.1918 Correct guess Y. Ratio: 0.1918\n",
+            "scoreRatio": 0.1918
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 74247993,
+            "memory": 991232,
+            "msg": "points 0.7908 Correct guess Y. Ratio: 0.7908\n",
+            "scoreRatio": 0.7908
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 475239959,
+            "memory": 2424832,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 65203402,
+            "memory": 524288,
+            "msg": "points 0.8342 Correct guess Y. Ratio: 0.8342\n",
+            "scoreRatio": 0.8342
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 433271821,
+            "memory": 2052096,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 371152622,
+            "memory": 1953792,
+            "msg": "points 0.1618 Correct guess Y. Ratio: 0.1618\n",
+            "scoreRatio": 0.1618
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 454975041,
+            "memory": 2097152,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 479827802,
+            "memory": 2371584,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 490319710,
+            "memory": 2859008,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 60444658,
+            "memory": 659456,
+            "msg": "points 0.85 Correct guess Y. Ratio: 0.8500\n",
+            "scoreRatio": 0.85
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 478456258,
+            "memory": 2445312,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 114904199,
+            "memory": 884736,
+            "msg": "points 0.7212 Correct guess Y. Ratio: 0.7212\n",
+            "scoreRatio": 0.7212
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 137709594,
+            "memory": 1048576,
+            "msg": "points 0.6986 Correct guess Y. Ratio: 0.6986\n",
+            "scoreRatio": 0.6986
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 60447924,
+            "memory": 909312,
+            "msg": "points 0.84 Correct guess Y. Ratio: 0.8400\n",
+            "scoreRatio": 0.84
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 573740026,
+            "memory": 2543616,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 507329018,
+            "memory": 2457600,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 478418282,
+            "memory": 2621440,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 351374210,
+            "memory": 1798144,
+            "msg": "points 0.2636 Correct guess Y. Ratio: 0.2636\n",
+            "scoreRatio": 0.2636
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 360108708,
+            "memory": 1470464,
+            "msg": "points 0.2556 Correct guess Y. Ratio: 0.2556\n",
+            "scoreRatio": 0.2556
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 565030298,
+            "memory": 2457600,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 357088592,
+            "memory": 1904640,
+            "msg": "points 0.2346 Correct guess Y. Ratio: 0.2346\n",
+            "scoreRatio": 0.2346
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 526672340,
+            "memory": 2723840,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 541445784,
+            "memory": 2478080,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 576742783,
+            "memory": 2752512,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 472107014,
+            "memory": 2596864,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 68441084,
+            "memory": 884736,
+            "msg": "points 0.8046 Correct guess Y. Ratio: 0.8046\n",
+            "scoreRatio": 0.8046
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 524609767,
+            "memory": 2535424,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 532332092,
+            "memory": 2789376,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 413080478,
+            "memory": 2215936,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 119322412,
+            "memory": 778240,
+            "msg": "points 0.6254 Correct guess Y. Ratio: 0.6254\n",
+            "scoreRatio": 0.6254
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 361593626,
+            "memory": 2342912,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 363460875,
+            "memory": 2404352,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 71380085,
+            "memory": 1048576,
+            "msg": "points 0.7678 Correct guess Y. Ratio: 0.7678\n",
+            "scoreRatio": 0.7678
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 68859686,
+            "memory": 786432,
+            "msg": "points 0.768 Correct guess Y. Ratio: 0.7680\n",
+            "scoreRatio": 0.768
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 409265874,
+            "memory": 2277376,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 448179917,
+            "memory": 2289664,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 489536402,
+            "memory": 2473984,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 424552527,
+            "memory": 2560000,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 609503966,
+            "memory": 2547712,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 519201767,
+            "memory": 3018752,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 459028367,
+            "memory": 2236416,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 17302666,
+            "memory": 815104,
+            "msg": "points 0.9464 Correct guess Y. Ratio: 0.9464\n",
+            "scoreRatio": 0.9464
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 218458863,
+            "memory": 1191936,
+            "msg": "points 0.4382 Correct guess Y. Ratio: 0.4382\n",
+            "scoreRatio": 0.4382
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 136460708,
+            "memory": 1159168,
+            "msg": "points 0.6326 Correct guess Y. Ratio: 0.6326\n",
+            "scoreRatio": 0.6326
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 394172625,
+            "memory": 2199552,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 35886017,
+            "memory": 638976,
+            "msg": "points 0.8906 Correct guess Y. Ratio: 0.8906\n",
+            "scoreRatio": 0.8906
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 371204363,
+            "memory": 2347008,
+            "msg": "points 0.163 Correct guess Y. Ratio: 0.1630\n",
+            "scoreRatio": 0.163
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 493371410,
+            "memory": 2650112,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 478553468,
+            "memory": 2633728,
+            "msg": "wrong answer too many queries\n",
+            "scoreRatio": 0
+        }
+    ]
+}

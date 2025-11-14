@@ -1,0 +1,808 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 0,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 998551815,
+            "memory": 91529216,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 50844851,
+            "memory": 45953024,
+            "msg": "points 0.0 Value: 8495. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 65616360,
+            "memory": 90976256,
+            "msg": "points 0.0 Value: 12406. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1006648803,
+            "memory": 91492352,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 79748208,
+            "memory": 90959872,
+            "msg": "points 0.0 Value: 17380. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 937963896,
+            "memory": 91426816,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 953539934,
+            "memory": 91463680,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 836502823,
+            "memory": 91242496,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 901228031,
+            "memory": 91410432,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 78152119,
+            "memory": 90980352,
+            "msg": "points 0.0 Value: 16343. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 978389115,
+            "memory": 91316224,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 83498157,
+            "memory": 90980352,
+            "msg": "points 0.0 Value: 17131. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 856326523,
+            "memory": 91238400,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 69543834,
+            "memory": 91099136,
+            "msg": "points 0.0 Value: 13593. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 64916705,
+            "memory": 91017216,
+            "msg": "points 0.0 Value: 13475. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 73079559,
+            "memory": 91238400,
+            "msg": "points 0.0 Value: 15267. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 77021402,
+            "memory": 91095040,
+            "msg": "points 0.0 Value: 16604. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 70974543,
+            "memory": 90980352,
+            "msg": "points 0.0 Value: 13787. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 75734877,
+            "memory": 90984448,
+            "msg": "points 0.0 Value: 15952. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 37028525,
+            "memory": 45981696,
+            "msg": "points 0.0 Value: 6976. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 850202172,
+            "memory": 91234304,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 810684774,
+            "memory": 91230208,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 975851702,
+            "memory": 91238400,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 817736777,
+            "memory": 91865088,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 774763233,
+            "memory": 91226112,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 876380721,
+            "memory": 91271168,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 67983361,
+            "memory": 90976256,
+            "msg": "points 0.0 Value: 13779. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 794804392,
+            "memory": 91447296,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 757828522,
+            "memory": 91230208,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 813268192,
+            "memory": 91234304,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 927868569,
+            "memory": 91242496,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 81325578,
+            "memory": 90976256,
+            "msg": "points 0.0 Value: 17737. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1087756681,
+            "memory": 91713536,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1042458051,
+            "memory": 91246592,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 86125378,
+            "memory": 90976256,
+            "msg": "points 0.0 Value: 14734. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 75362270,
+            "memory": 90972160,
+            "msg": "points 0.0 Value: 16268. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 58585947,
+            "memory": 91131904,
+            "msg": "points 0.0 Value: 10090. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 875606924,
+            "memory": 91410432,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 987436973,
+            "memory": 91238400,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 81321351,
+            "memory": 90976256,
+            "msg": "points 0.0 Value: 18269. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 864209317,
+            "memory": 91238400,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 800284488,
+            "memory": 91238400,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 803458013,
+            "memory": 91242496,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 733258586,
+            "memory": 91451392,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 752499790,
+            "memory": 91471872,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 671231286,
+            "memory": 91234304,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 792367501,
+            "memory": 91234304,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 76884343,
+            "memory": 91021312,
+            "msg": "points 0.0 Value: 15734. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 973064772,
+            "memory": 91693056,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 78792774,
+            "memory": 90976256,
+            "msg": "points 0.0 Value: 17663. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 989289762,
+            "memory": 91287552,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 859432094,
+            "memory": 91467776,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 78003402,
+            "memory": 90976256,
+            "msg": "points 0.0 Value: 17449. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 844654992,
+            "memory": 91246592,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 674133042,
+            "memory": 91242496,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 793280627,
+            "memory": 91238400,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 799302522,
+            "memory": 91316224,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 80114686,
+            "memory": 90980352,
+            "msg": "points 0.0 Value: 17680. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 787204688,
+            "memory": 91254784,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 857580228,
+            "memory": 91238400,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 696548634,
+            "memory": 91238400,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 683220799,
+            "memory": 91238400,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 678863037,
+            "memory": 91242496,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 771488463,
+            "memory": 91779072,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 35981055,
+            "memory": 45981696,
+            "msg": "points 0.0 Value: 6898. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 813433073,
+            "memory": 91475968,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1091521457,
+            "memory": 91242496,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 939048471,
+            "memory": 91238400,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 65726086,
+            "memory": 91017216,
+            "msg": "points 0.0 Value: 10594. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 782800155,
+            "memory": 91418624,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 928267324,
+            "memory": 91557888,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 76217392,
+            "memory": 91176960,
+            "msg": "points 0.0 Value: 18302. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1022477094,
+            "memory": 91381760,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1110346195,
+            "memory": 91234304,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1067552478,
+            "memory": 91729920,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 885920575,
+            "memory": 91795456,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 79905410,
+            "memory": 91140096,
+            "msg": "points 0.0 Value: 17911. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 58495391,
+            "memory": 91025408,
+            "msg": "points 0.0 Value: 11548. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 79702574,
+            "memory": 90980352,
+            "msg": "points 0.0 Value: 16193. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 781449926,
+            "memory": 91975680,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 931528413,
+            "memory": 91283456,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 912445367,
+            "memory": 91332608,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1062180412,
+            "memory": 91242496,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 76889715,
+            "memory": 90931200,
+            "msg": "points 0.0 Value: 17146. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1072370930,
+            "memory": 91471872,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 807100040,
+            "memory": 91242496,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 816194602,
+            "memory": 91234304,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 900047242,
+            "memory": 91242496,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 801080627,
+            "memory": 91234304,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1073285884,
+            "memory": 91238400,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 97325524,
+            "memory": 91021312,
+            "msg": "points 0.0 Value: 18314. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 102587965,
+            "memory": 90972160,
+            "msg": "points 0.0 Value: 17768. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 79175385,
+            "memory": 91029504,
+            "msg": "points 0.0 Value: 16421. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 901792181,
+            "memory": 91258880,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 889600571,
+            "memory": 91234304,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 842452101,
+            "memory": 91242496,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 75827238,
+            "memory": 90980352,
+            "msg": "points 0.0 Value: 16010. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 877231610,
+            "memory": 91234304,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 80126397,
+            "memory": 90972160,
+            "msg": "points 0.0 Value: 18575. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 68362359,
+            "memory": 91000832,
+            "msg": "points 0.0 Value: 14240. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        }
+    ]
+}

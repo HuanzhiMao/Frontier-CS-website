@@ -1,0 +1,4 @@
+{
+    "status": "error",
+    "error": "Error: compile failed: main.cpp: In function 'std::vector<int> find_hamiltonian_path(int, const std::vector<std::vector<int> >&, int, int)':\nmain.cpp:46:71: error: cannot convert 'const std::vector<std::vector<int> >' to 'int'\n   46 |             if (i < path.size() - 2 && has_edge(path.back(), path[i], C)) {\n      |                                                                       ^\n      |                                                                       |\n      |                                                                       const std::vector<std::vector<int> >\nmain.cpp:10:33: note:   initializing argument 3 of 'bool has_edge(int, int, int, const std::vector<std::vector<int> >&)'\n   10 | bool has_edge(int u, int v, int color, const vector<vector<int>>& C) {\n      |                             ~~~~^~~~~\n"
+}

@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 0,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 171956880,
+            "memory": 589824,
+            "msg": "wrong answer Integer parameter [name=ans[129]] equals to -1, violates the range [0, 2047]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 151295033,
+            "memory": 524288,
+            "msg": "points 0.0 Query limit exceeded: 4270 > 4269. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 254154651,
+            "memory": 794624,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 140495375,
+            "memory": 593920,
+            "msg": "wrong answer Integer parameter [name=ans[35]] equals to -1, violates the range [0, 2047]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 122800094,
+            "memory": 524288,
+            "msg": "wrong answer Integer parameter [name=ans[12]] equals to -1, violates the range [0, 2047]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 125451333,
+            "memory": 589824,
+            "msg": "wrong answer Integer parameter [name=ans[95]] equals to -1, violates the range [0, 2047]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 133531639,
+            "memory": 774144,
+            "msg": "wrong answer Integer parameter [name=ans[10]] equals to -1, violates the range [0, 2047]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 140993886,
+            "memory": 598016,
+            "msg": "wrong answer Integer parameter [name=ans[48]] equals to -1, violates the range [0, 2047]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 141790688,
+            "memory": 856064,
+            "msg": "wrong answer Integer parameter [name=ans[6]] equals to -1, violates the range [0, 2047]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 155308372,
+            "memory": 598016,
+            "msg": "points 0.0 Query limit exceeded: 4270 > 4269. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        }
+    ]
+}

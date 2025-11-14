@@ -1,0 +1,4 @@
+{
+    "status": "error",
+    "error": "Error: compile failed: main.cpp:1:1: error: 'XA' does not name a type\n    1 | XA=(return)0\n      | ^~\n"
+}

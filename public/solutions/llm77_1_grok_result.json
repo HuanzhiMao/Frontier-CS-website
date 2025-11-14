@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 59,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 438043204,
+            "memory": 786432,
+            "msg": "points -nan Ratio: -nan\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 479813971,
+            "memory": 524288,
+            "msg": "points 1.0 Ratio: 1.000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 460017132,
+            "memory": 524288,
+            "msg": "points 0.7219796215 Ratio: 0.722\n",
+            "scoreRatio": 0.722
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 509942966,
+            "memory": 524288,
+            "msg": "points 1.0 Ratio: 1.000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 505488791,
+            "memory": 524288,
+            "msg": "points 0.5346975089 Ratio: 0.535\n",
+            "scoreRatio": 0.535
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 522489479,
+            "memory": 524288,
+            "msg": "points 0.5177390259 Ratio: 0.518\n",
+            "scoreRatio": 0.518
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 437597384,
+            "memory": 524288,
+            "msg": "points 0.5906123718 Ratio: 0.591\n",
+            "scoreRatio": 0.591
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 477886297,
+            "memory": 524288,
+            "msg": "points 0.6783625731 Ratio: 0.678\n",
+            "scoreRatio": 0.678
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 503414195,
+            "memory": 561152,
+            "msg": "points 0.4406779661 Ratio: 0.441\n",
+            "scoreRatio": 0.441
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 538914797,
+            "memory": 786432,
+            "msg": "points 0.3959390863 Ratio: 0.396\n",
+            "scoreRatio": 0.396
+        }
+    ]
+}

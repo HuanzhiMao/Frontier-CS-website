@@ -1,0 +1,80 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 0,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5002500,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong answer. s1=42, s2=21. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5147457,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong answer. s1=40, s2=21. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 152195595,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong answer. s1=1512, s2=393. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 121428034,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong answer. s1=1516, s2=393. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 127748102,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong answer. s1=1514, s2=393. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 144713974,
+            "memory": 524288,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 130605624,
+            "memory": 524288,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 128506977,
+            "memory": 786432,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 132658247,
+            "memory": 581632,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        }
+    ]
+}

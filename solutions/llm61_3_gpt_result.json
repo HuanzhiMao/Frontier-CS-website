@@ -1,0 +1,464 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 35,
+    "cases": [
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 987844,
+            "memory": 524288,
+            "msg": "ok 2 number(s): \"3 6\"\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 19217143,
+            "memory": 684032,
+            "msg": "wrong answer 45th numbers differ - expected: '1', found: '0'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 35972909,
+            "memory": 524288,
+            "msg": "wrong answer 10th numbers differ - expected: '1', found: '0'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 32355316,
+            "memory": 524288,
+            "msg": "wrong answer 6th numbers differ - expected: '1', found: '0'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 32188918,
+            "memory": 528384,
+            "msg": "wrong answer 2nd numbers differ - expected: '4', found: '3'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 36933753,
+            "memory": 524288,
+            "msg": "wrong answer 14th numbers differ - expected: '1', found: '0'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 52802872,
+            "memory": 524288,
+            "msg": "wrong answer 37th numbers differ - expected: '1', found: '0'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 61606226,
+            "memory": 651264,
+            "msg": "wrong answer 1st numbers differ - expected: '2', found: '0'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 78726139,
+            "memory": 651264,
+            "msg": "wrong answer 8th numbers differ - expected: '1', found: '0'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 61396847,
+            "memory": 602112,
+            "msg": "wrong answer 5th numbers differ - expected: '4', found: '0'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 86779958,
+            "memory": 700416,
+            "msg": "wrong answer 46th numbers differ - expected: '1', found: '0'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 58626508,
+            "memory": 667648,
+            "msg": "wrong answer 8th numbers differ - expected: '33', found: '31'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 32002899,
+            "memory": 606208,
+            "msg": "ok 6250 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 32237377,
+            "memory": 786432,
+            "msg": "wrong answer 67th numbers differ - expected: '41', found: '40'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 24721276,
+            "memory": 638976,
+            "msg": "ok 625 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 67781201,
+            "memory": 872448,
+            "msg": "wrong answer 24th numbers differ - expected: '4', found: '3'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 78337590,
+            "memory": 786432,
+            "msg": "wrong answer 4th numbers differ - expected: '158', found: '138'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 31991290,
+            "memory": 659456,
+            "msg": "ok 625 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 101669620,
+            "memory": 524288,
+            "msg": "wrong answer 1st numbers differ - expected: '145', found: '138'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 106638949,
+            "memory": 667648,
+            "msg": "wrong answer 2nd numbers differ - expected: '10924', found: '10868'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 188939314,
+            "memory": 1388544,
+            "msg": "wrong answer 1st numbers differ - expected: '105426', found: '103124'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 232852059,
+            "memory": 7925760,
+            "msg": "wrong answer 1st numbers differ - expected: '907176', found: '888367'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 80635877,
+            "memory": 12845056,
+            "msg": "ok 2 number(s): \"157375062 156100286\"\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 83044568,
+            "memory": 12845056,
+            "msg": "ok 2 number(s): \"161090238 159480357\"\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 82192910,
+            "memory": 12898304,
+            "msg": "wrong answer 2nd numbers differ - expected: '142828191', found: '142828187'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 272416854,
+            "memory": 21344256,
+            "msg": "wrong answer 1st numbers differ - expected: '34042308', found: '33380029'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 250062940,
+            "memory": 14008320,
+            "msg": "wrong answer 2nd numbers differ - expected: '1169817', found: '1147426'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 206912099,
+            "memory": 21245952,
+            "msg": "wrong answer 1st numbers differ - expected: '21299968', found: '20872393'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 363829488,
+            "memory": 25526272,
+            "msg": "wrong answer 1st numbers differ - expected: '4137185', found: '4052065'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 421155830,
+            "memory": 42041344,
+            "msg": "wrong answer 1st numbers differ - expected: '9744628', found: '9541768'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 476740561,
+            "memory": 42041344,
+            "msg": "wrong answer 1st numbers differ - expected: '16477747', found: '16124303'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 474551798,
+            "memory": 42037248,
+            "msg": "wrong answer 1st numbers differ - expected: '1041780', found: '1027225'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 437927910,
+            "memory": 42037248,
+            "msg": "wrong answer 1st numbers differ - expected: '2549109', found: '2497816'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 334967829,
+            "memory": 20819968,
+            "msg": "wrong answer 2nd numbers differ - expected: '1703687', found: '1674377'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 474144756,
+            "memory": 42037248,
+            "msg": "wrong answer 1st numbers differ - expected: '7789657', found: '7632198'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 35866704,
+            "memory": 24895488,
+            "msg": "ok 1 number(s): \"194075000001\"\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 48531584,
+            "memory": 24895488,
+            "msg": "ok 1 number(s): \"190902500000\"\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 116975271,
+            "memory": 33697792,
+            "msg": "ok 1 number(s): \"-85570\"\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 201998948,
+            "memory": 33693696,
+            "msg": "wrong answer 1st numbers differ - expected: '34540987878', found: '33239446619'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 182054850,
+            "memory": 33669120,
+            "msg": "wrong answer 1st numbers differ - expected: '21694456237', found: '20897853171'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 145712635,
+            "memory": 33652736,
+            "msg": "wrong answer 1st numbers differ - expected: '12376488483', found: '11909962723'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 147474699,
+            "memory": 33665024,
+            "msg": "wrong answer 1st numbers differ - expected: '6644141617', found: '6392014672'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 124687374,
+            "memory": 33665024,
+            "msg": "wrong answer 1st numbers differ - expected: '3473460722', found: '3344464977'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 110026518,
+            "memory": 33665024,
+            "msg": "wrong answer 1st numbers differ - expected: '1765918758', found: '1700485750'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 110222484,
+            "memory": 33669120,
+            "msg": "wrong answer 1st numbers differ - expected: '898259600', found: '864610053'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 98925119,
+            "memory": 33677312,
+            "msg": "wrong answer 1st numbers differ - expected: '445193867', found: '427651110'\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 36683335,
+            "memory": 24895488,
+            "msg": "ok 1 number(s): \"205792000001\"\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 1075268421,
+            "memory": 47312896,
+            "msg": "ok 10 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 855764778,
+            "memory": 34148352,
+            "msg": "ok 9 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 808075846,
+            "memory": 45277184,
+            "msg": "ok 9 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 673247398,
+            "memory": 45043712,
+            "msg": "ok 9 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 417441678,
+            "memory": 34787328,
+            "msg": "ok 4 number(s): \"351047 46256 25696 -37413\"\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 389991386,
+            "memory": 47644672,
+            "msg": "ok 3 number(s): \"41944 -70863 263151\"\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 646813226,
+            "memory": 47165440,
+            "msg": "ok 9 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 263491304,
+            "memory": 32690176,
+            "msg": "ok 4 number(s): \"-209536 374206 -175949 -227485\"\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 243994977,
+            "memory": 27238400,
+            "msg": "ok 5 number(s): \"23152 152475 170656 43818 -51474\"\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 248891716,
+            "memory": 27701248,
+            "msg": "ok 3 number(s): \"158616 -53460 -155782\"\n",
+            "scoreRatio": 1
+        }
+    ]
+}

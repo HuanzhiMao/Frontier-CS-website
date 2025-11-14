@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 10,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 1835010,
+            "memory": 524288,
+            "msg": "points 1.0 Correct! Queries = 0 (limit = 6). Ratio: 1.000000 (Score: 100.00)\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3068436,
+            "memory": 524288,
+            "msg": "wrong answer Wrong final array.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3228400632,
+            "memory": 536887296,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3250253598,
+            "memory": 536887296,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3236944344,
+            "memory": 536887296,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3247010235,
+            "memory": 536887296,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3222308698,
+            "memory": 536887296,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3209642881,
+            "memory": 536887296,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3259581001,
+            "memory": 536887296,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3240956899,
+            "memory": 536887296,
+            "msg": "",
+            "scoreRatio": 0
+        }
+    ]
+}

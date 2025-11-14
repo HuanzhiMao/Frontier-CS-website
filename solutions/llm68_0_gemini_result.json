@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 0,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 52402074,
+            "memory": 638976,
+            "msg": "free(): invalid pointer\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 250386691,
+            "memory": 647168,
+            "msg": "free(): invalid pointer\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 41310086,
+            "memory": 860160,
+            "msg": "free(): invalid pointer\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 209900642,
+            "memory": 634880,
+            "msg": "free(): invalid pointer\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 38803712,
+            "memory": 647168,
+            "msg": "free(): invalid pointer\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 337355655,
+            "memory": 634880,
+            "msg": "free(): invalid pointer\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 60823240,
+            "memory": 651264,
+            "msg": "free(): invalid pointer\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 109247184,
+            "memory": 634880,
+            "msg": "free(): invalid pointer\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 127357018,
+            "memory": 638976,
+            "msg": "free(): invalid pointer\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 96096674,
+            "memory": 638976,
+            "msg": "free(): invalid pointer\n (signal=unknown)",
+            "scoreRatio": 0
+        }
+    ]
+}

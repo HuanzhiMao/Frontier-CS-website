@@ -1,0 +1,4 @@
+{
+    "status": "error",
+    "error": "Error: compile failed: main.cpp: In function 'int main()':\nmain.cpp:113:9: error: jump to label 'next_test'\n  113 |         next_test:;\n      |         ^~~~~~~~~\nmain.cpp:89:34: note:   from here\n   89 |                             goto next_test;\n      |                                  ^~~~~~~~~\nmain.cpp:98:14: note:   crosses initialization of 'bool found'\n   98 |         bool found = false;\n      |              ^~~~~\nmain.cpp:113:9: error: jump to label 'next_test'\n  113 |         next_test:;\n      |         ^~~~~~~~~\nmain.cpp:75:30: note:   from here\n   75 |                         goto next_test;\n      |                              ^~~~~~~~~\nmain.cpp:98:14: note:   crosses initialization of 'bool found'\n   98 |         bool found = false;\n      |              ^~~~~\n"
+}

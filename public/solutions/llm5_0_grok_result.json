@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 31,
+    "cases": [
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 3029764,
+            "memory": 1044480,
+            "msg": "ok Correct!Your answer's length=5\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 850579,
+            "memory": 524288,
+            "msg": "points 0.5 Ratio: 0.500000\n",
+            "scoreRatio": 0.5
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 965115,
+            "memory": 524288,
+            "msg": "ok Correct!Your answer's length=60\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1280250,
+            "memory": 524288,
+            "msg": "points 0.0 Ratio: 0.000000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1608361,
+            "memory": 786432,
+            "msg": "points 0.2 Ratio: 0.200000\n",
+            "scoreRatio": 0.2
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2443583,
+            "memory": 786432,
+            "msg": "points 0.1 Ratio: 0.100000\n",
+            "scoreRatio": 0.1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3388510,
+            "memory": 1310720,
+            "msg": "points 0.1 Ratio: 0.100000\n",
+            "scoreRatio": 0.1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 6159947,
+            "memory": 2097152,
+            "msg": "points 0.1 Ratio: 0.100000\n",
+            "scoreRatio": 0.1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 10971577,
+            "memory": 2621440,
+            "msg": "points 0.1 Ratio: 0.100000\n",
+            "scoreRatio": 0.1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 42220496,
+            "memory": 13365248,
+            "msg": "points 0.0 Ratio: 0.000000\n",
+            "scoreRatio": 0
+        }
+    ]
+}

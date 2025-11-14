@@ -1,0 +1,56 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 0,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1089630,
+            "memory": 524288,
+            "msg": "wrong answer \n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1323858,
+            "memory": 524288,
+            "msg": "wrong answer Integer -24 violates the range [0, 79]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3147718,
+            "memory": 524288,
+            "msg": "wrong answer Integer -22 violates the range [0, 96]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4468663,
+            "memory": 524288,
+            "msg": "wrong answer Integer -29 violates the range [0, 85]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3936279,
+            "memory": 598016,
+            "msg": "wrong answer Integer -34 violates the range [0, 71]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1356804,
+            "memory": 524288,
+            "msg": "wrong answer Integer -26 violates the range [0, 90]\n",
+            "scoreRatio": 0
+        }
+    ]
+}

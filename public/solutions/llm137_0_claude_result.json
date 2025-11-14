@@ -1,0 +1,16 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 0,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1270843,
+            "memory": 524288,
+            "msg": "wrong answer participant grid invalid: 1-cells are not a tree (edges != nodes-1)\n",
+            "scoreRatio": 0
+        }
+    ]
+}

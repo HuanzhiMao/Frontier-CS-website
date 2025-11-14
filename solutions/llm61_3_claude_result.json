@@ -1,0 +1,464 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 21,
+    "cases": [
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 1296386,
+            "memory": 524288,
+            "msg": "ok 2 number(s): \"3 6\"\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 28526854,
+            "memory": 524288,
+            "msg": "ok 50000 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 55601136,
+            "memory": 630784,
+            "msg": "ok 50000 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 53391732,
+            "memory": 524288,
+            "msg": "ok 50000 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 60597662,
+            "memory": 667648,
+            "msg": "ok 50000 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 93231199,
+            "memory": 503808,
+            "msg": "ok 50000 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 156932629,
+            "memory": 524288,
+            "msg": "ok 50000 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 250127019,
+            "memory": 524288,
+            "msg": "ok 47525 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 246726706,
+            "memory": 524288,
+            "msg": "ok 47367 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 267093567,
+            "memory": 618496,
+            "msg": "ok 47439 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 259837701,
+            "memory": 524288,
+            "msg": "ok 47640 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3001313529,
+            "memory": 774144,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3101203952,
+            "memory": 524288,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3102108815,
+            "memory": 4182016,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3102232214,
+            "memory": 6856704,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 132275441,
+            "memory": 606208,
+            "msg": "ok 50000 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3002064667,
+            "memory": 3670016,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3101754900,
+            "memory": 6807552,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3101363332,
+            "memory": 524288,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3101905022,
+            "memory": 6807552,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3007370509,
+            "memory": 128880640,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 213803796,
+            "memory": 2564096,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 234963825,
+            "memory": 6766592,
+            "msg": "terminate called after throwing an instance of 'std::length_error'\n  what():  cannot create std::vector larger than max_size()\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 246397195,
+            "memory": 6664192,
+            "msg": "terminate called after throwing an instance of 'std::length_error'\n  what():  cannot create std::vector larger than max_size()\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 252908531,
+            "memory": 6668288,
+            "msg": "terminate called after throwing an instance of 'std::length_error'\n  what():  cannot create std::vector larger than max_size()\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 251416975,
+            "memory": 6926336,
+            "msg": "terminate called after throwing an instance of 'std::length_error'\n  what():  cannot create std::vector larger than max_size()\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 192938459,
+            "memory": 1310720,
+            "msg": "terminate called after throwing an instance of 'std::length_error'\n  what():  cannot create std::vector larger than max_size()\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 236882943,
+            "memory": 6733824,
+            "msg": "terminate called after throwing an instance of 'std::length_error'\n  what():  cannot create std::vector larger than max_size()\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 101871901,
+            "memory": 6668288,
+            "msg": "terminate called after throwing an instance of 'std::length_error'\n  what():  cannot create std::vector larger than max_size()\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 160627728,
+            "memory": 12668928,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 165827955,
+            "memory": 12660736,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 171485534,
+            "memory": 12673024,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 173521299,
+            "memory": 12660736,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 89742979,
+            "memory": 4362240,
+            "msg": "terminate called after throwing an instance of 'std::length_error'\n  what():  cannot create std::vector larger than max_size()\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 166948503,
+            "memory": 12668928,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 142207182,
+            "memory": 12664832,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 135212214,
+            "memory": 12681216,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 129960184,
+            "memory": 12677120,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 136767645,
+            "memory": 12857344,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 135142879,
+            "memory": 12967936,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 139753932,
+            "memory": 12660736,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 138017120,
+            "memory": 12664832,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 153956550,
+            "memory": 12713984,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 139533415,
+            "memory": 12988416,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 151032380,
+            "memory": 12664832,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 140502702,
+            "memory": 12664832,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 148307158,
+            "memory": 12664832,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 60962922,
+            "memory": 5152768,
+            "msg": "terminate called after throwing an instance of 'std::length_error'\n  what():  cannot create std::vector larger than max_size()\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 138291754,
+            "memory": 11128832,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 77676763,
+            "memory": 5926912,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 44200514,
+            "memory": 2301952,
+            "msg": "terminate called after throwing an instance of 'std::length_error'\n  what():  cannot create std::vector larger than max_size()\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 110572921,
+            "memory": 10485760,
+            "msg": "terminate called after throwing an instance of 'std::length_error'\n  what():  cannot create std::vector larger than max_size()\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 53070155,
+            "memory": 3645440,
+            "msg": "terminate called after throwing an instance of 'std::length_error'\n  what():  cannot create std::vector larger than max_size()\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 46031548,
+            "memory": 2359296,
+            "msg": "terminate called after throwing an instance of 'std::length_error'\n  what():  cannot create std::vector larger than max_size()\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 68910277,
+            "memory": 4730880,
+            "msg": "terminate called after throwing an instance of 'std::length_error'\n  what():  cannot create std::vector larger than max_size()\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 43629021,
+            "memory": 2969600,
+            "msg": "terminate called after throwing an instance of 'std::length_error'\n  what():  cannot create std::vector larger than max_size()\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 100141985,
+            "memory": 6348800,
+            "msg": "terminate called after throwing an instance of 'std::length_error'\n  what():  cannot create std::vector larger than max_size()\n(signal=unknown)",
+            "scoreRatio": 0
+        }
+    ]
+}

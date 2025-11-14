@@ -1,0 +1,808 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 1,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1126468,
+            "memory": 524288,
+            "msg": "points 0.998046875 Correct Solution. Ratio: 0.9980\n",
+            "scoreRatio": 0.998
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 932341,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1263406,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1190353,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1291769,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 960106,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1412793,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1131085,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1936811,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1054782,
+            "memory": 552960,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1116809,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1117431,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1228926,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1618941,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1056327,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1127926,
+            "memory": 528384,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1034110,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1087690,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 896868,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1543331,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1906042,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 302701,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1090963,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1485772,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1149253,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1437298,
+            "memory": 786432,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 917798,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 978782,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1035150,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3561599,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2841121,
+            "memory": 385024,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1074217,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1019447,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1008776,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 951562,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1684830,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 959549,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1976548,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1005802,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 926269,
+            "memory": 528384,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1027161,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1025628,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 959833,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 961901,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 863839,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1018340,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1006151,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 970100,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2558948,
+            "memory": 528384,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 955434,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 949527,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 973688,
+            "memory": 528384,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 841144,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3018551,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 934363,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 872238,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 890157,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 987266,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3127878,
+            "memory": 385024,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 990942,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 848020,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1449670,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1031677,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 946278,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 891408,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 844928,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1013778,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 987340,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1090643,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1122416,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1117347,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1163622,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 990317,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1717039,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 931657,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 960908,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 854960,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2549784,
+            "memory": 339968,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 940579,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 914900,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1431204,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1110648,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1027733,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 994054,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 949269,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1024528,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1108128,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 982063,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3360330,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 889776,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 985376,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1465834,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1106923,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1322728,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 892762,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 920302,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1082527,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 866695,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 976853,
+            "memory": 524288,
+            "msg": "wrong answer The program never halts.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2021334,
+            "memory": 524288,
+            "msg": "wrong answer Incorrect Solution.\n",
+            "scoreRatio": 0
+        }
+    ]
+}

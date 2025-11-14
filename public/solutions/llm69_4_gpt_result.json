@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 0,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 59005256,
+            "memory": 688128,
+            "msg": "points 0.0 wrong answer\n - Query 1: wrong indices and wrong power; expected (1,14) with p=29, but (1,1) gives 2.\n - Query 2: wrong indices and wrong power; expected (2,51) with p=155, but (1,1) gives 2.\n - Query 3: wrong indices and wrong power; expected (3,88) with p=355, but (1,1) gives 2.\n - Query 4: wrong indices and wrong power; expected (4,125) with p=629, but (1,1) gives 2.\n - Query 5: wrong indices and wrong power; expected (5,162) with p=977, but (1,1) gives 2.\n - Query 6: wrong indices and wrong power; expected (6,199) with p=1399, but (1,1) gives 2.\n - Query 7: wrong indices and wrong power; expected (7,236) with p=1895, but (1,1) gives 2.\n - Query 8: wrong indices and wrong power; expected (8,273) with p=2465, but (1,1) gives 2.\n - Query 9: wrong indices and wrong power; expected (9,310) with p=3109, but (1,1) gives 2.\n - Query 10: wrong indices and wrong power; expected (10,347) with p=3827, but (1,1) gives 2.\n - Query 11: wrong indices and wrong power; expected (11,384) with p=4619, but (1,1) gives 2.\n - Query 12: wrong indices and wrong power; expected (12,421) with p=5485, but (1,1) gives 2.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 49636285,
+            "memory": 671744,
+            "msg": "points 0.0 wrong answer\n - Query 1: wrong indices and wrong power; expected (1,14) with p=29, but (1,1) gives 2.\n - Query 2: wrong indices and wrong power; expected (2,51) with p=155, but (1,1) gives 2.\n - Query 3: wrong indices and wrong power; expected (3,88) with p=355, but (1,1) gives 2.\n - Query 4: wrong indices and wrong power; expected (4,125) with p=629, but (1,1) gives 2.\n - Query 5: wrong indices and wrong power; expected (5,162) with p=977, but (1,1) gives 2.\n - Query 6: wrong indices and wrong power; expected (6,199) with p=1399, but (1,1) gives 2.\n - Query 7: wrong indices and wrong power; expected (7,236) with p=1895, but (1,1) gives 2.\n - Query 8: wrong indices and wrong power; expected (8,273) with p=2465, but (1,1) gives 2.\n - Query 9: wrong indices and wrong power; expected (9,310) with p=3109, but (1,1) gives 2.\n - Query 10: wrong indices and wrong power; expected (10,347) with p=3827, but (1,1) gives 2.\n - Query 11: wrong indices and wrong power; expected (11,384) with p=4619, but (1,1) gives 2.\n - Query 12: wrong indices and wrong power; expected (12,421) with p=5485, but (1,1) gives 2.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 51355846,
+            "memory": 688128,
+            "msg": "points 0.0 wrong answer\n - Query 1: wrong indices and wrong power; expected (1,14) with p=29, but (1,1) gives 2.\n - Query 2: wrong indices and wrong power; expected (2,51) with p=155, but (1,1) gives 2.\n - Query 3: wrong indices and wrong power; expected (3,88) with p=355, but (1,1) gives 2.\n - Query 4: wrong indices and wrong power; expected (4,125) with p=629, but (1,1) gives 2.\n - Query 5: wrong indices and wrong power; expected (5,162) with p=977, but (1,1) gives 2.\n - Query 6: wrong indices and wrong power; expected (6,199) with p=1399, but (1,1) gives 2.\n - Query 7: wrong indices and wrong power; expected (7,236) with p=1895, but (1,1) gives 2.\n - Query 8: wrong indices and wrong power; expected (8,273) with p=2465, but (1,1) gives 2.\n - Query 9: wrong indices and wrong power; expected (9,310) with p=3109, but (1,1) gives 2.\n - Query 10: wrong indices and wrong power; expected (10,347) with p=3827, but (1,1) gives 2.\n - Query 11: wrong indices and wrong power; expected (11,384) with p=4619, but (1,1) gives 2.\n - Query 12: wrong indices and wrong power; expected (12,421) with p=5485, but (1,1) gives 2.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 48348109,
+            "memory": 524288,
+            "msg": "points 0.0 wrong answer\n - Query 1: wrong indices and wrong power; expected (1,14) with p=29, but (1,1) gives 2.\n - Query 2: wrong indices and wrong power; expected (2,51) with p=155, but (1,1) gives 2.\n - Query 3: wrong indices and wrong power; expected (3,88) with p=355, but (1,1) gives 2.\n - Query 4: wrong indices and wrong power; expected (4,125) with p=629, but (1,1) gives 2.\n - Query 5: wrong indices and wrong power; expected (5,162) with p=977, but (1,1) gives 2.\n - Query 6: wrong indices and wrong power; expected (6,199) with p=1399, but (1,1) gives 2.\n - Query 7: wrong indices and wrong power; expected (7,236) with p=1895, but (1,1) gives 2.\n - Query 8: wrong indices and wrong power; expected (8,273) with p=2465, but (1,1) gives 2.\n - Query 9: wrong indices and wrong power; expected (9,310) with p=3109, but (1,1) gives 2.\n - Query 10: wrong indices and wrong power; expected (10,347) with p=3827, but (1,1) gives 2.\n - Query 11: wrong indices and wrong power; expected (11,384) with p=4619, but (1,1) gives 2.\n - Query 12: wrong indices and wrong power; expected (12,421) with p=5485, but (1,1) gives 2.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 54600414,
+            "memory": 614400,
+            "msg": "points 0.0 wrong answer\n - Query 1: wrong indices and wrong power; expected (1,14) with p=29, but (1,1) gives 2.\n - Query 2: wrong indices and wrong power; expected (2,51) with p=155, but (1,1) gives 2.\n - Query 3: wrong indices and wrong power; expected (3,88) with p=355, but (1,1) gives 2.\n - Query 4: wrong indices and wrong power; expected (4,125) with p=629, but (1,1) gives 2.\n - Query 5: wrong indices and wrong power; expected (5,162) with p=977, but (1,1) gives 2.\n - Query 6: wrong indices and wrong power; expected (6,199) with p=1399, but (1,1) gives 2.\n - Query 7: wrong indices and wrong power; expected (7,236) with p=1895, but (1,1) gives 2.\n - Query 8: wrong indices and wrong power; expected (8,273) with p=2465, but (1,1) gives 2.\n - Query 9: wrong indices and wrong power; expected (9,310) with p=3109, but (1,1) gives 2.\n - Query 10: wrong indices and wrong power; expected (10,347) with p=3827, but (1,1) gives 2.\n - Query 11: wrong indices and wrong power; expected (11,384) with p=4619, but (1,1) gives 2.\n - Query 12: wrong indices and wrong power; expected (12,421) with p=5485, but (1,1) gives 2.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 49955237,
+            "memory": 720896,
+            "msg": "points 0.0 wrong answer\n - Query 1: wrong indices and wrong power; expected (1,14) with p=29, but (1,1) gives 2.\n - Query 2: wrong indices and wrong power; expected (2,51) with p=155, but (1,1) gives 2.\n - Query 3: wrong indices and wrong power; expected (3,88) with p=355, but (1,1) gives 2.\n - Query 4: wrong indices and wrong power; expected (4,125) with p=629, but (1,1) gives 2.\n - Query 5: wrong indices and wrong power; expected (5,162) with p=977, but (1,1) gives 2.\n - Query 6: wrong indices and wrong power; expected (6,199) with p=1399, but (1,1) gives 2.\n - Query 7: wrong indices and wrong power; expected (7,236) with p=1895, but (1,1) gives 2.\n - Query 8: wrong indices and wrong power; expected (8,273) with p=2465, but (1,1) gives 2.\n - Query 9: wrong indices and wrong power; expected (9,310) with p=3109, but (1,1) gives 2.\n - Query 10: wrong indices and wrong power; expected (10,347) with p=3827, but (1,1) gives 2.\n - Query 11: wrong indices and wrong power; expected (11,384) with p=4619, but (1,1) gives 2.\n - Query 12: wrong indices and wrong power; expected (12,421) with p=5485, but (1,1) gives 2.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 54751907,
+            "memory": 671744,
+            "msg": "points 0.0 wrong answer\n - Query 1: wrong indices and wrong power; expected (1,14) with p=29, but (1,1) gives 2.\n - Query 2: wrong indices and wrong power; expected (2,51) with p=155, but (1,1) gives 2.\n - Query 3: wrong indices and wrong power; expected (3,88) with p=355, but (1,1) gives 2.\n - Query 4: wrong indices and wrong power; expected (4,125) with p=629, but (1,1) gives 2.\n - Query 5: wrong indices and wrong power; expected (5,162) with p=977, but (1,1) gives 2.\n - Query 6: wrong indices and wrong power; expected (6,199) with p=1399, but (1,1) gives 2.\n - Query 7: wrong indices and wrong power; expected (7,236) with p=1895, but (1,1) gives 2.\n - Query 8: wrong indices and wrong power; expected (8,273) with p=2465, but (1,1) gives 2.\n - Query 9: wrong indices and wrong power; expected (9,310) with p=3109, but (1,1) gives 2.\n - Query 10: wrong indices and wrong power; expected (10,347) with p=3827, but (1,1) gives 2.\n - Query 11: wrong indices and wrong power; expected (11,384) with p=4619, but (1,1) gives 2.\n - Query 12: wrong indices and wrong power; expected (12,421) with p=5485, but (1,1) gives 2.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 53116748,
+            "memory": 552960,
+            "msg": "points 0.0 wrong answer\n - Query 1: wrong indices and wrong power; expected (1,14) with p=29, but (1,1) gives 2.\n - Query 2: wrong indices and wrong power; expected (2,51) with p=155, but (1,1) gives 2.\n - Query 3: wrong indices and wrong power; expected (3,88) with p=355, but (1,1) gives 2.\n - Query 4: wrong indices and wrong power; expected (4,125) with p=629, but (1,1) gives 2.\n - Query 5: wrong indices and wrong power; expected (5,162) with p=977, but (1,1) gives 2.\n - Query 6: wrong indices and wrong power; expected (6,199) with p=1399, but (1,1) gives 2.\n - Query 7: wrong indices and wrong power; expected (7,236) with p=1895, but (1,1) gives 2.\n - Query 8: wrong indices and wrong power; expected (8,273) with p=2465, but (1,1) gives 2.\n - Query 9: wrong indices and wrong power; expected (9,310) with p=3109, but (1,1) gives 2.\n - Query 10: wrong indices and wrong power; expected (10,347) with p=3827, but (1,1) gives 2.\n - Query 11: wrong indices and wrong power; expected (11,384) with p=4619, but (1,1) gives 2.\n - Query 12: wrong indices and wrong power; expected (12,421) with p=5485, but (1,1) gives 2.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 53912458,
+            "memory": 524288,
+            "msg": "points 0.0 wrong answer\n - Query 1: wrong indices and wrong power; expected (1,14) with p=29, but (1,1) gives 2.\n - Query 2: wrong indices and wrong power; expected (2,51) with p=155, but (1,1) gives 2.\n - Query 3: wrong indices and wrong power; expected (3,88) with p=355, but (1,1) gives 2.\n - Query 4: wrong indices and wrong power; expected (4,125) with p=629, but (1,1) gives 2.\n - Query 5: wrong indices and wrong power; expected (5,162) with p=977, but (1,1) gives 2.\n - Query 6: wrong indices and wrong power; expected (6,199) with p=1399, but (1,1) gives 2.\n - Query 7: wrong indices and wrong power; expected (7,236) with p=1895, but (1,1) gives 2.\n - Query 8: wrong indices and wrong power; expected (8,273) with p=2465, but (1,1) gives 2.\n - Query 9: wrong indices and wrong power; expected (9,310) with p=3109, but (1,1) gives 2.\n - Query 10: wrong indices and wrong power; expected (10,347) with p=3827, but (1,1) gives 2.\n - Query 11: wrong indices and wrong power; expected (11,384) with p=4619, but (1,1) gives 2.\n - Query 12: wrong indices and wrong power; expected (12,421) with p=5485, but (1,1) gives 2.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 48843115,
+            "memory": 688128,
+            "msg": "points 0.0 wrong answer\n - Query 1: wrong indices and wrong power; expected (1,14) with p=29, but (1,1) gives 2.\n - Query 2: wrong indices and wrong power; expected (2,51) with p=155, but (1,1) gives 2.\n - Query 3: wrong indices and wrong power; expected (3,88) with p=355, but (1,1) gives 2.\n - Query 4: wrong indices and wrong power; expected (4,125) with p=629, but (1,1) gives 2.\n - Query 5: wrong indices and wrong power; expected (5,162) with p=977, but (1,1) gives 2.\n - Query 6: wrong indices and wrong power; expected (6,199) with p=1399, but (1,1) gives 2.\n - Query 7: wrong indices and wrong power; expected (7,236) with p=1895, but (1,1) gives 2.\n - Query 8: wrong indices and wrong power; expected (8,273) with p=2465, but (1,1) gives 2.\n - Query 9: wrong indices and wrong power; expected (9,310) with p=3109, but (1,1) gives 2.\n - Query 10: wrong indices and wrong power; expected (10,347) with p=3827, but (1,1) gives 2.\n - Query 11: wrong indices and wrong power; expected (11,384) with p=4619, but (1,1) gives 2.\n - Query 12: wrong indices and wrong power; expected (12,421) with p=5485, but (1,1) gives 2.\n",
+            "scoreRatio": 0
+        }
+    ]
+}

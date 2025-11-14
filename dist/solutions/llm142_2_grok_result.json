@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 0,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1190248870,
+            "memory": 43282432,
+            "msg": "wrong answer Number of operations exceeds limit: 3000000 > 2,000,000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1197618561,
+            "memory": 43544576,
+            "msg": "wrong answer Number of operations exceeds limit: 3000000 > 2,000,000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1193139435,
+            "memory": 43286528,
+            "msg": "wrong answer Number of operations exceeds limit: 3000000 > 2,000,000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1168381820,
+            "memory": 43118592,
+            "msg": "wrong answer Number of operations exceeds limit: 3000000 > 2,000,000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 233482219,
+            "memory": 1052672,
+            "msg": "wrong answer Final state is invalid: not all balls of same color are grouped\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1206847902,
+            "memory": 43278336,
+            "msg": "wrong answer Number of operations exceeds limit: 3000000 > 2,000,000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 256705665,
+            "memory": 1048576,
+            "msg": "wrong answer Final state is invalid: not all balls of same color are grouped\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1211668761,
+            "memory": 43286528,
+            "msg": "wrong answer Number of operations exceeds limit: 3000000 > 2,000,000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 220001792,
+            "memory": 1048576,
+            "msg": "wrong answer Final state is invalid: not all balls of same color are grouped\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1196280343,
+            "memory": 43286528,
+            "msg": "wrong answer Number of operations exceeds limit: 3000000 > 2,000,000\n",
+            "scoreRatio": 0
+        }
+    ]
+}

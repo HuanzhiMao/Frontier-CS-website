@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 10,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 1210294,
+            "memory": 524288,
+            "msg": "points 1.0 Correct! Queries = 0 (limit = 6). Ratio: 1.000000 (Score: 100.00)\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3444281,
+            "memory": 524288,
+            "msg": "wrong answer Wrong final array.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1027338773,
+            "memory": 692224,
+            "msg": "wrong answer Wrong final array.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 958489283,
+            "memory": 778240,
+            "msg": "wrong answer Wrong final array.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 984998853,
+            "memory": 688128,
+            "msg": "wrong answer Wrong final array.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1124399889,
+            "memory": 692224,
+            "msg": "wrong answer Wrong final array.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1102821776,
+            "memory": 696320,
+            "msg": "wrong answer Wrong final array.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1066345981,
+            "memory": 929792,
+            "msg": "wrong answer Wrong final array.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1001600066,
+            "memory": 745472,
+            "msg": "wrong answer Wrong final array.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1011740094,
+            "memory": 692224,
+            "msg": "wrong answer Wrong final array.\n",
+            "scoreRatio": 0
+        }
+    ]
+}

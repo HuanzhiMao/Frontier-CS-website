@@ -1,0 +1,808 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 0,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1935767,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1760090,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1373617,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2256089,
+            "memory": 552960,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1359973,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1929368,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1170408,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2276214,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1340982,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1460908,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1428412,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1423881,
+            "memory": 552960,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1463426,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1476303,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2257214,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1651301,
+            "memory": 368640,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2337546,
+            "memory": 786432,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1726223,
+            "memory": 507904,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1407160,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1338316,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 416796,
+            "memory": 831488,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2180893,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1586068,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1299994,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 336197,
+            "memory": 786432,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1401801,
+            "memory": 528384,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1425207,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1823122,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2718150,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1391461,
+            "memory": 606208,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1640831,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1549861,
+            "memory": 786432,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2976110,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1733664,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1943328,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2368817,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1694158,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5390841,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1387413,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 566355,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1629453,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2165544,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1637510,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1286369,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1418248,
+            "memory": 786432,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1330964,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2006480,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1312948,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1200393,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2043394,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2208852,
+            "memory": 528384,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1286304,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1379413,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1905998,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1405677,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2205274,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1342151,
+            "memory": 786432,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1426144,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1474594,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1582937,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1372418,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1155889,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2120852,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2107982,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2409075,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1405443,
+            "memory": 786432,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1386033,
+            "memory": 552960,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3358572,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1646754,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2086066,
+            "memory": 552960,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2417435,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1814557,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2088903,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1699514,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1450498,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2637275,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1233390,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 586945,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2253111,
+            "memory": 552960,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1317513,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1292303,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1292312,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1383530,
+            "memory": 528384,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1923362,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1484207,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5128090,
+            "memory": 528384,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1729950,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1592311,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1418890,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1484839,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1796456,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1867051,
+            "memory": 786432,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1459107,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2368501,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1376017,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1555197,
+            "memory": 786432,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3615728,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1206418,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1440586,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1386254,
+            "memory": 524288,
+            "msg": "wrong output format Unexpected end of file - int32 expected\n",
+            "scoreRatio": 0
+        }
+    ]
+}

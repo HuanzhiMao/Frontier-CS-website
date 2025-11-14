@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 30,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2945872,
+            "memory": 782336,
+            "msg": "points 0.0 Answer exists but -1 found.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1118484,
+            "memory": 524288,
+            "msg": "points 0.0 Answer exists but -1 found.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 905361,
+            "memory": 524288,
+            "msg": "points 0.0 Answer exists but -1 found.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 901177,
+            "memory": 524288,
+            "msg": "points 0.0 Answer exists but -1 found.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 956665,
+            "memory": 524288,
+            "msg": "points 0.0 Answer exists but -1 found.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 285790,
+            "memory": 524288,
+            "msg": "points 0.0 Answer exists but -1 found.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 965090,
+            "memory": 524288,
+            "msg": "ok Correct.\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 922555,
+            "memory": 528384,
+            "msg": "points 0.0 Answer exists but -1 found.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 1233236,
+            "memory": 524288,
+            "msg": "ok Correct.\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 910771,
+            "memory": 524288,
+            "msg": "ok Correct.\n",
+            "scoreRatio": 1
+        }
+    ]
+}

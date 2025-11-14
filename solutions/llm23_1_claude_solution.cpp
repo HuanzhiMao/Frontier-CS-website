@@ -1,0 +1,73 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int tid;
+    cin >> tid;
+    
+    cout << "a0=0a" << endl;
+    cout << "a1=1a" << endl;
+    cout << "a2=2a" << endl;
+    cout << "a3=3a" << endl;
+    cout << "a4=4a" << endl;
+    cout << "a5=5a" << endl;
+    cout << "a6=6a" << endl;
+    cout << "a7=7a" << endl;
+    cout << "a8=8a" << endl;
+    cout << "a9=9a" << endl;
+    cout << "b0=0b" << endl;
+    cout << "b1=1b" << endl;
+    cout << "b2=2b" << endl;
+    cout << "b3=3b" << endl;
+    cout << "b4=4b" << endl;
+    cout << "b5=5b" << endl;
+    cout << "b6=6b" << endl;
+    cout << "b7=7b" << endl;
+    cout << "b8=8b" << endl;
+    cout << "b9=9b" << endl;
+    cout << "c0=0c" << endl;
+    cout << "c1=1c" << endl;
+    cout << "c2=2c" << endl;
+    cout << "c3=3c" << endl;
+    cout << "c4=4c" << endl;
+    cout << "c5=5c" << endl;
+    cout << "c6=6c" << endl;
+    cout << "c7=7c" << endl;
+    cout << "c8=8c" << endl;
+    cout << "c9=9c" << endl;
+    cout << "0a=X" << endl;
+    cout << "1a=X" << endl;
+    cout << "2a=X" << endl;
+    cout << "3a=X" << endl;
+    cout << "4a=X" << endl;
+    cout << "5a=X" << endl;
+    cout << "6a=X" << endl;
+    cout << "7a=X" << endl;
+    cout << "8a=X" << endl;
+    cout << "9a=X" << endl;
+    cout << "0b=X" << endl;
+    cout << "1b=X" << endl;
+    cout << "2b=X" << endl;
+    cout << "3b=X" << endl;
+    cout << "4b=X" << endl;
+    cout << "5b=X" << endl;
+    cout << "6b=X" << endl;
+    cout << "7b=X" << endl;
+    cout << "8b=X" << endl;
+    cout << "9b=X" << endl;
+    cout << "0c=X" << endl;
+    cout << "1c=X" << endl;
+    cout << "2c=X" << endl;
+    cout << "3c=X" << endl;
+    cout << "4c=X" << endl;
+    cout << "5c=X" << endl;
+    cout << "6c=X" << endl;
+    cout << "7c=X" << endl;
+    cout << "8c=X" << endl;
+    cout << "9c=X" << endl;
+    cout << "XX=(return)1" << endl;
+    cout << "X=(return)0" << endl;
+    cout << "=(return)0" << endl;
+    
+    return 0;
+}

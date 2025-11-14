@@ -3,7 +3,7 @@ import { Box, ButtonBase, Stack, Typography } from '@mui/material';
 import { Link as RouterLink, useLocation } from 'react-router-dom';
 
 import { buildOverviewEntries, OverviewEntry } from './entries';
-import { LivecodeLeaderboardPreview } from '../projects/livecodebench-pro/components/LeaderboardPreview';
+import { UnifiedLeaderboard, ExampleProblems } from '../frontiercs';
 
 export const ProjectsOverview: React.FC = () => {
   const overviewEntries: OverviewEntry[] = buildOverviewEntries();
@@ -71,7 +71,9 @@ export const ProjectsOverview: React.FC = () => {
 
   return (
     <Stack spacing={{ xs: 2.5, md: 3 }} sx={{ pb: { xs: 4, md: 6 } }}>
-      <LivecodeLeaderboardPreview title="FrontierCS" />
+      <UnifiedLeaderboard />
+
+      <ExampleProblems />
 
       <Box sx={{ height: { xs: 12, md: 20 } }} />
 

@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 0,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 74659795,
+            "memory": 811008,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 65685328,
+            "memory": 786432,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 57387427,
+            "memory": 770048,
+            "msg": "wrong answer Invalid query: the three nodes must be distinct\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 49376048,
+            "memory": 589824,
+            "msg": "wrong answer Invalid query: the three nodes must be distinct\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 56854196,
+            "memory": 524288,
+            "msg": "wrong answer Invalid query: the three nodes must be distinct\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 64247272,
+            "memory": 516096,
+            "msg": "wrong answer Invalid query: the three nodes must be distinct\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 71298044,
+            "memory": 524288,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 64177566,
+            "memory": 598016,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 47365543,
+            "memory": 524288,
+            "msg": "wrong answer Invalid query: the three nodes must be distinct\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 40733864,
+            "memory": 581632,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        }
+    ]
+}

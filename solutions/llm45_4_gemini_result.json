@@ -1,0 +1,128 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 36,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1102598990,
+            "memory": 18157568,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1101568790,
+            "memory": 18636800,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 81726347,
+            "memory": 18726912,
+            "msg": "points 0.9923585862 EC=1584 (best=0 base=180072), CV=400 (best=0 base=61668). Ratio: 0.992359\n",
+            "scoreRatio": 0.992359
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 185430234,
+            "memory": 14417920,
+            "msg": "points 0.7824588738 EC=31999 (best=0 base=248985), CV=12399 (best=0 base=40445). Ratio: 0.782459\n",
+            "scoreRatio": 0.782459
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 518668728,
+            "memory": 24788992,
+            "msg": "points 0.7812054726 EC=128000 (best=0 base=783320), CV=14958 (best=0 base=54555). Ratio: 0.781205\n",
+            "scoreRatio": 0.781205
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 825567301,
+            "memory": 12783616,
+            "msg": "wrong answer Balance violated: part 1 has size 4475 > 4218\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 179626306,
+            "memory": 12075008,
+            "msg": "wrong answer Balance violated: part 4 has size 15488 > 15450\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 83299116,
+            "memory": 11931648,
+            "msg": "wrong answer Balance violated: part 6 has size 8413 > 8240\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 183364034,
+            "memory": 11706368,
+            "msg": "points 0.7281561704 EC=78991 (best=0 base=254746), CV=5035 (best=0 base=21553). Ratio: 0.728156\n",
+            "scoreRatio": 0.728156
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 85560584,
+            "memory": 10711040,
+            "msg": "points 0.2754003783 EC=51745 (best=0 base=100084), CV=23079 (best=0 base=24758). Ratio: 0.275400\n",
+            "scoreRatio": 0.2754
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 715277677,
+            "memory": 10432512,
+            "msg": "wrong answer Balance violated: part 1 has size 8690 > 8437\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 386753630,
+            "memory": 25710592,
+            "msg": "points 0.5690373859 EC=144000 (best=0 base=683787), CV=23448 (best=0 base=36000). Ratio: 0.569037\n",
+            "scoreRatio": 0.569037
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1002319862,
+            "memory": 21323776,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 160842223,
+            "memory": 18829312,
+            "msg": "points 0.9820077493 EC=4008 (best=0 base=224938), CV=467 (best=0 base=25707). Ratio: 0.982008\n",
+            "scoreRatio": 0.982008
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 188813531,
+            "memory": 19607552,
+            "msg": "points 0.2305004719 EC=110620 (best=0 base=199788), CV=39378 (best=0 base=39965). Ratio: 0.230500\n",
+            "scoreRatio": 0.2305
+        }
+    ]
+}

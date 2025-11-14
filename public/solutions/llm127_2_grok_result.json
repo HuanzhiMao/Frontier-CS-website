@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 20,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 143808908,
+            "memory": 925696,
+            "msg": "points 1.0 Accepted. Queries used: 2798. Your score = 5000 - 2798 = 2202. Optimal queries: 4291. Best score = 5000 - 4291 = 709. Ratio: 1.000000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 264420010,
+            "memory": 1196032,
+            "msg": "points 0.0 Accepted. Queries used: 6462. Your score = 5000 - 6462 = 0. Optimal queries: 4359. Best score = 5000 - 4359 = 641. Ratio: 0.000000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 255550597,
+            "memory": 1015808,
+            "msg": "points 0.0 Accepted. Queries used: 6462. Your score = 5000 - 6462 = 0. Optimal queries: 4359. Best score = 5000 - 4359 = 641. Ratio: 0.000000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 261591448,
+            "memory": 901120,
+            "msg": "points 0.0 Accepted. Queries used: 6462. Your score = 5000 - 6462 = 0. Optimal queries: 4359. Best score = 5000 - 4359 = 641. Ratio: 0.000000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 62793965,
+            "memory": 524288,
+            "msg": "points 1.0 Accepted. Queries used: 1345. Your score = 5000 - 1345 = 3655. Optimal queries: 4330. Best score = 5000 - 4330 = 670. Ratio: 1.000000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 262578175,
+            "memory": 876544,
+            "msg": "points 0.0 Accepted. Queries used: 6462. Your score = 5000 - 6462 = 0. Optimal queries: 4359. Best score = 5000 - 4359 = 641. Ratio: 0.000000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 312902772,
+            "memory": 663552,
+            "msg": "points 0.0 Accepted. Queries used: 7188. Your score = 5000 - 7188 = 0. Optimal queries: 4312. Best score = 5000 - 4312 = 688. Ratio: 0.000000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 272641959,
+            "memory": 876544,
+            "msg": "points 0.0 Accepted. Queries used: 6462. Your score = 5000 - 6462 = 0. Optimal queries: 4359. Best score = 5000 - 4359 = 641. Ratio: 0.000000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 271699622,
+            "memory": 983040,
+            "msg": "points 0.0 Accepted. Queries used: 6462. Your score = 5000 - 6462 = 0. Optimal queries: 4359. Best score = 5000 - 4359 = 641. Ratio: 0.000000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 259681889,
+            "memory": 860160,
+            "msg": "points 0.0 Accepted. Queries used: 6462. Your score = 5000 - 6462 = 0. Optimal queries: 4359. Best score = 5000 - 4359 = 641. Ratio: 0.000000\n",
+            "scoreRatio": 0
+        }
+    ]
+}

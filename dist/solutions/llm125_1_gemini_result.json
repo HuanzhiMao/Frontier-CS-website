@@ -1,0 +1,4 @@
+{
+    "status": "error",
+    "error": "Error: compile failed: main.cpp: In function 'int main()':\nmain.cpp:30:27: error: 'std::chrono' has not been declared\n   30 |     std::mt19937 rng(std::chrono::steady_clock::now().time_since_epoch().count());\n      |                           ^~~~~~\n"
+}

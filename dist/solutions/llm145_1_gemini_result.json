@@ -1,0 +1,24 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 0,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 840899,
+            "memory": 524288,
+            "msg": "wrong output format Assertion failed: Position (7,8) should be non-empty\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2727315,
+            "memory": 524288,
+            "msg": "wrong output format Assertion failed: Position (7,8) should be non-empty\n",
+            "scoreRatio": 0
+        }
+    ]
+}

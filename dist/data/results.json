@@ -1,0 +1,1071 @@
+{
+  "results": [
+    {
+      "solution": "one_shot_gpt_cant_be_late_high_availability_loose_deadline_gemini_gemini_2_5_pro",
+      "problem": "cant_be_late/high_availability_loose_deadline",
+      "model": "Gemini 2.5 Pro",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_cant_be_late_high_availability_loose_deadline_gpt_5",
+      "problem": "cant_be_late/high_availability_loose_deadline",
+      "model": "GPT-5",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_cant_be_late_high_availability_loose_deadline_gpt_5_pro",
+      "problem": "cant_be_late/high_availability_loose_deadline",
+      "model": "GPT-5 Pro",
+      "score": null,
+      "error": "IndentationError: unexpected indent"
+    },
+    {
+      "solution": "cbl_baseline_high_availability_loose_deadline",
+      "problem": "cant_be_late/high_availability_loose_deadline",
+      "model": "baseline",
+      "score": 19,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_cant_be_late_high_availability_tight_deadline_gemini_gemini_2_5_pro",
+      "problem": "cant_be_late/high_availability_tight_deadline",
+      "model": "Gemini 2.5 Pro",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_cant_be_late_high_availability_tight_deadline_gpt_5",
+      "problem": "cant_be_late/high_availability_tight_deadline",
+      "model": "GPT-5",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_cant_be_late_high_availability_tight_deadline_gpt_5_pro",
+      "problem": "cant_be_late/high_availability_tight_deadline",
+      "model": "GPT-5 Pro",
+      "score": null,
+      "error": "IndentationError: unexpected indent"
+    },
+    {
+      "solution": "cbl_baseline_high_availability_tight_deadline",
+      "problem": "cant_be_late/high_availability_tight_deadline",
+      "model": "baseline",
+      "score": 4,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_cant_be_late_low_availability_loose_deadline_gemini_gemini_2_5_pro",
+      "problem": "cant_be_late/low_availability_loose_deadline",
+      "model": "Gemini 2.5 Pro",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_cant_be_late_low_availability_loose_deadline_gpt_5",
+      "problem": "cant_be_late/low_availability_loose_deadline",
+      "model": "GPT-5",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_cant_be_late_low_availability_loose_deadline_gpt_5_pro",
+      "problem": "cant_be_late/low_availability_loose_deadline",
+      "model": "GPT-5 Pro",
+      "score": null,
+      "error": "IndentationError: unexpected indent"
+    },
+    {
+      "solution": "cbl_baseline_low_availability_loose_deadline",
+      "problem": "cant_be_late/low_availability_loose_deadline",
+      "model": "baseline",
+      "score": 67,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_cant_be_late_low_availability_tight_deadline_gemini_gemini_2_5_pro",
+      "problem": "cant_be_late/low_availability_tight_deadline",
+      "model": "Gemini 2.5 Pro",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_cant_be_late_low_availability_tight_deadline_gpt_5",
+      "problem": "cant_be_late/low_availability_tight_deadline",
+      "model": "GPT-5",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_cant_be_late_low_availability_tight_deadline_gpt_5_pro",
+      "problem": "cant_be_late/low_availability_tight_deadline",
+      "model": "GPT-5 Pro",
+      "score": 26,
+      "error": null
+    },
+    {
+      "solution": "cbl_baseline_low_availability_tight_deadline",
+      "problem": "cant_be_late/low_availability_tight_deadline",
+      "model": "baseline",
+      "score": 27,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_cant_be_late_multi_high_availability_loose_deadline_gemini_gemini_2_5_pro",
+      "problem": "cant_be_late_multi/high_availability_loose_deadline",
+      "model": "Gemini 2.5 Pro",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_cant_be_late_multi_high_availability_loose_deadline_gpt_5",
+      "problem": "cant_be_late_multi/high_availability_loose_deadline",
+      "model": "GPT-5",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "cant_be_late_multi_baseline_high_availability_loose_deadline",
+      "problem": "cant_be_late_multi/high_availability_loose_deadline",
+      "model": "baseline",
+      "score": -54.15037802777803,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_cant_be_late_multi_high_availability_tight_deadline_gemini_gemini_2_5_pro",
+      "problem": "cant_be_late_multi/high_availability_tight_deadline",
+      "model": "Gemini 2.5 Pro",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_cant_be_late_multi_high_availability_tight_deadline_gpt_5",
+      "problem": "cant_be_late_multi/high_availability_tight_deadline",
+      "model": "GPT-5",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "cant_be_late_multi_baseline_high_availability_tight_deadline",
+      "problem": "cant_be_late_multi/high_availability_tight_deadline",
+      "model": "baseline",
+      "score": -117.0038325625012,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_cant_be_late_multi_low_availability_loose_deadline_gemini_gemini_2_5_pro",
+      "problem": "cant_be_late_multi/low_availability_loose_deadline",
+      "model": "Gemini 2.5 Pro",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_cant_be_late_multi_low_availability_loose_deadline_gpt_5",
+      "problem": "cant_be_late_multi/low_availability_loose_deadline",
+      "model": "GPT-5",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "cant_be_late_multi_baseline_low_availability_loose_deadline",
+      "problem": "cant_be_late_multi/low_availability_loose_deadline",
+      "model": "baseline",
+      "score": null,
+      "error": "Incomplete evaluation"
+    },
+    {
+      "solution": "one_shot_gpt_cant_be_late_multi_low_availability_tight_deadline_gemini_gemini_2_5_pro",
+      "problem": "cant_be_late_multi/low_availability_tight_deadline",
+      "model": "Gemini 2.5 Pro",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_cant_be_late_multi_low_availability_tight_deadline_gpt_5",
+      "problem": "cant_be_late_multi/low_availability_tight_deadline",
+      "model": "GPT-5",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "cant_be_late_multi_baseline_low_availability_tight_deadline",
+      "problem": "cant_be_late_multi/low_availability_tight_deadline",
+      "model": "baseline",
+      "score": -65.9577353680561,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_cloudcast_gemini_gemini_2_5_pro",
+      "problem": "cloudcast",
+      "model": "Gemini 2.5 Pro",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_cloudcast_gpt_5",
+      "problem": "cloudcast",
+      "model": "GPT-5",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "cloudcast_baseline",
+      "problem": "cloudcast",
+      "model": "baseline",
+      "score": 0.09552371980292827,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_cross_entropy_gemini_gemini_2_5_pro",
+      "problem": "cross_entropy",
+      "model": "Gemini 2.5 Pro",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_cross_entropy_gpt_5",
+      "problem": "cross_entropy",
+      "model": "GPT-5",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "cross_entropy_baseline",
+      "problem": "cross_entropy",
+      "model": "baseline",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_decoding_attn_gemini_gemini_2_5_pro",
+      "problem": "decoding_attn",
+      "model": "Gemini 2.5 Pro",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_decoding_attn_gpt_5",
+      "problem": "decoding_attn",
+      "model": "GPT-5",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "decoding_attn_baseline",
+      "problem": "decoding_attn",
+      "model": "baseline",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_flash_attn_gemini_gemini_2_5_pro",
+      "problem": "flash_attn",
+      "model": "Gemini 2.5 Pro",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_flash_attn_gpt_5",
+      "problem": "flash_attn",
+      "model": "GPT-5",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "flash_attn_baseline",
+      "problem": "flash_attn",
+      "model": "baseline",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_fused_linear_ce_gemini_gemini_2_5_pro",
+      "problem": "fused_linear_ce",
+      "model": "Gemini 2.5 Pro",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_fused_linear_ce_gpt_5",
+      "problem": "fused_linear_ce",
+      "model": "GPT-5",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "fused_linear_ce_baseline",
+      "problem": "fused_linear_ce",
+      "model": "baseline",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_fused_linear_jsd_gemini_gemini_2_5_pro",
+      "problem": "fused_linear_jsd",
+      "model": "Gemini 2.5 Pro",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_fused_linear_jsd_gpt_5",
+      "problem": "fused_linear_jsd",
+      "model": "GPT-5",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "fused_linear_jsd_baseline",
+      "problem": "fused_linear_jsd",
+      "model": "baseline",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_gdpa_attention_gemini_gemini_2_5_pro",
+      "problem": "gdpa_attention",
+      "model": "Gemini 2.5 Pro",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_gdpa_attention_gpt_5",
+      "problem": "gdpa_attention",
+      "model": "GPT-5",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "gdpa_attention_baseline",
+      "problem": "gdpa_attention",
+      "model": "baseline",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_gemm_optimization_annoying_gemini_gemini_2_5_pro",
+      "problem": "gemm_optimization/annoying",
+      "model": "Gemini 2.5 Pro",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_gemm_optimization_annoying_gpt_5",
+      "problem": "gemm_optimization/annoying",
+      "model": "GPT-5",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_gemm_optimization_k_skewed_gemini_gemini_2_5_pro",
+      "problem": "gemm_optimization/k_skewed",
+      "model": "Gemini 2.5 Pro",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_gemm_optimization_k_skewed_gpt_5",
+      "problem": "gemm_optimization/k_skewed",
+      "model": "GPT-5",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_gemm_optimization_near_tile_gemini_gemini_2_5_pro",
+      "problem": "gemm_optimization/near_tile",
+      "model": "Gemini 2.5 Pro",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_gemm_optimization_near_tile_gpt_5",
+      "problem": "gemm_optimization/near_tile",
+      "model": "GPT-5",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_gemm_optimization_rectangles_gemini_gemini_2_5_pro",
+      "problem": "gemm_optimization/rectangles",
+      "model": "Gemini 2.5 Pro",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_gemm_optimization_rectangles_gpt_5",
+      "problem": "gemm_optimization/rectangles",
+      "model": "GPT-5",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_gemm_optimization_squares_gemini_gemini_2_5_pro",
+      "problem": "gemm_optimization/squares",
+      "model": "Gemini 2.5 Pro",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_gemm_optimization_squares_gpt_5",
+      "problem": "gemm_optimization/squares",
+      "model": "GPT-5",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_gemm_optimization_transformerish_gemini_gemini_2_5_pro",
+      "problem": "gemm_optimization/transformerish",
+      "model": "Gemini 2.5 Pro",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_gemm_optimization_transformerish_gpt_5",
+      "problem": "gemm_optimization/transformerish",
+      "model": "GPT-5",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_group_gemm_gemini_gemini_2_5_pro",
+      "problem": "group_gemm",
+      "model": "Gemini 2.5 Pro",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_group_gemm_gpt_5",
+      "problem": "group_gemm",
+      "model": "GPT-5",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "group_gemm_baseline",
+      "problem": "group_gemm",
+      "model": "baseline",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_imagenet_1m_gemini_gemini_2_5_pro",
+      "problem": "imagenet_pareto/1m",
+      "model": "Gemini 2.5 Pro",
+      "score": 38.476562499999986,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_imagenet_1m_gpt_5",
+      "problem": "imagenet_pareto/1m",
+      "model": "GPT-5",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "imagenet_baseline",
+      "problem": "imagenet_pareto/1m",
+      "model": "baseline",
+      "score": 2.8320312499999787,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_imagenet_200k_gemini_gemini_2_5_pro",
+      "problem": "imagenet_pareto/200k",
+      "model": "Gemini 2.5 Pro",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_imagenet_200k_gpt_5",
+      "problem": "imagenet_pareto/200k",
+      "model": "GPT-5",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "imagenet_baseline",
+      "problem": "imagenet_pareto/200k",
+      "model": "baseline",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_imagenet_2_5m_gemini_gemini_2_5_pro",
+      "problem": "imagenet_pareto/2_5m",
+      "model": "Gemini 2.5 Pro",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_imagenet_2_5m_gpt_5",
+      "problem": "imagenet_pareto/2_5m",
+      "model": "GPT-5",
+      "score": 26.43229166666668,
+      "error": null
+    },
+    {
+      "solution": "imagenet_baseline",
+      "problem": "imagenet_pareto/2_5m",
+      "model": "baseline",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_imagenet_500k_gemini_gemini_2_5_pro",
+      "problem": "imagenet_pareto/500k",
+      "model": "Gemini 2.5 Pro",
+      "score": 45.94029017857144,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_imagenet_500k_gpt_5",
+      "problem": "imagenet_pareto/500k",
+      "model": "GPT-5",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "imagenet_baseline",
+      "problem": "imagenet_pareto/500k",
+      "model": "baseline",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_imagenet_5m_gemini_gemini_2_5_pro",
+      "problem": "imagenet_pareto/5m",
+      "model": "Gemini 2.5 Pro",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_imagenet_5m_gpt_5",
+      "problem": "imagenet_pareto/5m",
+      "model": "GPT-5",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "imagenet_baseline",
+      "problem": "imagenet_pareto/5m",
+      "model": "baseline",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_linear_regression_gemini_gemini_2_5_pro",
+      "problem": "linear_regression",
+      "model": "Gemini 2.5 Pro",
+      "score": 56.5,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_linear_regression_gpt_5",
+      "problem": "linear_regression",
+      "model": "GPT-5",
+      "score": 56.5,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_llm_sql_large_gemini_gemini_2_5_pro",
+      "problem": "llm_sql/large",
+      "model": "Gemini 2.5 Pro",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_llm_sql_large_gpt_5",
+      "problem": "llm_sql/large",
+      "model": "GPT-5",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "llm_sql_baseline",
+      "problem": "llm_sql/large",
+      "model": "baseline",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_llm_sql_small_gemini_gemini_2_5_pro",
+      "problem": "llm_sql/small",
+      "model": "Gemini 2.5 Pro",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_llm_sql_small_gpt_5",
+      "problem": "llm_sql/small",
+      "model": "GPT-5",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "llm_sql_baseline",
+      "problem": "llm_sql/small",
+      "model": "baseline",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_mamba2_scan_gemini_gemini_2_5_pro",
+      "problem": "mamba2_scan",
+      "model": "Gemini 2.5 Pro",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_mamba2_scan_gpt_5",
+      "problem": "mamba2_scan",
+      "model": "GPT-5",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "mamba2_scan_baseline",
+      "problem": "mamba2_scan",
+      "model": "baseline",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_mixed_gemm_gemini_gemini_2_5_pro",
+      "problem": "mixed_gemm",
+      "model": "Gemini 2.5 Pro",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_mixed_gemm_gpt_5",
+      "problem": "mixed_gemm",
+      "model": "GPT-5",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "mixed_gemm_baseline",
+      "problem": "mixed_gemm",
+      "model": "baseline",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_poc_generation_gemini_gemini_2_5_pro",
+      "problem": "poc_generation",
+      "model": "Gemini 2.5 Pro",
+      "score": null,
+      "error": "Evaluation log only"
+    },
+    {
+      "solution": "one_shot_gpt_poc_generation_gpt_5",
+      "problem": "poc_generation",
+      "model": "GPT-5",
+      "score": null,
+      "error": "Evaluation log only"
+    },
+    {
+      "solution": "poc_generation_baseline",
+      "problem": "poc_generation",
+      "model": "baseline",
+      "score": null,
+      "error": "Evaluation log only"
+    },
+    {
+      "solution": "one_shot_gpt_ragged_attention_gemini_gemini_2_5_pro",
+      "problem": "ragged_attention",
+      "model": "Gemini 2.5 Pro",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_ragged_attention_gpt_5",
+      "problem": "ragged_attention",
+      "model": "GPT-5",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "ragged_attention_baseline",
+      "problem": "ragged_attention",
+      "model": "baseline",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_vdb_balanced_gemini_gemini_2_5_pro",
+      "problem": "vdb_pareto/balanced",
+      "model": "Gemini 2.5 Pro",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_vdb_balanced_gpt_5",
+      "problem": "vdb_pareto/balanced",
+      "model": "GPT-5",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_vdb_high_recall_gemini_gemini_2_5_pro",
+      "problem": "vdb_pareto/high_recall",
+      "model": "Gemini 2.5 Pro",
+      "score": 100,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_vdb_high_recall_gpt_5",
+      "problem": "vdb_pareto/high_recall",
+      "model": "GPT-5",
+      "score": 100,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_vdb_low_latency_gemini_gemini_2_5_pro",
+      "problem": "vdb_pareto/low_latency",
+      "model": "Gemini 2.5 Pro",
+      "score": 97.68028240040346,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_vdb_low_latency_gpt_5",
+      "problem": "vdb_pareto/low_latency",
+      "model": "GPT-5",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_vdb_recall80_latency_gemini_gemini_2_5_pro",
+      "problem": "vdb_pareto/recall80_latency",
+      "model": "Gemini 2.5 Pro",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_vdb_recall80_latency_gpt_5",
+      "problem": "vdb_pareto/recall80_latency",
+      "model": "GPT-5",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_vdb_recall95_latency_gemini_gemini_2_5_pro",
+      "problem": "vdb_pareto/recall95_latency",
+      "model": "Gemini 2.5 Pro",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_vdb_recall95_latency_gpt_5",
+      "problem": "vdb_pareto/recall95_latency",
+      "model": "GPT-5",
+      "score": 0,
+      "error": null
+    },
+    {
+      "solution": "one_shot_gpt_vector_addition_2_20_gemini_gemini_2_5_pro",
+      "problem": "vector_addition/2_20",
+      "model": "Gemini 2.5 Pro",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_vector_addition_2_20_gpt_5",
+      "problem": "vector_addition/2_20",
+      "model": "GPT-5",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_vector_addition_2_20_gpt_5_pro",
+      "problem": "vector_addition/2_20",
+      "model": "GPT-5 Pro",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "vector_addition_baseline",
+      "problem": "vector_addition/2_20",
+      "model": "baseline",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_vector_addition_2_24_gemini_gemini_2_5_pro",
+      "problem": "vector_addition/2_24",
+      "model": "Gemini 2.5 Pro",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_vector_addition_2_24_gpt_5",
+      "problem": "vector_addition/2_24",
+      "model": "GPT-5",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "vector_addition_baseline",
+      "problem": "vector_addition/2_24",
+      "model": "baseline",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_vector_addition_2_28_gemini_gemini_2_5_pro",
+      "problem": "vector_addition/2_28",
+      "model": "Gemini 2.5 Pro",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "one_shot_gpt_vector_addition_2_28_gpt_5",
+      "problem": "vector_addition/2_28",
+      "model": "GPT-5",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    },
+    {
+      "solution": "vector_addition_baseline",
+      "problem": "vector_addition/2_28",
+      "model": "baseline",
+      "score": null,
+      "error": "docker: Error response from daemon: could not select device driver \"\" with capabilities: [[gpu]]"
+    }
+  ],
+  "problems": [
+    {
+      "name": "cant_be_late/high_availability_loose_deadline",
+      "category": "Operating Systems & Distributed Systems",
+      "displayName": "High Availability Loose Deadline"
+    },
+    {
+      "name": "cant_be_late/high_availability_tight_deadline",
+      "category": "Operating Systems & Distributed Systems",
+      "displayName": "High Availability Tight Deadline"
+    },
+    {
+      "name": "cant_be_late/low_availability_loose_deadline",
+      "category": "Operating Systems & Distributed Systems",
+      "displayName": "Low Availability Loose Deadline"
+    },
+    {
+      "name": "cant_be_late/low_availability_tight_deadline",
+      "category": "Operating Systems & Distributed Systems",
+      "displayName": "Low Availability Tight Deadline"
+    },
+    {
+      "name": "cant_be_late_multi/high_availability_loose_deadline",
+      "category": "Operating Systems & Distributed Systems",
+      "displayName": "High Availability Loose Deadline"
+    },
+    {
+      "name": "cant_be_late_multi/high_availability_tight_deadline",
+      "category": "Operating Systems & Distributed Systems",
+      "displayName": "High Availability Tight Deadline"
+    },
+    {
+      "name": "cant_be_late_multi/low_availability_loose_deadline",
+      "category": "Operating Systems & Distributed Systems",
+      "displayName": "Low Availability Loose Deadline"
+    },
+    {
+      "name": "cant_be_late_multi/low_availability_tight_deadline",
+      "category": "Operating Systems & Distributed Systems",
+      "displayName": "Low Availability Tight Deadline"
+    },
+    {
+      "name": "cloudcast",
+      "category": "Artificial Intelligence",
+      "displayName": "Cloudcast"
+    },
+    {
+      "name": "cross_entropy",
+      "category": "Artificial Intelligence",
+      "displayName": "Cross Entropy"
+    },
+    {
+      "name": "decoding_attn",
+      "category": "HPC / GPU Systems",
+      "displayName": "Decoding Attn"
+    },
+    {
+      "name": "flash_attn",
+      "category": "HPC / GPU Systems",
+      "displayName": "Flash Attn"
+    },
+    {
+      "name": "fused_linear_ce",
+      "category": "Other",
+      "displayName": "Fused Linear Ce"
+    },
+    {
+      "name": "fused_linear_jsd",
+      "category": "Other",
+      "displayName": "Fused Linear Jsd"
+    },
+    {
+      "name": "gdpa_attention",
+      "category": "Other",
+      "displayName": "Gdpa Attention"
+    },
+    {
+      "name": "gemm_optimization/annoying",
+      "category": "HPC / GPU Systems",
+      "displayName": "Annoying"
+    },
+    {
+      "name": "gemm_optimization/k_skewed",
+      "category": "HPC / GPU Systems",
+      "displayName": "K Skewed"
+    },
+    {
+      "name": "gemm_optimization/near_tile",
+      "category": "HPC / GPU Systems",
+      "displayName": "Near Tile"
+    },
+    {
+      "name": "gemm_optimization/rectangles",
+      "category": "HPC / GPU Systems",
+      "displayName": "Rectangles"
+    },
+    {
+      "name": "gemm_optimization/squares",
+      "category": "HPC / GPU Systems",
+      "displayName": "Squares"
+    },
+    {
+      "name": "gemm_optimization/transformerish",
+      "category": "HPC / GPU Systems",
+      "displayName": "Transformerish"
+    },
+    {
+      "name": "group_gemm",
+      "category": "HPC / GPU Systems",
+      "displayName": "Group Gemm"
+    },
+    {
+      "name": "imagenet_pareto/1m",
+      "category": "Artificial Intelligence",
+      "displayName": "1m"
+    },
+    {
+      "name": "imagenet_pareto/200k",
+      "category": "Artificial Intelligence",
+      "displayName": "200k"
+    },
+    {
+      "name": "imagenet_pareto/2_5m",
+      "category": "Artificial Intelligence",
+      "displayName": "2 5m"
+    },
+    {
+      "name": "imagenet_pareto/500k",
+      "category": "Artificial Intelligence",
+      "displayName": "500k"
+    },
+    {
+      "name": "imagenet_pareto/5m",
+      "category": "Artificial Intelligence",
+      "displayName": "5m"
+    },
+    {
+      "name": "linear_regression",
+      "category": "Artificial Intelligence",
+      "displayName": "Linear Regression"
+    },
+    {
+      "name": "llm_sql/large",
+      "category": "Databases & Data Infrastructure",
+      "displayName": "Large"
+    },
+    {
+      "name": "llm_sql/small",
+      "category": "Databases & Data Infrastructure",
+      "displayName": "Small"
+    },
+    {
+      "name": "mamba2_scan",
+      "category": "HPC / GPU Systems",
+      "displayName": "Mamba2 Scan"
+    },
+    {
+      "name": "mixed_gemm",
+      "category": "HPC / GPU Systems",
+      "displayName": "Mixed Gemm"
+    },
+    {
+      "name": "poc_generation",
+      "category": "Artificial Intelligence",
+      "displayName": "Poc Generation"
+    },
+    {
+      "name": "ragged_attention",
+      "category": "Other",
+      "displayName": "Ragged Attention"
+    },
+    {
+      "name": "vdb_pareto/balanced",
+      "category": "Databases & Data Infrastructure",
+      "displayName": "Balanced"
+    },
+    {
+      "name": "vdb_pareto/high_recall",
+      "category": "Databases & Data Infrastructure",
+      "displayName": "High Recall"
+    },
+    {
+      "name": "vdb_pareto/low_latency",
+      "category": "Databases & Data Infrastructure",
+      "displayName": "Low Latency"
+    },
+    {
+      "name": "vdb_pareto/recall80_latency",
+      "category": "Databases & Data Infrastructure",
+      "displayName": "Recall80 Latency"
+    },
+    {
+      "name": "vdb_pareto/recall95_latency",
+      "category": "Databases & Data Infrastructure",
+      "displayName": "Recall95 Latency"
+    },
+    {
+      "name": "vector_addition/2_20",
+      "category": "HPC / GPU Systems",
+      "displayName": "2 20"
+    },
+    {
+      "name": "vector_addition/2_24",
+      "category": "HPC / GPU Systems",
+      "displayName": "2 24"
+    },
+    {
+      "name": "vector_addition/2_28",
+      "category": "HPC / GPU Systems",
+      "displayName": "2 28"
+    }
+  ],
+  "models": [
+    {
+      "name": "Gemini 2.5 Pro",
+      "provider": "Google",
+      "status": "active"
+    },
+    {
+      "name": "GPT-5",
+      "provider": "OpenAI",
+      "status": "active"
+    },
+    {
+      "name": "GPT-5 Pro",
+      "provider": "OpenAI",
+      "status": "active"
+    },
+    {
+      "name": "baseline",
+      "provider": "Baseline",
+      "status": "active"
+    }
+  ]
+}

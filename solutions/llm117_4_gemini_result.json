@@ -1,0 +1,808 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 0,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 73683145,
+            "memory": 786432,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 261877878,
+            "memory": 1040384,
+            "msg": "wrong output format Expected int32, but \"21474836481\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 194341518,
+            "memory": 868352,
+            "msg": "wrong output format Expected int32, but \"-130921112253235200\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 125870928,
+            "memory": 778240,
+            "msg": "wrong output format Expected int32, but \"-1584289445729533952\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 144955575,
+            "memory": 753664,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 218109403,
+            "memory": 864256,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 78129483,
+            "memory": 626688,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 256854275,
+            "memory": 839680,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 393291110,
+            "memory": 897024,
+            "msg": "wrong output format Expected int32, but \"-1420228858091798528\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 155168269,
+            "memory": 806912,
+            "msg": "wrong output format Expected int32, but \"-1197803870340595712\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 178344520,
+            "memory": 909312,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 176570589,
+            "memory": 778240,
+            "msg": "wrong output format Expected int32, but \"-2865156704122830848\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 92364498,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 305584787,
+            "memory": 770048,
+            "msg": "wrong output format Expected int32, but \"-7556929994409115648\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 186527445,
+            "memory": 782336,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 60806477,
+            "memory": 647168,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 104214700,
+            "memory": 696320,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 177092070,
+            "memory": 872448,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 213597174,
+            "memory": 790528,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 136610339,
+            "memory": 778240,
+            "msg": "wrong output format Expected int32, but \"-2032273515839750144\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 91692484,
+            "memory": 847872,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 231108956,
+            "memory": 778240,
+            "msg": "wrong output format Expected int32, but \"-8415835310078033920\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 20729187,
+            "memory": 610304,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 216491253,
+            "memory": 856064,
+            "msg": "wrong output format Expected int32, but \"-7739074530246295552\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 196637674,
+            "memory": 1081344,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 65059833,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 257406078,
+            "memory": 610304,
+            "msg": "wrong output format Expected int32, but \"140577400282336\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 140559214,
+            "memory": 839680,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 168746300,
+            "memory": 864256,
+            "msg": "wrong output format Expected int32, but \"-605250119045971968\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 113244212,
+            "memory": 868352,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 130645422,
+            "memory": 856064,
+            "msg": "wrong output format Expected int32, but \"-8262422644140736512\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 166391331,
+            "memory": 790528,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 132777371,
+            "memory": 733184,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 246755738,
+            "memory": 790528,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 206543596,
+            "memory": 884736,
+            "msg": "wrong output format Expected int32, but \"-7961642149526831104\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 32663141,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 8450201,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 162349506,
+            "memory": 524288,
+            "msg": "wrong output format Expected int32, but \"-2294971941867716608\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 256018750,
+            "memory": 876544,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 122025747,
+            "memory": 602112,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 99360023,
+            "memory": 598016,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 146967957,
+            "memory": 835584,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 221420766,
+            "memory": 843776,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 69591500,
+            "memory": 622592,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 176294204,
+            "memory": 876544,
+            "msg": "wrong output format Expected int32, but \"-5480237884841820160\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 88115384,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 68449888,
+            "memory": 516096,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 12778893,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 200915581,
+            "memory": 999424,
+            "msg": "wrong output format Expected int32, but \"-3988517003210129408\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 250472381,
+            "memory": 872448,
+            "msg": "wrong output format Expected int32, but \"-4404711553695186944\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 382469027,
+            "memory": 901120,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 74634816,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 301464251,
+            "memory": 917504,
+            "msg": "wrong output format Expected int32, but \"-6969872790657236992\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 179108781,
+            "memory": 602112,
+            "msg": "wrong output format Expected int32, but \"-7682206380558123008\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 210118330,
+            "memory": 1007616,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 297069364,
+            "memory": 987136,
+            "msg": "wrong output format Expected int32, but \"-3376959113322496000\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 145220073,
+            "memory": 524288,
+            "msg": "wrong output format Expected int32, but \"-3958808423846576128\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 122313146,
+            "memory": 647168,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 74356860,
+            "memory": 700416,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 261353281,
+            "memory": 778240,
+            "msg": "wrong output format Expected int32, but \"21474836481\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 251835001,
+            "memory": 868352,
+            "msg": "wrong output format Expected int32, but \"-8963635620006526976\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 310151921,
+            "memory": 864256,
+            "msg": "wrong output format Expected int32, but \"-4841373331376832512\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 274147549,
+            "memory": 634880,
+            "msg": "wrong output format Expected int32, but \"-6993908085047951360\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 225811451,
+            "memory": 598016,
+            "msg": "wrong output format Expected int32, but \"-3099716742881411072\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 334387119,
+            "memory": 1015808,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 22124408,
+            "memory": 602112,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 491475053,
+            "memory": 892928,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 26443472,
+            "memory": 614400,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 340096258,
+            "memory": 610304,
+            "msg": "wrong output format Expected int32, but \"21474836481\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 227614858,
+            "memory": 716800,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 290672331,
+            "memory": 598016,
+            "msg": "wrong output format Expected int32, but \"-6896301610045669376\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 247681676,
+            "memory": 524288,
+            "msg": "wrong output format Expected int32, but \"-7726706348443697152\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 35848687,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 217233069,
+            "memory": 778240,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 177396660,
+            "memory": 786432,
+            "msg": "wrong output format Expected int32, but \"-171471561981165568\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 104683450,
+            "memory": 933888,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 210584316,
+            "memory": 618496,
+            "msg": "wrong output format Expected int32, but \"25769803777\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 145313848,
+            "memory": 618496,
+            "msg": "wrong output format Expected int32, but \"-2919897445445992448\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 161828307,
+            "memory": 884736,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5389553,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 106046382,
+            "memory": 606208,
+            "msg": "wrong output format Expected int32, but \"-4519555024197419008\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 133068323,
+            "memory": 860160,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 292467427,
+            "memory": 815104,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 44422522,
+            "memory": 786432,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 171288674,
+            "memory": 626688,
+            "msg": "wrong output format Expected int32, but \"-2045014480808247296\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 274609584,
+            "memory": 978944,
+            "msg": "wrong output format Expected int32, but \"-8719999091587416064\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 214441315,
+            "memory": 610304,
+            "msg": "wrong output format Expected int32, but \"-1842370168464343040\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 58049154,
+            "memory": 847872,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 493561183,
+            "memory": 897024,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 423646490,
+            "memory": 864256,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 496720882,
+            "memory": 884736,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 294901247,
+            "memory": 847872,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 79399239,
+            "memory": 712704,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 18927132,
+            "memory": 786432,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 199021002,
+            "memory": 864256,
+            "msg": "wrong output format Expected int32, but \"-3450887622329958400\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 134133265,
+            "memory": 901120,
+            "msg": "wrong output format Expected int32, but \"-7245749571837296640\" found\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 87713931,
+            "memory": 778240,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 82969802,
+            "memory": 708608,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 57011932,
+            "memory": 528384,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 234942390,
+            "memory": 524288,
+            "msg": "wrong output format Expected int32, but \"-1475979033439469568\" found\n",
+            "scoreRatio": 0
+        }
+    ]
+}

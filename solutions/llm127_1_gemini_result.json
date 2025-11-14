@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 10,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 29542033,
+            "memory": 589824,
+            "msg": "points 1.0 Accepted. Queries used: 18. Your score = 5000 - 18 = 4982. Optimal queries: 4291. Best score = 5000 - 4291 = 709. Ratio: 1.000000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 37044707,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong answer: reported index 99855, diamond is at 134306. Queries used: 18. Ratio: 0.000000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 29259889,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong answer: reported index 99855, diamond is at 134306. Queries used: 18. Ratio: 0.000000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 35057760,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong answer: reported index 99855, diamond is at 134306. Queries used: 18. Ratio: 0.000000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 28865735,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong answer: reported index 99848, diamond is at 48394. Queries used: 18. Ratio: 0.000000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 28295029,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong answer: reported index 99855, diamond is at 134306. Queries used: 18. Ratio: 0.000000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 33050941,
+            "memory": 585728,
+            "msg": "points 0.0 Wrong answer: reported index 97321, diamond is at 121585. Queries used: 17. Ratio: 0.000000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 28167527,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong answer: reported index 99855, diamond is at 134306. Queries used: 18. Ratio: 0.000000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 29928968,
+            "memory": 339968,
+            "msg": "points 0.0 Wrong answer: reported index 99855, diamond is at 134306. Queries used: 18. Ratio: 0.000000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 35013920,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong answer: reported index 99855, diamond is at 134306. Queries used: 18. Ratio: 0.000000\n",
+            "scoreRatio": 0
+        }
+    ]
+}

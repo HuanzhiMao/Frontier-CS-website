@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 50,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 116565814,
+            "memory": 524288,
+            "msg": "wrong answer Too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 139068169,
+            "memory": 524288,
+            "msg": "wrong answer Too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 136181365,
+            "memory": 516096,
+            "msg": "wrong answer Too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2602804,
+            "memory": 524288,
+            "msg": "points 0.9889963321 cnt_query=34, Ratio: 0.9890\n",
+            "scoreRatio": 0.989
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 88839414,
+            "memory": 524288,
+            "msg": "wrong answer Too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2210947,
+            "memory": 524288,
+            "msg": "points 0.9889963321 cnt_query=34, Ratio: 0.9890\n",
+            "scoreRatio": 0.989
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 95011359,
+            "memory": 524288,
+            "msg": "wrong answer Too many queries\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2690460,
+            "memory": 524288,
+            "msg": "points 0.9889963321 cnt_query=34, Ratio: 0.9890\n",
+            "scoreRatio": 0.989
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2151085,
+            "memory": 524288,
+            "msg": "points 0.9906635545 cnt_query=29, Ratio: 0.9907\n",
+            "scoreRatio": 0.9907
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1806100,
+            "memory": 524288,
+            "msg": "points 0.9939979993 cnt_query=19, Ratio: 0.9940\n",
+            "scoreRatio": 0.994
+        }
+    ]
+}

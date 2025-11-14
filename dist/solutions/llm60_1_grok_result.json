@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 71,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 7497413,
+            "memory": 786432,
+            "msg": "wrong answer Wrong answer. Expected (86944,52292,2657) but got (0,0,0)\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5365332,
+            "memory": 524288,
+            "msg": "points 0.884765625 Ratio: 0.884766\n",
+            "scoreRatio": 0.884766
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4912776,
+            "memory": 524288,
+            "msg": "points 0.884765625 Ratio: 0.884766\n",
+            "scoreRatio": 0.884766
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4767228,
+            "memory": 524288,
+            "msg": "points 0.884765625 Ratio: 0.884766\n",
+            "scoreRatio": 0.884766
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4785530,
+            "memory": 524288,
+            "msg": "points 0.884765625 Ratio: 0.884766\n",
+            "scoreRatio": 0.884766
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4430526,
+            "memory": 516096,
+            "msg": "wrong answer Wrong answer. Expected (13172,79580,10798) but got (13172,0,10798)\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4917662,
+            "memory": 516096,
+            "msg": "points 0.884765625 Ratio: 0.884766\n",
+            "scoreRatio": 0.884766
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5208389,
+            "memory": 552960,
+            "msg": "points 0.884765625 Ratio: 0.884766\n",
+            "scoreRatio": 0.884766
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4634301,
+            "memory": 524288,
+            "msg": "points 0.884765625 Ratio: 0.884766\n",
+            "scoreRatio": 0.884766
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5743518,
+            "memory": 524288,
+            "msg": "points 0.884765625 Ratio: 0.884766\n",
+            "scoreRatio": 0.884766
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 20,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 17828285,
+            "memory": 794624,
+            "msg": "wrong answer The given sequence of moves does not sort the permutation\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 8193960,
+            "memory": 524288,
+            "msg": "wrong answer The given sequence of moves does not sort the permutation\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 6268993,
+            "memory": 524288,
+            "msg": "wrong answer The given sequence of moves does not sort the permutation\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 3720905,
+            "memory": 524288,
+            "msg": "points 1.0 Cost: 7744. Ratio: 1.000000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 1326567,
+            "memory": 524288,
+            "msg": "points 1.0 Cost: 10000. Ratio: 1.000000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2102602493,
+            "memory": 11722752,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2102462973,
+            "memory": 14409728,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2102607053,
+            "memory": 14696448,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2102805304,
+            "memory": 14397440,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2102609047,
+            "memory": 14413824,
+            "msg": "",
+            "scoreRatio": 0
+        }
+    ]
+}

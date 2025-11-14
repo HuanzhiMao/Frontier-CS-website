@@ -1,0 +1,48 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 27,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1775175014,
+            "memory": 32755712,
+            "msg": "[Interactor] time used = 1.2 s\n[Interactor] used=36762\npoints 0.2757916667 Correct Guess. Ratio: 0.2758\n",
+            "scoreRatio": 0.2758
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1647219439,
+            "memory": 32542720,
+            "msg": "[Interactor] time used = 1.10454 s\n[Interactor] used=35016\npoints 0.3121666667 Correct Guess. Ratio: 0.3122\n",
+            "scoreRatio": 0.3122
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1612054127,
+            "memory": 32747520,
+            "msg": "[Interactor] time used = 1.26393 s\n[Interactor] used=39882\npoints 0.2107916667 Correct Guess. Ratio: 0.2108\n",
+            "scoreRatio": 0.2108
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1607448608,
+            "memory": 32497664,
+            "msg": "[Interactor] time used = 1.17887 s\n[Interactor] used=36410\npoints 0.283125 Correct Guess. Ratio: 0.2831\n",
+            "scoreRatio": 0.2831
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1493778395,
+            "memory": 32501760,
+            "msg": "[Interactor] time used = 1.25952 s\n[Interactor] used=37962\npoints 0.2507916667 Correct Guess. Ratio: 0.2508\n",
+            "scoreRatio": 0.2508
+        }
+    ]
+}

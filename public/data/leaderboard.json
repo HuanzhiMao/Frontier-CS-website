@@ -1,0 +1,462 @@
+[
+  {
+    "name": "GPT-5 Pro",
+    "provider": "OpenAI",
+    "status": "active",
+    "totalProblems": 42,
+    "attempted": 1,
+    "avgScore": 26,
+    "results": [
+      {
+        "solution": "one_shot_gpt_cant_be_late_low_availability_tight_deadline_gpt_5_pro",
+        "problem": "cant_be_late/low_availability_tight_deadline",
+        "model": "GPT-5 Pro",
+        "score": 26,
+        "error": null
+      }
+    ]
+  },
+  {
+    "name": "Gemini 2.5 Pro",
+    "provider": "Google",
+    "status": "active",
+    "totalProblems": 42,
+    "attempted": 22,
+    "avgScore": 15.39,
+    "results": [
+      {
+        "solution": "one_shot_gpt_cant_be_late_high_availability_loose_deadline_gemini_gemini_2_5_pro",
+        "problem": "cant_be_late/high_availability_loose_deadline",
+        "model": "Gemini 2.5 Pro",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_cant_be_late_high_availability_tight_deadline_gemini_gemini_2_5_pro",
+        "problem": "cant_be_late/high_availability_tight_deadline",
+        "model": "Gemini 2.5 Pro",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_cant_be_late_low_availability_loose_deadline_gemini_gemini_2_5_pro",
+        "problem": "cant_be_late/low_availability_loose_deadline",
+        "model": "Gemini 2.5 Pro",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_cant_be_late_low_availability_tight_deadline_gemini_gemini_2_5_pro",
+        "problem": "cant_be_late/low_availability_tight_deadline",
+        "model": "Gemini 2.5 Pro",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_cant_be_late_multi_high_availability_loose_deadline_gemini_gemini_2_5_pro",
+        "problem": "cant_be_late_multi/high_availability_loose_deadline",
+        "model": "Gemini 2.5 Pro",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_cant_be_late_multi_high_availability_tight_deadline_gemini_gemini_2_5_pro",
+        "problem": "cant_be_late_multi/high_availability_tight_deadline",
+        "model": "Gemini 2.5 Pro",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_cant_be_late_multi_low_availability_loose_deadline_gemini_gemini_2_5_pro",
+        "problem": "cant_be_late_multi/low_availability_loose_deadline",
+        "model": "Gemini 2.5 Pro",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_cant_be_late_multi_low_availability_tight_deadline_gemini_gemini_2_5_pro",
+        "problem": "cant_be_late_multi/low_availability_tight_deadline",
+        "model": "Gemini 2.5 Pro",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_cloudcast_gemini_gemini_2_5_pro",
+        "problem": "cloudcast",
+        "model": "Gemini 2.5 Pro",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_imagenet_1m_gemini_gemini_2_5_pro",
+        "problem": "imagenet_pareto/1m",
+        "model": "Gemini 2.5 Pro",
+        "score": 38.476562499999986,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_imagenet_200k_gemini_gemini_2_5_pro",
+        "problem": "imagenet_pareto/200k",
+        "model": "Gemini 2.5 Pro",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_imagenet_2_5m_gemini_gemini_2_5_pro",
+        "problem": "imagenet_pareto/2_5m",
+        "model": "Gemini 2.5 Pro",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_imagenet_500k_gemini_gemini_2_5_pro",
+        "problem": "imagenet_pareto/500k",
+        "model": "Gemini 2.5 Pro",
+        "score": 45.94029017857144,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_imagenet_5m_gemini_gemini_2_5_pro",
+        "problem": "imagenet_pareto/5m",
+        "model": "Gemini 2.5 Pro",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_linear_regression_gemini_gemini_2_5_pro",
+        "problem": "linear_regression",
+        "model": "Gemini 2.5 Pro",
+        "score": 56.5,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_llm_sql_large_gemini_gemini_2_5_pro",
+        "problem": "llm_sql/large",
+        "model": "Gemini 2.5 Pro",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_llm_sql_small_gemini_gemini_2_5_pro",
+        "problem": "llm_sql/small",
+        "model": "Gemini 2.5 Pro",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_vdb_balanced_gemini_gemini_2_5_pro",
+        "problem": "vdb_pareto/balanced",
+        "model": "Gemini 2.5 Pro",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_vdb_high_recall_gemini_gemini_2_5_pro",
+        "problem": "vdb_pareto/high_recall",
+        "model": "Gemini 2.5 Pro",
+        "score": 100,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_vdb_low_latency_gemini_gemini_2_5_pro",
+        "problem": "vdb_pareto/low_latency",
+        "model": "Gemini 2.5 Pro",
+        "score": 97.68028240040346,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_vdb_recall80_latency_gemini_gemini_2_5_pro",
+        "problem": "vdb_pareto/recall80_latency",
+        "model": "Gemini 2.5 Pro",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_vdb_recall95_latency_gemini_gemini_2_5_pro",
+        "problem": "vdb_pareto/recall95_latency",
+        "model": "Gemini 2.5 Pro",
+        "score": 0,
+        "error": null
+      }
+    ]
+  },
+  {
+    "name": "GPT-5",
+    "provider": "OpenAI",
+    "status": "active",
+    "totalProblems": 42,
+    "attempted": 22,
+    "avgScore": 8.32,
+    "results": [
+      {
+        "solution": "one_shot_gpt_cant_be_late_high_availability_loose_deadline_gpt_5",
+        "problem": "cant_be_late/high_availability_loose_deadline",
+        "model": "GPT-5",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_cant_be_late_high_availability_tight_deadline_gpt_5",
+        "problem": "cant_be_late/high_availability_tight_deadline",
+        "model": "GPT-5",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_cant_be_late_low_availability_loose_deadline_gpt_5",
+        "problem": "cant_be_late/low_availability_loose_deadline",
+        "model": "GPT-5",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_cant_be_late_low_availability_tight_deadline_gpt_5",
+        "problem": "cant_be_late/low_availability_tight_deadline",
+        "model": "GPT-5",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_cant_be_late_multi_high_availability_loose_deadline_gpt_5",
+        "problem": "cant_be_late_multi/high_availability_loose_deadline",
+        "model": "GPT-5",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_cant_be_late_multi_high_availability_tight_deadline_gpt_5",
+        "problem": "cant_be_late_multi/high_availability_tight_deadline",
+        "model": "GPT-5",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_cant_be_late_multi_low_availability_loose_deadline_gpt_5",
+        "problem": "cant_be_late_multi/low_availability_loose_deadline",
+        "model": "GPT-5",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_cant_be_late_multi_low_availability_tight_deadline_gpt_5",
+        "problem": "cant_be_late_multi/low_availability_tight_deadline",
+        "model": "GPT-5",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_cloudcast_gpt_5",
+        "problem": "cloudcast",
+        "model": "GPT-5",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_imagenet_1m_gpt_5",
+        "problem": "imagenet_pareto/1m",
+        "model": "GPT-5",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_imagenet_200k_gpt_5",
+        "problem": "imagenet_pareto/200k",
+        "model": "GPT-5",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_imagenet_2_5m_gpt_5",
+        "problem": "imagenet_pareto/2_5m",
+        "model": "GPT-5",
+        "score": 26.43229166666668,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_imagenet_500k_gpt_5",
+        "problem": "imagenet_pareto/500k",
+        "model": "GPT-5",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_imagenet_5m_gpt_5",
+        "problem": "imagenet_pareto/5m",
+        "model": "GPT-5",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_linear_regression_gpt_5",
+        "problem": "linear_regression",
+        "model": "GPT-5",
+        "score": 56.5,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_llm_sql_large_gpt_5",
+        "problem": "llm_sql/large",
+        "model": "GPT-5",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_llm_sql_small_gpt_5",
+        "problem": "llm_sql/small",
+        "model": "GPT-5",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_vdb_balanced_gpt_5",
+        "problem": "vdb_pareto/balanced",
+        "model": "GPT-5",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_vdb_high_recall_gpt_5",
+        "problem": "vdb_pareto/high_recall",
+        "model": "GPT-5",
+        "score": 100,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_vdb_low_latency_gpt_5",
+        "problem": "vdb_pareto/low_latency",
+        "model": "GPT-5",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_vdb_recall80_latency_gpt_5",
+        "problem": "vdb_pareto/recall80_latency",
+        "model": "GPT-5",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "one_shot_gpt_vdb_recall95_latency_gpt_5",
+        "problem": "vdb_pareto/recall95_latency",
+        "model": "GPT-5",
+        "score": 0,
+        "error": null
+      }
+    ]
+  },
+  {
+    "name": "baseline",
+    "provider": "Baseline",
+    "status": "active",
+    "totalProblems": 42,
+    "attempted": 15,
+    "avgScore": -7.81,
+    "results": [
+      {
+        "solution": "cbl_baseline_high_availability_loose_deadline",
+        "problem": "cant_be_late/high_availability_loose_deadline",
+        "model": "baseline",
+        "score": 19,
+        "error": null
+      },
+      {
+        "solution": "cbl_baseline_high_availability_tight_deadline",
+        "problem": "cant_be_late/high_availability_tight_deadline",
+        "model": "baseline",
+        "score": 4,
+        "error": null
+      },
+      {
+        "solution": "cbl_baseline_low_availability_loose_deadline",
+        "problem": "cant_be_late/low_availability_loose_deadline",
+        "model": "baseline",
+        "score": 67,
+        "error": null
+      },
+      {
+        "solution": "cbl_baseline_low_availability_tight_deadline",
+        "problem": "cant_be_late/low_availability_tight_deadline",
+        "model": "baseline",
+        "score": 27,
+        "error": null
+      },
+      {
+        "solution": "cant_be_late_multi_baseline_high_availability_loose_deadline",
+        "problem": "cant_be_late_multi/high_availability_loose_deadline",
+        "model": "baseline",
+        "score": -54.15037802777803,
+        "error": null
+      },
+      {
+        "solution": "cant_be_late_multi_baseline_high_availability_tight_deadline",
+        "problem": "cant_be_late_multi/high_availability_tight_deadline",
+        "model": "baseline",
+        "score": -117.0038325625012,
+        "error": null
+      },
+      {
+        "solution": "cant_be_late_multi_baseline_low_availability_tight_deadline",
+        "problem": "cant_be_late_multi/low_availability_tight_deadline",
+        "model": "baseline",
+        "score": -65.9577353680561,
+        "error": null
+      },
+      {
+        "solution": "cloudcast_baseline",
+        "problem": "cloudcast",
+        "model": "baseline",
+        "score": 0.09552371980292827,
+        "error": null
+      },
+      {
+        "solution": "imagenet_baseline",
+        "problem": "imagenet_pareto/1m",
+        "model": "baseline",
+        "score": 2.8320312499999787,
+        "error": null
+      },
+      {
+        "solution": "imagenet_baseline",
+        "problem": "imagenet_pareto/200k",
+        "model": "baseline",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "imagenet_baseline",
+        "problem": "imagenet_pareto/2_5m",
+        "model": "baseline",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "imagenet_baseline",
+        "problem": "imagenet_pareto/500k",
+        "model": "baseline",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "imagenet_baseline",
+        "problem": "imagenet_pareto/5m",
+        "model": "baseline",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "llm_sql_baseline",
+        "problem": "llm_sql/large",
+        "model": "baseline",
+        "score": 0,
+        "error": null
+      },
+      {
+        "solution": "llm_sql_baseline",
+        "problem": "llm_sql/small",
+        "model": "baseline",
+        "score": 0,
+        "error": null
+      }
+    ]
+  }
+]

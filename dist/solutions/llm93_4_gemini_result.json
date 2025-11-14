@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 0,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 648930181,
+            "memory": 872448,
+            "msg": "wrong answer Invalid final answer: expected exactly one root (par[i]=0), found 366.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 574986465,
+            "memory": 602112,
+            "msg": "wrong answer Invalid final answer: expected exactly one root (par[i]=0), found 379.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 560966398,
+            "memory": 520192,
+            "msg": "wrong answer Invalid final answer: expected exactly one root (par[i]=0), found 312.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 471506557,
+            "memory": 606208,
+            "msg": "wrong answer Invalid final answer: expected exactly one root (par[i]=0), found 391.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 458324387,
+            "memory": 610304,
+            "msg": "wrong answer Invalid final answer: expected exactly one root (par[i]=0), found 348.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 537483569,
+            "memory": 524288,
+            "msg": "wrong answer Invalid final answer: expected exactly one root (par[i]=0), found 388.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 522160912,
+            "memory": 585728,
+            "msg": "wrong answer Invalid final answer: expected exactly one root (par[i]=0), found 392.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 536857749,
+            "memory": 602112,
+            "msg": "wrong answer Invalid final answer: expected exactly one root (par[i]=0), found 348.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 548854037,
+            "memory": 847872,
+            "msg": "wrong answer Invalid final answer: expected exactly one root (par[i]=0), found 384.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 518668506,
+            "memory": 786432,
+            "msg": "wrong answer Invalid final answer: expected exactly one root (par[i]=0), found 336.\n",
+            "scoreRatio": 0
+        }
+    ]
+}

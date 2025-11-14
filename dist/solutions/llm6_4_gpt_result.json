@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 14,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1513840,
+            "memory": 524288,
+            "msg": "points 0.0 Ratio: 0.000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1696896,
+            "memory": 524288,
+            "msg": "points 0.2222222222 Ratio: 0.222\n",
+            "scoreRatio": 0.222
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3254816,
+            "memory": 1048576,
+            "msg": "wrong answer Integer 275 violates the range [1, 240]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2120648,
+            "memory": 786432,
+            "msg": "points 0.0 Ratio: 0.000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 13240852,
+            "memory": 3411968,
+            "msg": "wrong answer Integer 645 violates the range [1, 240]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2496354,
+            "memory": 786432,
+            "msg": "points 0.0 Ratio: 0.000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 757498,
+            "memory": 524288,
+            "msg": "points 0.7222222222 Ratio: 0.722\n",
+            "scoreRatio": 0.722
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4075502,
+            "memory": 1310720,
+            "msg": "wrong answer Integer 323 violates the range [1, 240]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 8301189,
+            "memory": 1572864,
+            "msg": "wrong answer Integer 421 violates the range [1, 240]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1052820,
+            "memory": 524288,
+            "msg": "points 0.4285714286 Ratio: 0.429\n",
+            "scoreRatio": 0.429
+        }
+    ]
+}

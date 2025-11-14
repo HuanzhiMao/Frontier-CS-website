@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Gemini",
+    "provider": "Google",
+    "status": "active",
+    "totalProblems": 107,
+    "uniqueProblemsSolved": 105,
+    "totalAttempts": 525,
+    "passedAttempts": 1,
+    "avgScore": 11.03,
+    "passRate": 0.19
+  },
+  {
+    "name": "GPT",
+    "provider": "OpenAI",
+    "status": "active",
+    "totalProblems": 107,
+    "uniqueProblemsSolved": 105,
+    "totalAttempts": 525,
+    "passedAttempts": 1,
+    "avgScore": 10.7,
+    "passRate": 0.19
+  },
+  {
+    "name": "Grok",
+    "provider": "xAI",
+    "status": "active",
+    "totalProblems": 107,
+    "uniqueProblemsSolved": 107,
+    "totalAttempts": 291,
+    "passedAttempts": 3,
+    "avgScore": 9.47,
+    "passRate": 1.03
+  },
+  {
+    "name": "Claude",
+    "provider": "Anthropic",
+    "status": "active",
+    "totalProblems": 107,
+    "uniqueProblemsSolved": 107,
+    "totalAttempts": 535,
+    "passedAttempts": 0,
+    "avgScore": 1.63,
+    "passRate": 0
+  }
+]

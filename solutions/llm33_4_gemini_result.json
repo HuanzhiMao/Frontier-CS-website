@@ -1,0 +1,56 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 86,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 11991507,
+            "memory": 1175552,
+            "msg": "points 76.0 Ratio: 0.8444\n",
+            "scoreRatio": 0.8444
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 17329964,
+            "memory": 1175552,
+            "msg": "points 69.0 Ratio: 0.7667\n",
+            "scoreRatio": 0.7667
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 16405280,
+            "memory": 1175552,
+            "msg": "points 74.0 Ratio: 0.8222\n",
+            "scoreRatio": 0.8222
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 28942032,
+            "memory": 1175552,
+            "msg": "points 72.0 Ratio: 0.8000\n",
+            "scoreRatio": 0.8
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 4754885,
+            "memory": 1175552,
+            "msg": "points 90.0 Ratio: 1.0000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 10300056,
+            "memory": 1175552,
+            "msg": "points 84.0 Ratio: 0.9333\n",
+            "scoreRatio": 0.9333
+        }
+    ]
+}

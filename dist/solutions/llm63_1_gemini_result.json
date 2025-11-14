@@ -1,0 +1,2352 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 22,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1702272,
+            "memory": 524288,
+            "msg": "points 0.9783333333 Correct Solution. Ratio: 0.9783\n",
+            "scoreRatio": 0.9783
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2332621,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2499994,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2897374,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2353622,
+            "memory": 524288,
+            "msg": "points 0.955 Correct Solution. Ratio: 0.9550\n",
+            "scoreRatio": 0.955
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3290838,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3113556,
+            "memory": 507904,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 48343669,
+            "memory": 704512,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 50296323,
+            "memory": 737280,
+            "msg": "points 0.9116666667 Correct Solution. Ratio: 0.9117\n",
+            "scoreRatio": 0.9117
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 56850044,
+            "memory": 729088,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 53981374,
+            "memory": 864256,
+            "msg": "points 0.9116666667 Correct Solution. Ratio: 0.9117\n",
+            "scoreRatio": 0.9117
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 57347482,
+            "memory": 954368,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 51619907,
+            "memory": 741376,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 62305526,
+            "memory": 724992,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 74149095,
+            "memory": 757760,
+            "msg": "points 0.9083333333 Correct Solution. Ratio: 0.9083\n",
+            "scoreRatio": 0.9083
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 82168776,
+            "memory": 765952,
+            "msg": "points 0.9083333333 Correct Solution. Ratio: 0.9083\n",
+            "scoreRatio": 0.9083
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 75681194,
+            "memory": 770048,
+            "msg": "points 0.9083333333 Correct Solution. Ratio: 0.9083\n",
+            "scoreRatio": 0.9083
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 68189067,
+            "memory": 765952,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 68023190,
+            "memory": 999424,
+            "msg": "points 0.9083333333 Correct Solution. Ratio: 0.9083\n",
+            "scoreRatio": 0.9083
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 68167365,
+            "memory": 765952,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 62439297,
+            "memory": 757760,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 65878474,
+            "memory": 765952,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1900668,
+            "memory": 503808,
+            "msg": "points 0.9916666667 Correct Solution. Ratio: 0.9917\n",
+            "scoreRatio": 0.9917
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 995530,
+            "memory": 524288,
+            "msg": "points 0.9916666667 Correct Solution. Ratio: 0.9917\n",
+            "scoreRatio": 0.9917
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1818375,
+            "memory": 524288,
+            "msg": "points 0.9783333333 Correct Solution. Ratio: 0.9783\n",
+            "scoreRatio": 0.9783
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2365170,
+            "memory": 524288,
+            "msg": "points 0.9616666667 Correct Solution. Ratio: 0.9617\n",
+            "scoreRatio": 0.9617
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2839208,
+            "memory": 524288,
+            "msg": "points 0.9616666667 Correct Solution. Ratio: 0.9617\n",
+            "scoreRatio": 0.9617
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2346277,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3411563,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4390647,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4021314,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4658657,
+            "memory": 524288,
+            "msg": "points 0.9483333333 Correct Solution. Ratio: 0.9483\n",
+            "scoreRatio": 0.9483
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3478123,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3661738,
+            "memory": 516096,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 65792376,
+            "memory": 753664,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 64174063,
+            "memory": 753664,
+            "msg": "points 0.9116666667 Correct Solution. Ratio: 0.9117\n",
+            "scoreRatio": 0.9117
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 61499399,
+            "memory": 765952,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 77410627,
+            "memory": 761856,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 59234907,
+            "memory": 761856,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 55682699,
+            "memory": 765952,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 67862022,
+            "memory": 765952,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 64046755,
+            "memory": 1138688,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 68381345,
+            "memory": 753664,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 59470205,
+            "memory": 770048,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 62243589,
+            "memory": 757760,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 61811978,
+            "memory": 761856,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1588767,
+            "memory": 528384,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2410432,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1540558,
+            "memory": 524288,
+            "msg": "points 0.9783333333 Correct Solution. Ratio: 0.9783\n",
+            "scoreRatio": 0.9783
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1804767,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 336005,
+            "memory": 552960,
+            "msg": "points 0.9783333333 Correct Solution. Ratio: 0.9783\n",
+            "scoreRatio": 0.9783
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1373540,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3975668,
+            "memory": 524288,
+            "msg": "points 0.9783333333 Correct Solution. Ratio: 0.9783\n",
+            "scoreRatio": 0.9783
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1365890,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1519134,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1701750,
+            "memory": 524288,
+            "msg": "points 0.985 Correct Solution. Ratio: 0.9850\n",
+            "scoreRatio": 0.985
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2311357,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1876088,
+            "memory": 524288,
+            "msg": "points 0.985 Correct Solution. Ratio: 0.9850\n",
+            "scoreRatio": 0.985
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2646364,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 7562884,
+            "memory": 528384,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2587677,
+            "memory": 524288,
+            "msg": "points 0.9616666667 Correct Solution. Ratio: 0.9617\n",
+            "scoreRatio": 0.9617
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2697191,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 8214269,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3692334,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5339223,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3490306,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2472705,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3019849,
+            "memory": 520192,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2842644,
+            "memory": 405504,
+            "msg": "points 0.9616666667 Correct Solution. Ratio: 0.9617\n",
+            "scoreRatio": 0.9617
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2516552,
+            "memory": 786432,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3078103,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3777605,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3961971,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5597888,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3710217,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5001022,
+            "memory": 516096,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2950758,
+            "memory": 520192,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2197471,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1839433,
+            "memory": 520192,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2173574,
+            "memory": 786432,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3533815,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2882677,
+            "memory": 524288,
+            "msg": "points 0.9516666667 Correct Solution. Ratio: 0.9517\n",
+            "scoreRatio": 0.9517
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2751867,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2760857,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3138754,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2530637,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4516180,
+            "memory": 528384,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2738569,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4903482,
+            "memory": 364544,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3173970,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2731177,
+            "memory": 786432,
+            "msg": "points 0.9516666667 Correct Solution. Ratio: 0.9517\n",
+            "scoreRatio": 0.9517
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3805207,
+            "memory": 524288,
+            "msg": "points 0.9516666667 Correct Solution. Ratio: 0.9517\n",
+            "scoreRatio": 0.9517
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2888718,
+            "memory": 524288,
+            "msg": "points 0.9516666667 Correct Solution. Ratio: 0.9517\n",
+            "scoreRatio": 0.9517
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3019399,
+            "memory": 520192,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3146272,
+            "memory": 528384,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 6629163,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5346294,
+            "memory": 520192,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2733484,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3745473,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 6964629,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3822471,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3133908,
+            "memory": 774144,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4118042,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5019562,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 7162671,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3731178,
+            "memory": 516096,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3277605,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2632597,
+            "memory": 520192,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2719215,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2218793,
+            "memory": 339968,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 6100332,
+            "memory": 552960,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3847158,
+            "memory": 524288,
+            "msg": "points 0.945 Correct Solution. Ratio: 0.9450\n",
+            "scoreRatio": 0.945
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3598854,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 6867498,
+            "memory": 520192,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4049970,
+            "memory": 512000,
+            "msg": "points 0.945 Correct Solution. Ratio: 0.9450\n",
+            "scoreRatio": 0.945
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 6065887,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3676522,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2966304,
+            "memory": 786432,
+            "msg": "points 0.945 Correct Solution. Ratio: 0.9450\n",
+            "scoreRatio": 0.945
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3025946,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4801342,
+            "memory": 528384,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4032981,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4855178,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3036458,
+            "memory": 552960,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2778284,
+            "memory": 552960,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3496384,
+            "memory": 589824,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3897135,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 17584553,
+            "memory": 356352,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5972866,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5951420,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 7242932,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5743143,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4582818,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3701264,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3450745,
+            "memory": 520192,
+            "msg": "points 0.9483333333 Correct Solution. Ratio: 0.9483\n",
+            "scoreRatio": 0.9483
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 72175878,
+            "memory": 749568,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 69277088,
+            "memory": 765952,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 82851922,
+            "memory": 761856,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 67863349,
+            "memory": 761856,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 82703493,
+            "memory": 995328,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 82345948,
+            "memory": 765952,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 69138749,
+            "memory": 765952,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 69014203,
+            "memory": 765952,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 68900722,
+            "memory": 761856,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 66214635,
+            "memory": 761856,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 90021791,
+            "memory": 753664,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 71812371,
+            "memory": 757760,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 71802951,
+            "memory": 765952,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 76542119,
+            "memory": 761856,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 66774197,
+            "memory": 753664,
+            "msg": "points 0.9116666667 Correct Solution. Ratio: 0.9117\n",
+            "scoreRatio": 0.9117
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 80597837,
+            "memory": 876544,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 71056323,
+            "memory": 761856,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 65223729,
+            "memory": 782336,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 62192236,
+            "memory": 884736,
+            "msg": "points 0.9083333333 Correct Solution. Ratio: 0.9083\n",
+            "scoreRatio": 0.9083
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 63615650,
+            "memory": 753664,
+            "msg": "points 0.9083333333 Correct Solution. Ratio: 0.9083\n",
+            "scoreRatio": 0.9083
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 69374421,
+            "memory": 749568,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 63014346,
+            "memory": 983040,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 70169993,
+            "memory": 970752,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 67320927,
+            "memory": 761856,
+            "msg": "points 0.9083333333 Correct Solution. Ratio: 0.9083\n",
+            "scoreRatio": 0.9083
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 73082902,
+            "memory": 761856,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 72672997,
+            "memory": 765952,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 73772671,
+            "memory": 770048,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 65338753,
+            "memory": 946176,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 109311345,
+            "memory": 765952,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 130640732,
+            "memory": 757760,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 107605906,
+            "memory": 761856,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 110881453,
+            "memory": 765952,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 85737248,
+            "memory": 761856,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 103610743,
+            "memory": 753664,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 70577417,
+            "memory": 770048,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 109656601,
+            "memory": 909312,
+            "msg": "points 0.9083333333 Correct Solution. Ratio: 0.9083\n",
+            "scoreRatio": 0.9083
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 102611294,
+            "memory": 765952,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 92120107,
+            "memory": 991232,
+            "msg": "points 0.9083333333 Correct Solution. Ratio: 0.9083\n",
+            "scoreRatio": 0.9083
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 95449183,
+            "memory": 983040,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 68939901,
+            "memory": 987136,
+            "msg": "points 0.9083333333 Correct Solution. Ratio: 0.9083\n",
+            "scoreRatio": 0.9083
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 72628307,
+            "memory": 761856,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 70008762,
+            "memory": 757760,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 77917795,
+            "memory": 999424,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 77371482,
+            "memory": 880640,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 110172742,
+            "memory": 999424,
+            "msg": "points 0.905 Correct Solution. Ratio: 0.9050\n",
+            "scoreRatio": 0.905
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 77696779,
+            "memory": 761856,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 81726002,
+            "memory": 765952,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 75412563,
+            "memory": 753664,
+            "msg": "points 0.905 Correct Solution. Ratio: 0.9050\n",
+            "scoreRatio": 0.905
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 76782139,
+            "memory": 753664,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 91202274,
+            "memory": 757760,
+            "msg": "points 0.9083333333 Correct Solution. Ratio: 0.9083\n",
+            "scoreRatio": 0.9083
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 94377967,
+            "memory": 757760,
+            "msg": "points 0.905 Correct Solution. Ratio: 0.9050\n",
+            "scoreRatio": 0.905
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 78400998,
+            "memory": 761856,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 63517480,
+            "memory": 765952,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 76308985,
+            "memory": 765952,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 83055205,
+            "memory": 757760,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 75131687,
+            "memory": 761856,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 66592830,
+            "memory": 786432,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 78767888,
+            "memory": 765952,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 76020562,
+            "memory": 765952,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 87544725,
+            "memory": 909312,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 75329824,
+            "memory": 761856,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 90324868,
+            "memory": 737280,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 77170853,
+            "memory": 770048,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 94967877,
+            "memory": 765952,
+            "msg": "points 0.9116666667 Correct Solution. Ratio: 0.9117\n",
+            "scoreRatio": 0.9117
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 73993668,
+            "memory": 757760,
+            "msg": "points 0.9116666667 Correct Solution. Ratio: 0.9117\n",
+            "scoreRatio": 0.9117
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 86294369,
+            "memory": 753664,
+            "msg": "points 0.9083333333 Correct Solution. Ratio: 0.9083\n",
+            "scoreRatio": 0.9083
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 73642203,
+            "memory": 765952,
+            "msg": "points 0.9083333333 Correct Solution. Ratio: 0.9083\n",
+            "scoreRatio": 0.9083
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 71400669,
+            "memory": 765952,
+            "msg": "points 0.9083333333 Correct Solution. Ratio: 0.9083\n",
+            "scoreRatio": 0.9083
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 84397633,
+            "memory": 765952,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 85189081,
+            "memory": 757760,
+            "msg": "points 0.9083333333 Correct Solution. Ratio: 0.9083\n",
+            "scoreRatio": 0.9083
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 65377653,
+            "memory": 749568,
+            "msg": "points 0.9116666667 Correct Solution. Ratio: 0.9117\n",
+            "scoreRatio": 0.9117
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 86319292,
+            "memory": 761856,
+            "msg": "points 0.905 Correct Solution. Ratio: 0.9050\n",
+            "scoreRatio": 0.905
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 72786800,
+            "memory": 761856,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 72282613,
+            "memory": 765952,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 81830960,
+            "memory": 786432,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 104801027,
+            "memory": 757760,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 97388733,
+            "memory": 757760,
+            "msg": "points 0.9083333333 Correct Solution. Ratio: 0.9083\n",
+            "scoreRatio": 0.9083
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 74425210,
+            "memory": 999424,
+            "msg": "points 0.9083333333 Correct Solution. Ratio: 0.9083\n",
+            "scoreRatio": 0.9083
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 88737122,
+            "memory": 946176,
+            "msg": "points 0.9083333333 Correct Solution. Ratio: 0.9083\n",
+            "scoreRatio": 0.9083
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 98279320,
+            "memory": 757760,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 88578602,
+            "memory": 774144,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 75708906,
+            "memory": 753664,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 72599378,
+            "memory": 757760,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 70541104,
+            "memory": 806912,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 77676676,
+            "memory": 991232,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 71335809,
+            "memory": 765952,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 69280303,
+            "memory": 761856,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 61057617,
+            "memory": 761856,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 80751424,
+            "memory": 765952,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 75739425,
+            "memory": 757760,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 74595238,
+            "memory": 741376,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 86361652,
+            "memory": 765952,
+            "msg": "points 0.9083333333 Correct Solution. Ratio: 0.9083\n",
+            "scoreRatio": 0.9083
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 70282069,
+            "memory": 765952,
+            "msg": "points 0.9083333333 Correct Solution. Ratio: 0.9083\n",
+            "scoreRatio": 0.9083
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 70249807,
+            "memory": 749568,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 66472413,
+            "memory": 757760,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 91308346,
+            "memory": 757760,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 85016401,
+            "memory": 761856,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 92723692,
+            "memory": 749568,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 93536943,
+            "memory": 757760,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 82455779,
+            "memory": 761856,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 95547559,
+            "memory": 770048,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 98002251,
+            "memory": 765952,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 83009962,
+            "memory": 770048,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 88183224,
+            "memory": 757760,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 85303336,
+            "memory": 778240,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 73425797,
+            "memory": 757760,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 83689234,
+            "memory": 753664,
+            "msg": "points 0.9083333333 Correct Solution. Ratio: 0.9083\n",
+            "scoreRatio": 0.9083
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 115853280,
+            "memory": 782336,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 94082168,
+            "memory": 761856,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 91039842,
+            "memory": 827392,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 88636933,
+            "memory": 778240,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 57380040,
+            "memory": 831488,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 62318117,
+            "memory": 921600,
+            "msg": "points 0.9483333333 Correct Solution. Ratio: 0.9483\n",
+            "scoreRatio": 0.9483
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 50827544,
+            "memory": 843776,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 69452931,
+            "memory": 765952,
+            "msg": "points 0.9116666667 Correct Solution. Ratio: 0.9117\n",
+            "scoreRatio": 0.9117
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 73914167,
+            "memory": 761856,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 81043816,
+            "memory": 765952,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 72752735,
+            "memory": 757760,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 75665901,
+            "memory": 765952,
+            "msg": "points 0.9083333333 Correct Solution. Ratio: 0.9083\n",
+            "scoreRatio": 0.9083
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 69558729,
+            "memory": 765952,
+            "msg": "points 0.9083333333 Correct Solution. Ratio: 0.9083\n",
+            "scoreRatio": 0.9083
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 70478349,
+            "memory": 761856,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 68493199,
+            "memory": 765952,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 73484220,
+            "memory": 765952,
+            "msg": "points 0.9083333333 Correct Solution. Ratio: 0.9083\n",
+            "scoreRatio": 0.9083
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 118058594,
+            "memory": 1003520,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 80204015,
+            "memory": 761856,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 81299111,
+            "memory": 770048,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 91571947,
+            "memory": 749568,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 71638819,
+            "memory": 761856,
+            "msg": "points 0.9116666667 Correct Solution. Ratio: 0.9117\n",
+            "scoreRatio": 0.9117
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 77838875,
+            "memory": 995328,
+            "msg": "points 0.905 Correct Solution. Ratio: 0.9050\n",
+            "scoreRatio": 0.905
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 59441646,
+            "memory": 761856,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 59982168,
+            "memory": 765952,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 63029391,
+            "memory": 761856,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 76021510,
+            "memory": 876544,
+            "msg": "points 0.9083333333 Correct Solution. Ratio: 0.9083\n",
+            "scoreRatio": 0.9083
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 81630590,
+            "memory": 765952,
+            "msg": "points 0.9083333333 Correct Solution. Ratio: 0.9083\n",
+            "scoreRatio": 0.9083
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 73836080,
+            "memory": 765952,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 86924650,
+            "memory": 749568,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 84974747,
+            "memory": 991232,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 103156936,
+            "memory": 888832,
+            "msg": "points 0.9083333333 Correct Solution. Ratio: 0.9083\n",
+            "scoreRatio": 0.9083
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 89632038,
+            "memory": 786432,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 99056902,
+            "memory": 765952,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 72737933,
+            "memory": 757760,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 80482293,
+            "memory": 745472,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 95058482,
+            "memory": 761856,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 110396627,
+            "memory": 839680,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5415304,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 128971076,
+            "memory": 827392,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 73297151,
+            "memory": 815104,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 67741351,
+            "memory": 774144,
+            "msg": "points 0.9116666667 Correct Solution. Ratio: 0.9117\n",
+            "scoreRatio": 0.9117
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 70880193,
+            "memory": 757760,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 73762019,
+            "memory": 757760,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 66995676,
+            "memory": 753664,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 83283794,
+            "memory": 798720,
+            "msg": "points 0.9083333333 Correct Solution. Ratio: 0.9083\n",
+            "scoreRatio": 0.9083
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 67299718,
+            "memory": 1011712,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 64499779,
+            "memory": 761856,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 76519965,
+            "memory": 774144,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 106126895,
+            "memory": 1024000,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 78756276,
+            "memory": 757760,
+            "msg": "points 0.9083333333 Correct Solution. Ratio: 0.9083\n",
+            "scoreRatio": 0.9083
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 84241879,
+            "memory": 757760,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 76490655,
+            "memory": 737280,
+            "msg": "points 0.0 Wrong guess. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        }
+    ]
+}

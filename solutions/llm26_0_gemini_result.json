@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 9,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1053847,
+            "memory": 524288,
+            "msg": "wrong answer The given sequence of moves does not sort the permutation\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1467612,
+            "memory": 524288,
+            "msg": "wrong answer The given sequence of moves does not sort the permutation\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1113127,
+            "memory": 528384,
+            "msg": "wrong answer The given sequence of moves does not sort the permutation\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 954631,
+            "memory": 524288,
+            "msg": "points 0.5856019359 Cost: 13224. Ratio: 0.585602\n",
+            "scoreRatio": 0.585602
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1091033,
+            "memory": 528384,
+            "msg": "points 0.3370407819 Cost: 29670. Ratio: 0.337041\n",
+            "scoreRatio": 0.337041
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 74616394,
+            "memory": 31571968,
+            "msg": "wrong answer The given sequence of moves does not sort the permutation\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 100222961,
+            "memory": 49831936,
+            "msg": "wrong answer The given sequence of moves does not sort the permutation\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 320318199,
+            "memory": 51097600,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 262224700,
+            "memory": 50569216,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 92455273,
+            "memory": 49655808,
+            "msg": "wrong answer The given sequence of moves does not sort the permutation\n",
+            "scoreRatio": 0
+        }
+    ]
+}

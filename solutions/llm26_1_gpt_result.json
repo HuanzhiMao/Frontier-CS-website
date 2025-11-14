@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 34,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 915714,
+            "memory": 524288,
+            "msg": "points 0.0770281153 Cost: 28561. Ratio: 0.077028\n",
+            "scoreRatio": 0.077028
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1034804,
+            "memory": 524288,
+            "msg": "points 0.1963896052 Cost: 20164. Ratio: 0.196390\n",
+            "scoreRatio": 0.19639
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 911535,
+            "memory": 524288,
+            "msg": "points 0.1173546075 Cost: 8649. Ratio: 0.117355\n",
+            "scoreRatio": 0.117355
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 1036704,
+            "memory": 524288,
+            "msg": "points 1.0 Cost: 7744. Ratio: 1.000000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 954171,
+            "memory": 524288,
+            "msg": "points 1.0 Cost: 10000. Ratio: 1.000000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 83807875,
+            "memory": 18083840,
+            "msg": "points 0.0227164782 Cost: 52011819721. Ratio: 0.022716\n",
+            "scoreRatio": 0.022716
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 118524792,
+            "memory": 23322624,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 142951465,
+            "memory": 20963328,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 100885116,
+            "memory": 20176896,
+            "msg": "points 1.0 Cost: 9423361476. Ratio: 1.000000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 110071807,
+            "memory": 23584768,
+            "msg": "",
+            "scoreRatio": 0
+        }
+    ]
+}

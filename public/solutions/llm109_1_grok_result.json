@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 91,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 200398858,
+            "memory": 37851136,
+            "msg": "points 0.9812853394 Valid knight path. Your=435255 Best=443556 Ratio: 0.98128534\n",
+            "scoreRatio": 0.98128534
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 206771322,
+            "memory": 37330944,
+            "msg": "points 0.9068798528 Valid knight path. Your=402252 Best=443556 Ratio: 0.90687985\n",
+            "scoreRatio": 0.90687985
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 197583293,
+            "memory": 37330944,
+            "msg": "points 0.9021724427 Valid knight path. Your=400164 Best=443556 Ratio: 0.90217244\n",
+            "scoreRatio": 0.90217244
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 216493965,
+            "memory": 37634048,
+            "msg": "points 0.9993800106 Valid knight path. Your=443281 Best=443556 Ratio: 0.99938001\n",
+            "scoreRatio": 0.99938001
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 188400324,
+            "memory": 37019648,
+            "msg": "points 0.8411136362 Valid knight path. Your=373081 Best=443556 Ratio: 0.84111364\n",
+            "scoreRatio": 0.84111364
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 201627245,
+            "memory": 37494784,
+            "msg": "points 0.963319175 Valid knight path. Your=427286 Best=443556 Ratio: 0.96331918\n",
+            "scoreRatio": 0.96331918
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 183633572,
+            "memory": 36880384,
+            "msg": "points 0.8206517328 Valid knight path. Your=364005 Best=443556 Ratio: 0.82065173\n",
+            "scoreRatio": 0.82065173
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 191644424,
+            "memory": 37072896,
+            "msg": "points 0.8724828432 Valid knight path. Your=386995 Best=443556 Ratio: 0.87248284\n",
+            "scoreRatio": 0.87248284
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 195631724,
+            "memory": 37068800,
+            "msg": "points 0.8736957678 Valid knight path. Your=387533 Best=443556 Ratio: 0.87369577\n",
+            "scoreRatio": 0.87369577
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 202558849,
+            "memory": 37593088,
+            "msg": "points 0.964293122 Valid knight path. Your=427718 Best=443556 Ratio: 0.96429312\n",
+            "scoreRatio": 0.96429312
+        }
+    ]
+}

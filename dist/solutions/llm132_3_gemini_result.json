@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 30,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 5485521,
+            "memory": 663552,
+            "msg": "points 1.0 qurey count: 26, Ratio: 1.0000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 4246322,
+            "memory": 524288,
+            "msg": "points 1.0 qurey count: 26, Ratio: 1.0000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2614841,
+            "memory": 524288,
+            "msg": "wrong answer wrong guess (1, 275), should be (239, 437)\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2610136,
+            "memory": 524288,
+            "msg": "wrong answer wrong guess (1, 275), should be (242, 357)\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3277183,
+            "memory": 786432,
+            "msg": "wrong answer wrong guess (7, 656), should be (827, 935)\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2341845,
+            "memory": 524288,
+            "msg": "wrong answer wrong guess (8, 112), should be (176, 181)\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 3028321,
+            "memory": 585728,
+            "msg": "points 1.0 qurey count: 26, Ratio: 1.0000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 7606672,
+            "memory": 524288,
+            "msg": "wrong answer wrong guess (119, 652), should be (280, 738)\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 6040931,
+            "memory": 524288,
+            "msg": "wrong answer wrong guess (107, 730), should be (136, 820)\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2656284,
+            "memory": 524288,
+            "msg": "wrong answer wrong guess (1, 574), should be (595, 627)\n",
+            "scoreRatio": 0
+        }
+    ]
+}

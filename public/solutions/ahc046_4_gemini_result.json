@@ -1,0 +1,608 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 0,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1453161,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1286. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1250813,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1313. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1999320,
+            "memory": 524288,
+            "msg": "wrong answer Invalid action:\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1547271157,
+            "memory": 135618560,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1829483,
+            "memory": 524288,
+            "msg": "wrong answer Invalid action:\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1293853,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1312. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1223392,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1326. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1691857,
+            "memory": 524288,
+            "msg": "wrong answer Invalid action:\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1299103,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1339. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1695139,
+            "memory": 524288,
+            "msg": "wrong answer Invalid action:\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3995727,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1338. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1982528,
+            "memory": 524288,
+            "msg": "wrong answer Invalid action:\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1758280,
+            "memory": 524288,
+            "msg": "wrong answer Invalid action:\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1226578,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1310. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1590568,
+            "memory": 524288,
+            "msg": "wrong answer Invalid action:\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2936704844,
+            "memory": 136237056,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1317119,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1303. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1656734,
+            "memory": 524288,
+            "msg": "wrong answer Invalid action:\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1686556162,
+            "memory": 135557120,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1903128,
+            "memory": 528384,
+            "msg": "points 0.0 Value: 1282. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1661037572,
+            "memory": 135340032,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2780239,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1299. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2056607,
+            "memory": 524288,
+            "msg": "wrong answer Invalid action:\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1763513,
+            "memory": 524288,
+            "msg": "wrong answer Invalid action:\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1803179,
+            "memory": 524288,
+            "msg": "wrong answer Invalid action:\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1646796,
+            "memory": 528384,
+            "msg": "points 0.0 Value: 1297. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1365218,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1300. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1929632,
+            "memory": 524288,
+            "msg": "wrong answer Invalid action:\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1298118,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1320. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1597506076,
+            "memory": 135491584,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1880231,
+            "memory": 528384,
+            "msg": "wrong answer Invalid action:\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2145395,
+            "memory": 524288,
+            "msg": "wrong answer Invalid action:\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1276999,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1336. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1718523,
+            "memory": 524288,
+            "msg": "wrong answer Invalid action:\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1355019,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1320. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1531289,
+            "memory": 524288,
+            "msg": "wrong answer Invalid action:\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1266167,
+            "memory": 528384,
+            "msg": "points 0.0 Value: 1327. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1229720,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1332. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2064534,
+            "memory": 524288,
+            "msg": "wrong answer Invalid action:\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1658527,
+            "memory": 524288,
+            "msg": "wrong answer Invalid action:\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1731902,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1333. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2050536,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1307. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1453855,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1353. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1818713,
+            "memory": 524288,
+            "msg": "wrong answer Invalid action:\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1323267,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1324. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2682712,
+            "memory": 524288,
+            "msg": "wrong answer Invalid action:\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2206810,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1345. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1355008,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1308. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1688842,
+            "memory": 524288,
+            "msg": "wrong answer Invalid action:\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1251659,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1316. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3724868,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1337. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1707952,
+            "memory": 450560,
+            "msg": "wrong answer Invalid action:\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1298061,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1305. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1809335,
+            "memory": 524288,
+            "msg": "wrong answer Invalid action:\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1651840,
+            "memory": 524288,
+            "msg": "wrong answer Invalid action:\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1665243244,
+            "memory": 135843840,
+            "msg": "terminate called after throwing an instance of 'std::bad_alloc'\n  what():  std::bad_alloc\n(signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1971712,
+            "memory": 524288,
+            "msg": "wrong answer Invalid action:\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1662333,
+            "memory": 524288,
+            "msg": "wrong answer Invalid action:\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2459685,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1316. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1651870,
+            "memory": 786432,
+            "msg": "wrong answer Invalid action:\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1333985,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1321. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1405510,
+            "memory": 598016,
+            "msg": "points 0.0 Value: 1346. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1477082,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1289. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1464596,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1308. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1355467,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1301. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1712177,
+            "memory": 528384,
+            "msg": "wrong answer Invalid action:\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1320493,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1316. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1602589,
+            "memory": 524288,
+            "msg": "wrong answer Invalid action:\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1748322,
+            "memory": 524288,
+            "msg": "wrong answer Invalid action:\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1589828,
+            "memory": 524288,
+            "msg": "wrong answer Invalid action:\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1204135,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1316. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1330605,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1269. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1279923,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1331. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1540243,
+            "memory": 524288,
+            "msg": "points 0.0 Value: 1264. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2234769,
+            "memory": 638976,
+            "msg": "wrong answer Invalid action:\n",
+            "scoreRatio": 0
+        }
+    ]
+}

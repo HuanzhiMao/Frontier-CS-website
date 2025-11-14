@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 9,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 544418846,
+            "memory": 573440,
+            "msg": "points 0.0803997937 Correct in 8111 queries and 136 resets. Cost: 147376. Ratio: 0.0804\n",
+            "scoreRatio": 0.0804
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 554147549,
+            "memory": 524288,
+            "msg": "points 0.0892638057 Correct in 11524 queries and 136 resets. Cost: 150789. Ratio: 0.0893\n",
+            "scoreRatio": 0.0893
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 153811468,
+            "memory": 524288,
+            "msg": "points 0.0645310886 Correct in 3054 queries and 136 resets. Cost: 142319. Ratio: 0.0645\n",
+            "scoreRatio": 0.0645
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 274266878,
+            "memory": 524288,
+            "msg": "points 0.142378201 Correct in 5192 queries and 36 resets. Cost: 42057. Ratio: 0.1424\n",
+            "scoreRatio": 0.1424
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 64797745,
+            "memory": 552960,
+            "msg": "points 0.1101992659 Correct in 1275 queries and 36 resets. Cost: 38140. Ratio: 0.1102\n",
+            "scoreRatio": 0.1102
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 159697870,
+            "memory": 524288,
+            "msg": "points 0.1285923281 Correct in 3464 queries and 36 resets. Cost: 40329. Ratio: 0.1286\n",
+            "scoreRatio": 0.1286
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 404616779,
+            "memory": 524288,
+            "msg": "points 0.0835300625 Correct in 8993 queries and 136 resets. Cost: 148258. Ratio: 0.0835\n",
+            "scoreRatio": 0.0835
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 149760706,
+            "memory": 786432,
+            "msg": "points 0.0644495026 Correct in 3079 queries and 136 resets. Cost: 142344. Ratio: 0.0644\n",
+            "scoreRatio": 0.0644
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 101768432,
+            "memory": 524288,
+            "msg": "points 0.0609634304 Correct in 1918 queries and 136 resets. Cost: 141183. Ratio: 0.0610\n",
+            "scoreRatio": 0.061
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 62658018,
+            "memory": 524288,
+            "msg": "points 0.0592862884 Correct in 1324 queries and 136 resets. Cost: 140589. Ratio: 0.0593\n",
+            "scoreRatio": 0.0593
+        }
+    ]
+}

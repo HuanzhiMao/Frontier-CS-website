@@ -1,0 +1,808 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 0,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 38767934,
+            "memory": 888832,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1786600142, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 25046091,
+            "memory": 839680,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1790199732, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 23229149,
+            "memory": 958464,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1938201041, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 32135967,
+            "memory": 1081344,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1777399230, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 15989025,
+            "memory": 806912,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1882200278, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 25439111,
+            "memory": 851968,
+            "msg": "wrong answer Integer parameter [name=px] equals to -2056401374, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 16854283,
+            "memory": 806912,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1621799492, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 26265682,
+            "memory": 827392,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1802600392, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 10250937,
+            "memory": 720896,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1921199903, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 25763634,
+            "memory": 839680,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1908999568, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 25726123,
+            "memory": 851968,
+            "msg": "wrong answer Integer parameter [name=px] equals to -2055200765, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 33377592,
+            "memory": 851968,
+            "msg": "wrong answer Integer parameter [name=px] equals to -2002600663, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 28631329,
+            "memory": 1032192,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1578599248, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 10325766,
+            "memory": 712704,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1904199934, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 29256699,
+            "memory": 839680,
+            "msg": "wrong answer Integer parameter [name=px] equals to -2086000641, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 27578651,
+            "memory": 823296,
+            "msg": "wrong answer Integer parameter [name=px] equals to -2129401030, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 14561436,
+            "memory": 745472,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1779599506, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 21038442,
+            "memory": 806912,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1913799939, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 31436186,
+            "memory": 868352,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1521799637, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 38166681,
+            "memory": 868352,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1038201056, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 25562962,
+            "memory": 827392,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1754999971, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 19313886,
+            "memory": 786432,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1747798967, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 15529996,
+            "memory": 786432,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1912199580, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 30452722,
+            "memory": 831488,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1738399182, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 14201293,
+            "memory": 786432,
+            "msg": "wrong answer Integer parameter [name=px] equals to -2035801095, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 22768364,
+            "memory": 1105920,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1714599239, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 27116041,
+            "memory": 819200,
+            "msg": "wrong answer Integer parameter [name=py] equals to -1082209801, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 28798703,
+            "memory": 835584,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1991200565, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 34790275,
+            "memory": 901120,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1861000614, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 16639683,
+            "memory": 798720,
+            "msg": "wrong answer Integer parameter [name=px] equals to -2057000343, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 39093292,
+            "memory": 872448,
+            "msg": "wrong answer Integer parameter [name=px] equals to -2169200911, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 25220289,
+            "memory": 823296,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1583399774, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 32366632,
+            "memory": 847872,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1761400640, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 11568045,
+            "memory": 724992,
+            "msg": "wrong answer Integer parameter [name=px] equals to -2032201037, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 22753803,
+            "memory": 786432,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1592399281, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 23034839,
+            "memory": 811008,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1958201357, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 27812711,
+            "memory": 823296,
+            "msg": "wrong answer Integer parameter [name=px] equals to -2013800407, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 18003120,
+            "memory": 786432,
+            "msg": "wrong answer Integer parameter [name=py] equals to -1102609939, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 25914718,
+            "memory": 843776,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1710200260, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 33995630,
+            "memory": 839680,
+            "msg": "wrong answer Integer parameter [name=px] equals to -2040600407, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 27613056,
+            "memory": 843776,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1674799230, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 29501457,
+            "memory": 847872,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1876000947, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 23747335,
+            "memory": 823296,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1895599579, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 45453091,
+            "memory": 880640,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1950200259, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 39791395,
+            "memory": 860160,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1855400835, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 38185987,
+            "memory": 970752,
+            "msg": "wrong answer Integer parameter [name=px] equals to -2075800619, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 12833724,
+            "memory": 733184,
+            "msg": "wrong answer Integer parameter [name=px] equals to -2026201679, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 42986752,
+            "memory": 1007616,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1823599951, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 32939323,
+            "memory": 839680,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1991200143, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 30645419,
+            "memory": 880640,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1627799093, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 13579031,
+            "memory": 524288,
+            "msg": "wrong answer Integer parameter [name=px] equals to -2163801041, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 25187903,
+            "memory": 835584,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1817599912, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 19635287,
+            "memory": 802816,
+            "msg": "wrong answer Integer parameter [name=px] equals to -2125001641, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 29860288,
+            "memory": 1110016,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1771400220, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 21306211,
+            "memory": 827392,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1650199168, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 22893122,
+            "memory": 811008,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1949799883, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 16946129,
+            "memory": 786432,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1776199204, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 19196627,
+            "memory": 786432,
+            "msg": "wrong answer Integer parameter [name=px] equals to -2009000336, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 25590907,
+            "memory": 811008,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1917600467, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 35150037,
+            "memory": 880640,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1580199491, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 29032979,
+            "memory": 847872,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1943000443, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 25073096,
+            "memory": 843776,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1966600416, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 27165529,
+            "memory": 856064,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1816399989, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 20673161,
+            "memory": 1056768,
+            "msg": "wrong answer Integer parameter [name=px] equals to -2217801268, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 21262197,
+            "memory": 806912,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1871399587, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 21132853,
+            "memory": 819200,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1024401387, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 29602097,
+            "memory": 839680,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1701600416, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 29467317,
+            "memory": 872448,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1837400695, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 23825666,
+            "memory": 839680,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1803599558, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 29332460,
+            "memory": 860160,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1770600657, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 8007718,
+            "memory": 524288,
+            "msg": "wrong answer Integer parameter [name=px] equals to -2107400622, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 23761550,
+            "memory": 843776,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1924200468, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 18945530,
+            "memory": 819200,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1933000009, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 16904256,
+            "memory": 786432,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1929600426, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 20695204,
+            "memory": 823296,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1757799580, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 21979428,
+            "memory": 819200,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1115201321, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 24010013,
+            "memory": 856064,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1722198895, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 14162355,
+            "memory": 786432,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1904799919, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 27692668,
+            "memory": 851968,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1572198797, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 12928380,
+            "memory": 729088,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1916399905, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 23299728,
+            "memory": 815104,
+            "msg": "wrong answer Integer parameter [name=px] equals to -2000600011, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 43809667,
+            "memory": 864256,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1640198522, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 27587653,
+            "memory": 851968,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1887999848, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 19616472,
+            "memory": 811008,
+            "msg": "wrong answer Integer parameter [name=px] equals to -2001200550, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 20184216,
+            "memory": 815104,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1889200393, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 21974819,
+            "memory": 839680,
+            "msg": "wrong answer Integer parameter [name=px] equals to -2165000892, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 20224163,
+            "memory": 823296,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1346200411, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 32230449,
+            "memory": 888832,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1883800240, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 19686782,
+            "memory": 823296,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1708999632, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 26689680,
+            "memory": 851968,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1407600414, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 24480765,
+            "memory": 839680,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1834200105, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 13734624,
+            "memory": 524288,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1773599217, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 24498087,
+            "memory": 856064,
+            "msg": "wrong answer Integer parameter [name=px] equals to -2095400533, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 18546741,
+            "memory": 815104,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1636400389, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 26621087,
+            "memory": 843776,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1696999517, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 21427971,
+            "memory": 819200,
+            "msg": "wrong answer Integer parameter [name=px] equals to -2032600246, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 23808956,
+            "memory": 823296,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1746799222, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 33812035,
+            "memory": 884736,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1740400554, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 36191519,
+            "memory": 1048576,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1874599850, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 27475028,
+            "memory": 839680,
+            "msg": "wrong answer Integer parameter [name=px] equals to -1657199908, violates the range [-10^9, 10^9]\n",
+            "scoreRatio": 0
+        }
+    ]
+}

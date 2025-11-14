@@ -1,0 +1,4 @@
+{
+    "status": "error",
+    "error": "Error: compile failed: main.cpp: In function 'bool check_perimeter_used(Point, Point, Point, Point)':\nmain.cpp:88:81: error: 'k' was not declared in this scope\n   88 |             for (int x = min(pa.x, pb.x); x < max(pa.x, pb.x); ++x) if (used_d2[k][x]) return false;\n      |                                                                                 ^\n"
+}

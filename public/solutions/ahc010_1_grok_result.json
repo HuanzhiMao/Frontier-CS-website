@@ -1,0 +1,4 @@
+{
+    "status": "error",
+    "error": "Error: compile failed: main.cpp:7:10: error: narrowing conversion of '-1' from 'int' to 'long unsigned int' [-Wnarrowing]\n    7 | int dj[-1] = {-1, 0, 1, 0};\n      |          ^\nmain.cpp:7:8: error: size '-1' of array 'dj' is negative\n    7 | int dj[-1] = {-1, 0, 1, 0};\n      |        ^~\nmain.cpp:7:26: error: too many initializers for 'int [1]'\n    7 | int dj[-1] = {-1, 0, 1, 0};\n      |                          ^\n"
+}

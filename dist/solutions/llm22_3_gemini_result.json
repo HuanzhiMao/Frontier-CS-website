@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 0,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 79667705,
+            "memory": 20606976,
+            "msg": "wrong answer S_10 is not connected in new tree (4 of 5 reachable)\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 61723456,
+            "memory": 20574208,
+            "msg": "wrong answer S_15 is not connected in new tree (3 of 4 reachable)\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 96484036,
+            "memory": 20606976,
+            "msg": "wrong answer S_13 is not connected in new tree (1 of 3 reachable)\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 80783861,
+            "memory": 20611072,
+            "msg": "wrong answer S_13 is not connected in new tree (3 of 4 reachable)\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 90710641,
+            "memory": 20463616,
+            "msg": "wrong answer S_13 is not connected in new tree (1 of 3 reachable)\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 76873465,
+            "memory": 20619264,
+            "msg": "wrong answer S_15 is not connected in new tree (4 of 5 reachable)\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 82034814,
+            "memory": 20606976,
+            "msg": "wrong answer S_19 is not connected in new tree (4 of 5 reachable)\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 86435811,
+            "memory": 20639744,
+            "msg": "wrong answer S_13 is not connected in new tree (6 of 7 reachable)\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 86156962,
+            "memory": 20606976,
+            "msg": "wrong answer S_11 is not connected in new tree (1 of 3 reachable)\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 101611917,
+            "memory": 20598784,
+            "msg": "wrong answer S_14 is not connected in new tree (2 of 4 reachable)\n",
+            "scoreRatio": 0
+        }
+    ]
+}

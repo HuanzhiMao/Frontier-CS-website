@@ -1,0 +1,4 @@
+{
+    "status": "error",
+    "error": "Error: compile failed: main.cpp: In function 'int main()':\nmain.cpp:245:66: error: 'round' cannot be used as a function\n  245 |                    raise_options.push_back(std::max(1, (int)round(0.5 * pot)));\n      |                                                             ~~~~~^~~~~~~~~~~\nmain.cpp:246:66: error: 'round' cannot be used as a function\n  246 |                    raise_options.push_back(std::max(1, (int)round(0.75 * pot)));\n      |                                                             ~~~~~^~~~~~~~~~~~\nmain.cpp:247:66: error: 'round' cannot be used as a function\n  247 |                    raise_options.push_back(std::max(1, (int)round(1.0 * pot)));\n      |                                                             ~~~~~^~~~~~~~~~~\n"
+}

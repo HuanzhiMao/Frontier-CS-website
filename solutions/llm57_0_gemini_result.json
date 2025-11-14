@@ -1,0 +1,128 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 27,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 3657424,
+            "memory": 524288,
+            "msg": "points 1.0 all 1 tests passed; Ratio: 1.0000; mxq = 41\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 65382960,
+            "memory": 872448,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 32057980,
+            "memory": 663552,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 26359106,
+            "memory": 634880,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 36369752,
+            "memory": 647168,
+            "msg": "wrong answer wrong answer\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 34908761,
+            "memory": 524288,
+            "msg": "points 1.0 all 1 tests passed; Ratio: 1.0000; mxq = 1000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 46037253,
+            "memory": 786432,
+            "msg": "wrong answer wrong answer\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 39069555,
+            "memory": 835584,
+            "msg": "wrong answer wrong answer\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 39901274,
+            "memory": 651264,
+            "msg": "wrong answer wrong answer\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 40917025,
+            "memory": 524288,
+            "msg": "wrong answer wrong answer\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 38770287,
+            "memory": 524288,
+            "msg": "points 1.0 all 1 tests passed; Ratio: 1.0000; mxq = 1000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 34174966,
+            "memory": 647168,
+            "msg": "wrong answer wrong answer\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 31799168,
+            "memory": 520192,
+            "msg": "points 1.0 all 1 tests passed; Ratio: 1.0000; mxq = 1000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 35157582,
+            "memory": 806912,
+            "msg": "wrong answer wrong answer\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 33062495,
+            "memory": 524288,
+            "msg": "wrong answer wrong answer\n",
+            "scoreRatio": 0
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 0,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 157087790,
+            "memory": 614400,
+            "msg": "points 0.0 Final sequence is not a permutation of [0..2047]: value 0 occurs 0 times. Queries used: 4265. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 173236208,
+            "memory": 524288,
+            "msg": "points 0.0 Final sequence is not a permutation of [0..2047]: value 0 occurs 0 times. Queries used: 4265. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1971442,
+            "memory": 528384,
+            "msg": "FAIL Integer parameter [name=p[1]] equals to 333, violates the range [0, 268] (in.txt)\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 176835192,
+            "memory": 606208,
+            "msg": "points 0.0 Final sequence is not a permutation of [0..2047]: value 0 occurs 0 times. Queries used: 4265. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 162466061,
+            "memory": 786432,
+            "msg": "points 0.0 Final sequence is not a permutation of [0..2047]: value 0 occurs 0 times. Queries used: 4265. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 161451871,
+            "memory": 778240,
+            "msg": "points 0.0 Final sequence is not a permutation of [0..2047]: value 0 occurs 0 times. Queries used: 4265. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 154330459,
+            "memory": 774144,
+            "msg": "points 0.0 Final sequence is not a permutation of [0..2047]: value 0 occurs 0 times. Queries used: 4265. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 153569550,
+            "memory": 524288,
+            "msg": "points 0.0 Final sequence is not a permutation of [0..2047]: value 0 occurs 0 times. Queries used: 4265. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 132586932,
+            "memory": 823296,
+            "msg": "points 0.0 Final sequence is not a permutation of [0..2047]: value 0 occurs 0 times. Queries used: 4265. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 128298227,
+            "memory": 606208,
+            "msg": "points 0.0 Final sequence is not a permutation of [0..2047]: value 0 occurs 0 times. Queries used: 4265. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        }
+    ]
+}

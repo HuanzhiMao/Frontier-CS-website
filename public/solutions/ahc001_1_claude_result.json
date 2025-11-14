@@ -1,0 +1,808 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 0,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2259558,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 4 and 9 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1340457,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 0 and 1 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1094340,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 6 and 7 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1239855,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 0 and 1 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1570102,
+            "memory": 454656,
+            "msg": "wrong answer rectangles 1 and 4 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1305080,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 7 and 8 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1165053,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 3 and 9 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1786587,
+            "memory": 356352,
+            "msg": "wrong answer rectangles 0 and 9 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2133862,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 6 and 8 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1981878,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 5 and 6 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1070307,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 5 and 6 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2693995,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 8 and 12 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1940575,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 7 and 16 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1473896,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 0 and 9 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1187076,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 2 and 3 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2495113,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 0 and 5 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1129609,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 6 and 7 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1474822,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 12 and 14 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2887008,
+            "memory": 512000,
+            "msg": "wrong answer rectangles 9 and 12 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1165650,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 0 and 3 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2036079,
+            "memory": 552960,
+            "msg": "wrong answer rectangles 0 and 10 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5854193,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 0 and 4 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1134287,
+            "memory": 528384,
+            "msg": "wrong answer rectangles 2 and 3 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1119749,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 0 and 2 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1206710,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 2 and 3 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1669701,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 1 and 4 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1935306,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 3 and 13 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2108882,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 4 and 9 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1234534,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 0 and 4 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1712270,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 5 and 8 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1235905,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 6 and 10 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1359087,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 1 and 9 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2468443,
+            "memory": 512000,
+            "msg": "wrong answer rectangles 4 and 19 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2315059,
+            "memory": 507904,
+            "msg": "wrong answer rectangles 2 and 5 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1399511,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 3 and 4 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1784299,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 2 and 3 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2875552,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 6 and 12 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2822717,
+            "memory": 339968,
+            "msg": "wrong answer rectangles 11 and 15 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2414871,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 2 and 11 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3357715,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 8 and 13 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1110477,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 0 and 4 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3033580,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 10 and 13 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1174674,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 1 and 5 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2032352,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 2 and 4 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1849803,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 0 and 5 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1671304,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 0 and 4 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1327307,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 2 and 8 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1527798,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 1 and 2 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2204114,
+            "memory": 565248,
+            "msg": "wrong answer rectangles 0 and 3 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1424675,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 0 and 3 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2860351,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 4 and 5 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1440110,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 6 and 9 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2309720,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 3 and 8 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1658158,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 1 and 13 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2809080,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 0 and 6 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2657573,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 4 and 11 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1875335,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 4 and 11 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1135427,
+            "memory": 528384,
+            "msg": "wrong answer rectangles 6 and 8 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1045353,
+            "memory": 499712,
+            "msg": "wrong answer rectangles 0 and 1 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2030490,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 5 and 8 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4953562,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 3 and 7 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1956527,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 2 and 11 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1238798,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 0 and 1 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2142638,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 1 and 4 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2289264,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 7 and 9 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2146674,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 3 and 7 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2168180,
+            "memory": 593920,
+            "msg": "wrong answer rectangles 1 and 5 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1631958,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 3 and 7 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1753999,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 16 and 17 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1797155,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 2 and 4 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2330339,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 4 and 5 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1997048,
+            "memory": 552960,
+            "msg": "wrong answer rectangles 0 and 2 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2005941,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 2 and 3 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2192004,
+            "memory": 495616,
+            "msg": "wrong answer rectangles 3 and 4 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1478565,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 2 and 8 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1891608,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 1 and 2 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2271522,
+            "memory": 598016,
+            "msg": "wrong answer rectangles 0 and 1 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1561027,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 1 and 8 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1983446,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 0 and 2 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1252256,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 2 and 8 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1777840,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 2 and 7 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2529701,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 7 and 8 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1086182,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 1 and 2 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2065011,
+            "memory": 401408,
+            "msg": "wrong answer rectangles 3 and 8 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1221473,
+            "memory": 552960,
+            "msg": "wrong answer rectangles 0 and 1 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1382541,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 1 and 3 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1480719,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 1 and 4 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1270749,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 1 and 5 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1963388,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 0 and 6 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1414584,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 0 and 2 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1879073,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 3 and 9 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1891976,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 2 and 7 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2203239,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 1 and 2 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1394222,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 4 and 5 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1131116,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 3 and 4 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1506558,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 2 and 4 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1628031,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 1 and 5 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1226389,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 2 and 4 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1644708,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 1 and 3 overlap\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1856240,
+            "memory": 524288,
+            "msg": "wrong answer rectangles 0 and 3 overlap\n",
+            "scoreRatio": 0
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 0,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 20038229,
+            "memory": 667648,
+            "msg": "a: main.cpp:127: int main(): Assertion `neighbor_idx != -1' failed.\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 14340917,
+            "memory": 897024,
+            "msg": "a: main.cpp:127: int main(): Assertion `neighbor_idx != -1' failed.\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 17598395,
+            "memory": 671744,
+            "msg": "a: main.cpp:127: int main(): Assertion `neighbor_idx != -1' failed.\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 26320266,
+            "memory": 786432,
+            "msg": "a: main.cpp:127: int main(): Assertion `neighbor_idx != -1' failed.\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 17189520,
+            "memory": 667648,
+            "msg": "a: main.cpp:127: int main(): Assertion `neighbor_idx != -1' failed.\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 27993591,
+            "memory": 663552,
+            "msg": "a: main.cpp:127: int main(): Assertion `neighbor_idx != -1' failed.\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 16698118,
+            "memory": 671744,
+            "msg": "a: main.cpp:127: int main(): Assertion `neighbor_idx != -1' failed.\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 13738140,
+            "memory": 663552,
+            "msg": "a: main.cpp:127: int main(): Assertion `neighbor_idx != -1' failed.\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 19883913,
+            "memory": 688128,
+            "msg": "a: main.cpp:127: int main(): Assertion `neighbor_idx != -1' failed.\n (signal=unknown)",
+            "scoreRatio": 0
+        }
+    ]
+}

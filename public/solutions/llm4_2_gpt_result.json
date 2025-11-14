@@ -1,0 +1,48 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 15,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2086835616,
+            "memory": 2748416,
+            "msg": "points 0.0 Query Limit Exceed\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 6201625760,
+            "memory": 1921024,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1547973509,
+            "memory": 2035712,
+            "msg": "[Interactor] time used = 1.19566 s\n[Interactor] used=35586\npoints 0.3002916667 Correct Guess. Ratio: 0.3003\n",
+            "scoreRatio": 0.3003
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1293767406,
+            "memory": 1658880,
+            "msg": "[Interactor] time used = 0.850838 s\n[Interactor] used=28346\npoints 0.451125 Correct Guess. Ratio: 0.4511\n",
+            "scoreRatio": 0.4511
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5801811471,
+            "memory": 1921024,
+            "msg": "",
+            "scoreRatio": 0
+        }
+    ]
+}

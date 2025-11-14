@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 90,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 91766399,
+            "memory": 25137152,
+            "msg": "points 1.0 qurey count: 26, Ratio: 1.0000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 103832180,
+            "memory": 25190400,
+            "msg": "points 1.0 qurey count: 26, Ratio: 1.0000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 98733517,
+            "memory": 25006080,
+            "msg": "points 1.0 qurey count: 26, Ratio: 1.0000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 103246178,
+            "memory": 25202688,
+            "msg": "points 1.0 qurey count: 26, Ratio: 1.0000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 91186957,
+            "memory": 25157632,
+            "msg": "points 1.0 qurey count: 26, Ratio: 1.0000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 84597462,
+            "memory": 25157632,
+            "msg": "points 1.0 qurey count: 26, Ratio: 1.0000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 90849126,
+            "memory": 25157632,
+            "msg": "points 1.0 qurey count: 26, Ratio: 1.0000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 86837125,
+            "memory": 25157632,
+            "msg": "points 1.0 qurey count: 26, Ratio: 1.0000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 84807057,
+            "memory": 25157632,
+            "msg": "wrong answer wrong guess (158, 798), should be (136, 820)\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 88666597,
+            "memory": 25157632,
+            "msg": "points 1.0 qurey count: 26, Ratio: 1.0000\n",
+            "scoreRatio": 1
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+{
+    "status": "error",
+    "error": "Error: compile failed: std.cc: In function 'void hanoi(int, int, int, int)':\nstd.cc:33:9: error: 'moveBall' was not declared in this scope; did you mean 'moveball'?\n   33 |         moveBall(from, to);\n      |         ^~~~~~~~\n      |         moveball\nstd.cc:38:5: error: 'moveBall' was not declared in this scope; did you mean 'moveball'?\n   38 |     moveBall(from, to);\n      |     ^~~~~~~~\n      |     moveball\n"
+}

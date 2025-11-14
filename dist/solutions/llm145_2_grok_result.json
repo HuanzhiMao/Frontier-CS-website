@@ -1,0 +1,24 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 0,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 16572038,
+            "memory": 782336,
+            "msg": "wrong output format Assertion failed: Position (6,0) should be empty\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 863319,
+            "memory": 524288,
+            "msg": "wrong output format Assertion failed: Position (6,0) should be empty\n",
+            "scoreRatio": 0
+        }
+    ]
+}

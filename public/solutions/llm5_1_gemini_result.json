@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 20,
+    "cases": [
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 9784958,
+            "memory": 24641536,
+            "msg": "ok Correct!Your answer's length=5\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 10706779,
+            "memory": 24641536,
+            "msg": "points 0.0 Invalid Path.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 10039615,
+            "memory": 24641536,
+            "msg": "ok Correct!Your answer's length=60\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 11653108,
+            "memory": 24571904,
+            "msg": "points 0.0 Invalid Path.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 11235848,
+            "memory": 24641536,
+            "msg": "points 0.0 Invalid Path.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 11767936,
+            "memory": 24907776,
+            "msg": "points 0.0 Invalid Path.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 13194738,
+            "memory": 25427968,
+            "msg": "points 0.0 Invalid Path.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 15080295,
+            "memory": 26218496,
+            "msg": "points 0.0 Invalid Path.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 18360245,
+            "memory": 26705920,
+            "msg": "points 0.0 Invalid Path.\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 86663990,
+            "memory": 39276544,
+            "msg": "points 0.0 Invalid Path.\n",
+            "scoreRatio": 0
+        }
+    ]
+}

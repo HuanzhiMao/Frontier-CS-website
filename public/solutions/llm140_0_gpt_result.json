@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 19,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1224548,
+            "memory": 524288,
+            "msg": "points 0.4 Found 8 of 20 mineral deposits. Ratio: 0.4000\n",
+            "scoreRatio": 0.4
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1450695,
+            "memory": 524288,
+            "msg": "points 0.15 Found 3 of 20 mineral deposits. Ratio: 0.1500\n",
+            "scoreRatio": 0.15
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1178346,
+            "memory": 524288,
+            "msg": "points 0.2 Found 4 of 20 mineral deposits. Ratio: 0.2000\n",
+            "scoreRatio": 0.2
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1095501,
+            "memory": 524288,
+            "msg": "points 0.25 Found 5 of 20 mineral deposits. Ratio: 0.2500\n",
+            "scoreRatio": 0.25
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1107103,
+            "memory": 524288,
+            "msg": "points 0.15 Found 3 of 20 mineral deposits. Ratio: 0.1500\n",
+            "scoreRatio": 0.15
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 991745,
+            "memory": 524288,
+            "msg": "points 0.1 Found 2 of 20 mineral deposits. Ratio: 0.1000\n",
+            "scoreRatio": 0.1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1013796,
+            "memory": 524288,
+            "msg": "points 0.1 Found 2 of 20 mineral deposits. Ratio: 0.1000\n",
+            "scoreRatio": 0.1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1153976,
+            "memory": 524288,
+            "msg": "points 0.2 Found 4 of 20 mineral deposits. Ratio: 0.2000\n",
+            "scoreRatio": 0.2
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1145046,
+            "memory": 524288,
+            "msg": "points 0.3 Found 6 of 20 mineral deposits. Ratio: 0.3000\n",
+            "scoreRatio": 0.3
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2071788,
+            "memory": 524288,
+            "msg": "points 0.05 Found 1 of 20 mineral deposits. Ratio: 0.0500\n",
+            "scoreRatio": 0.05
+        }
+    ]
+}

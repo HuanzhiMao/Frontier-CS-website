@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 40,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 94961461,
+            "memory": 13287424,
+            "msg": "wrong answer Last state does not match the target state\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 85334989,
+            "memory": 13172736,
+            "msg": "wrong answer Last state does not match the target state\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 1466351,
+            "memory": 524288,
+            "msg": "points 1.0 Steps: 8. Ratio: 1.000000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 100967713,
+            "memory": 13348864,
+            "msg": "wrong answer Last state does not match the target state\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 88651735,
+            "memory": 13336576,
+            "msg": "wrong answer Last state does not match the target state\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 94526131,
+            "memory": 13418496,
+            "msg": "wrong answer Last state does not match the target state\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 1275045,
+            "memory": 524288,
+            "msg": "points 1.0 Steps: 4. Ratio: 1.000000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 93356385,
+            "memory": 13348864,
+            "msg": "wrong answer Last state does not match the target state\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 1160980,
+            "memory": 524288,
+            "msg": "points 1.0 Steps: 4. Ratio: 1.000000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 1852156,
+            "memory": 524288,
+            "msg": "points 1.0 Steps: 4. Ratio: 1.000000\n",
+            "scoreRatio": 1
+        }
+    ]
+}

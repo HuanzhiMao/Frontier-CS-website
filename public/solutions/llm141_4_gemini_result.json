@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 4,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5047752672,
+            "memory": 585728,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4571760945,
+            "memory": 577536,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 861385448,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong answer: expected 100, got 102. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5255055049,
+            "memory": 585728,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 624619299,
+            "memory": 585728,
+            "msg": "points 0.0906092355 Correct in 10545 queries and 35 resets. Cost: 46386. Ratio: 0.0906\n",
+            "scoreRatio": 0.0906
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5410119745,
+            "memory": 786432,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5223213606,
+            "memory": 581632,
+            "msg": " (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 857554597,
+            "memory": 524288,
+            "msg": "points 0.0 Wrong answer: expected 100, got 102. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 430723302,
+            "memory": 589824,
+            "msg": "points 0.0 Wrong answer: expected 50, got 51. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 182314236,
+            "memory": 524288,
+            "msg": "points 0.3438956967 Correct in 3756 queries and 20 resets. Cost: 24237. Ratio: 0.3439\n",
+            "scoreRatio": 0.3439
+        }
+    ]
+}

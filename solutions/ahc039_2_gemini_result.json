@@ -1,0 +1,4 @@
+{
+    "status": "error",
+    "error": "Error: compile failed: main.cpp: In lambda function:\nmain.cpp:170:43: error: inconsistent types 'bool' and 'long unsigned int' deduced for lambda return type\n  170 |                     return cells_set.count({r, c});\n      |                            ~~~~~~~~~~~~~~~^~~~~~~~\n"
+}

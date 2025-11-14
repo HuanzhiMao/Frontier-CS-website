@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 84,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 744528460,
+            "memory": 524288,
+            "msg": "points 0.9751111111 all 20 tests passed; Ratio: 0.9751; mxq = 612\n",
+            "scoreRatio": 0.9751
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2456605490,
+            "memory": 524288,
+            "msg": "points 0.5168888889 all 20 tests passed; Ratio: 0.5169; mxq = 2674\n",
+            "scoreRatio": 0.5169
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 788671892,
+            "memory": 524288,
+            "msg": "points 0.6384444444 all 20 tests passed; Ratio: 0.6384; mxq = 2127\n",
+            "scoreRatio": 0.6384
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 164565906,
+            "memory": 786432,
+            "msg": "points 1.0 all 20 tests passed; Ratio: 1.0000; mxq = 123\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 166683465,
+            "memory": 520192,
+            "msg": "points 1.0 all 20 tests passed; Ratio: 1.0000; mxq = 123\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 160711772,
+            "memory": 552960,
+            "msg": "points 1.0 all 20 tests passed; Ratio: 1.0000; mxq = 123\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 155370892,
+            "memory": 524288,
+            "msg": "points 1.0 all 20 tests passed; Ratio: 1.0000; mxq = 123\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1546547891,
+            "memory": 524288,
+            "msg": "points 0.6742222222 all 20 tests passed; Ratio: 0.6742; mxq = 1966\n",
+            "scoreRatio": 0.6742
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1166029757,
+            "memory": 520192,
+            "msg": "points 0.7784444444 all 20 tests passed; Ratio: 0.7784; mxq = 1497\n",
+            "scoreRatio": 0.7784
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1280677932,
+            "memory": 684032,
+            "msg": "points 0.8251111111 all 20 tests passed; Ratio: 0.8251; mxq = 1287\n",
+            "scoreRatio": 0.8251
+        }
+    ]
+}

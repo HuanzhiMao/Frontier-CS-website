@@ -1,0 +1,1208 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 8,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3513864,
+            "memory": 786432,
+            "msg": "points 0.2448377581 Value: 86350. Ratio: 0.2448\n",
+            "scoreRatio": 0.2448
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3334637,
+            "memory": 786432,
+            "msg": "points 0.1469194313 Value: 87510. Ratio: 0.1469\n",
+            "scoreRatio": 0.1469
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2727161,
+            "memory": 872448,
+            "msg": "points 0.0 Value: 86020. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2412030,
+            "memory": 786432,
+            "msg": "points 0.1303370787 Value: 87135. Ratio: 0.1303\n",
+            "scoreRatio": 0.1303
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2204280,
+            "memory": 786432,
+            "msg": "points 0.0842767296 Value: 87200. Ratio: 0.0843\n",
+            "scoreRatio": 0.0843
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2590472,
+            "memory": 786432,
+            "msg": "points 0.0061957869 Value: 86550. Ratio: 0.0062\n",
+            "scoreRatio": 0.0062
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2515208,
+            "memory": 671744,
+            "msg": "points 0.0457018498 Value: 85910. Ratio: 0.0457\n",
+            "scoreRatio": 0.0457
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2401925,
+            "memory": 786432,
+            "msg": "points 0.0144766147 Value: 85995. Ratio: 0.0145\n",
+            "scoreRatio": 0.0145
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2610567,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 86760. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2020165,
+            "memory": 786432,
+            "msg": "points 0.0646298472 Value: 86980. Ratio: 0.0646\n",
+            "scoreRatio": 0.0646
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2176038,
+            "memory": 786432,
+            "msg": "points 0.1268844221 Value: 87105. Ratio: 0.1269\n",
+            "scoreRatio": 0.1269
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3173873,
+            "memory": 786432,
+            "msg": "points 0.1164453524 Value: 86585. Ratio: 0.1164\n",
+            "scoreRatio": 0.1164
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3907977,
+            "memory": 786432,
+            "msg": "points 0.1 Value: 86560. Ratio: 0.1000\n",
+            "scoreRatio": 0.1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3348901,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 86705. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2860151,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 84900. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2075334,
+            "memory": 786432,
+            "msg": "points 0.034965035 Value: 86625. Ratio: 0.0350\n",
+            "scoreRatio": 0.035
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2568059,
+            "memory": 786432,
+            "msg": "points 0.2056414923 Value: 86275. Ratio: 0.2056\n",
+            "scoreRatio": 0.2056
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2284843,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 86240. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2937356,
+            "memory": 786432,
+            "msg": "points 0.0382317802 Value: 86570. Ratio: 0.0382\n",
+            "scoreRatio": 0.0382
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2217098,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 85985. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3549134,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 86025. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2097928,
+            "memory": 786432,
+            "msg": "points 0.0473876063 Value: 86800. Ratio: 0.0474\n",
+            "scoreRatio": 0.0474
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2062203,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 86370. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2667821,
+            "memory": 786432,
+            "msg": "points 0.1997929607 Value: 86435. Ratio: 0.1998\n",
+            "scoreRatio": 0.1998
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5205604,
+            "memory": 786432,
+            "msg": "points 0.1158536585 Value: 87085. Ratio: 0.1159\n",
+            "scoreRatio": 0.1159
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3773236,
+            "memory": 790528,
+            "msg": "points 0.1632653061 Value: 86450. Ratio: 0.1633\n",
+            "scoreRatio": 0.1633
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2187695,
+            "memory": 786432,
+            "msg": "points 0.1104718067 Value: 86770. Ratio: 0.1105\n",
+            "scoreRatio": 0.1105
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2345322,
+            "memory": 786432,
+            "msg": "points 0.0493537015 Value: 86525. Ratio: 0.0494\n",
+            "scoreRatio": 0.0494
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2255391,
+            "memory": 786432,
+            "msg": "points 0.1229418222 Value: 86615. Ratio: 0.1229\n",
+            "scoreRatio": 0.1229
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2394410,
+            "memory": 786432,
+            "msg": "points 0.1731409545 Value: 87305. Ratio: 0.1731\n",
+            "scoreRatio": 0.1731
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2489328,
+            "memory": 786432,
+            "msg": "points 0.0012048193 Value: 86135. Ratio: 0.0012\n",
+            "scoreRatio": 0.0012
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2195764,
+            "memory": 786432,
+            "msg": "points 0.1086387435 Value: 86730. Ratio: 0.1086\n",
+            "scoreRatio": 0.1086
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2925975,
+            "memory": 786432,
+            "msg": "points 0.1673469388 Value: 86460. Ratio: 0.1673\n",
+            "scoreRatio": 0.1673
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2292993,
+            "memory": 786432,
+            "msg": "points 0.0971488912 Value: 86230. Ratio: 0.0971\n",
+            "scoreRatio": 0.0971
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2836589,
+            "memory": 786432,
+            "msg": "points 0.0531914894 Value: 86950. Ratio: 0.0532\n",
+            "scoreRatio": 0.0532
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4374125,
+            "memory": 786432,
+            "msg": "points 0.0074388948 Value: 85730. Ratio: 0.0074\n",
+            "scoreRatio": 0.0074
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3167561,
+            "memory": 786432,
+            "msg": "points 0.0682523268 Value: 86055. Ratio: 0.0683\n",
+            "scoreRatio": 0.0683
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2953652,
+            "memory": 786432,
+            "msg": "points 0.09625 Value: 86980. Ratio: 0.0963\n",
+            "scoreRatio": 0.0963
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 535038,
+            "memory": 786432,
+            "msg": "points 0.1725274725 Value: 86385. Ratio: 0.1725\n",
+            "scoreRatio": 0.1725
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3507753,
+            "memory": 786432,
+            "msg": "points 0.0923737916 Value: 86725. Ratio: 0.0924\n",
+            "scoreRatio": 0.0924
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3086606,
+            "memory": 786432,
+            "msg": "points 0.0908004779 Value: 87155. Ratio: 0.0908\n",
+            "scoreRatio": 0.0908
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3818609,
+            "memory": 786432,
+            "msg": "points 0.0056497175 Value: 86025. Ratio: 0.0056\n",
+            "scoreRatio": 0.0056
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2524584,
+            "memory": 790528,
+            "msg": "points 0.050273224 Value: 85795. Ratio: 0.0503\n",
+            "scoreRatio": 0.0503
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2398383,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 86660. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2979302,
+            "memory": 786432,
+            "msg": "points 0.045 Value: 86125. Ratio: 0.0450\n",
+            "scoreRatio": 0.045
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3438193,
+            "memory": 884736,
+            "msg": "points 0.1011235955 Value: 85980. Ratio: 0.1011\n",
+            "scoreRatio": 0.1011
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3159662,
+            "memory": 786432,
+            "msg": "points 0.0942184154 Value: 86545. Ratio: 0.0942\n",
+            "scoreRatio": 0.0942
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2861003,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 86500. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2887176,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 86885. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3078623,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 87050. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3722907,
+            "memory": 786432,
+            "msg": "points 0.1142546246 Value: 86325. Ratio: 0.1143\n",
+            "scoreRatio": 0.1143
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3823181,
+            "memory": 786432,
+            "msg": "points 0.1793020457 Value: 87380. Ratio: 0.1793\n",
+            "scoreRatio": 0.1793
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3590694,
+            "memory": 786432,
+            "msg": "points 0.0623020063 Value: 86260. Ratio: 0.0623\n",
+            "scoreRatio": 0.0623
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2404200,
+            "memory": 630784,
+            "msg": "points 0.0 Value: 86685. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2472737,
+            "memory": 786432,
+            "msg": "points 0.1473477407 Value: 86090. Ratio: 0.1473\n",
+            "scoreRatio": 0.1473
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2112410,
+            "memory": 786432,
+            "msg": "points 0.0412844037 Value: 86080. Ratio: 0.0413\n",
+            "scoreRatio": 0.0413
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3451354,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 86775. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2320885,
+            "memory": 741376,
+            "msg": "points 0.0651945321 Value: 85930. Ratio: 0.0652\n",
+            "scoreRatio": 0.0652
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5573292,
+            "memory": 880640,
+            "msg": "points 0.0 Value: 85695. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2044464,
+            "memory": 786432,
+            "msg": "points 0.0051085568 Value: 86900. Ratio: 0.0051\n",
+            "scoreRatio": 0.0051
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2066396,
+            "memory": 786432,
+            "msg": "points 0.0150637312 Value: 86060. Ratio: 0.0151\n",
+            "scoreRatio": 0.0151
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4771636,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 86245. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2070824,
+            "memory": 786432,
+            "msg": "points 0.1708984375 Value: 86345. Ratio: 0.1709\n",
+            "scoreRatio": 0.1709
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3346113,
+            "memory": 786432,
+            "msg": "points 0.074610245 Value: 86585. Ratio: 0.0746\n",
+            "scoreRatio": 0.0746
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2139666,
+            "memory": 786432,
+            "msg": "points 0.187992126 Value: 86430. Ratio: 0.1880\n",
+            "scoreRatio": 0.188
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2324671,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 86205. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1970002,
+            "memory": 786432,
+            "msg": "points 0.1170084439 Value: 86570. Ratio: 0.1170\n",
+            "scoreRatio": 0.117
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3306715,
+            "memory": 786432,
+            "msg": "points 0.0181378476 Value: 86585. Ratio: 0.0181\n",
+            "scoreRatio": 0.0181
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2015664,
+            "memory": 786432,
+            "msg": "points 0.0899873257 Value: 86900. Ratio: 0.0900\n",
+            "scoreRatio": 0.09
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3743923,
+            "memory": 786432,
+            "msg": "points 0.0010384216 Value: 85705. Ratio: 0.0010\n",
+            "scoreRatio": 0.001
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4960668,
+            "memory": 786432,
+            "msg": "points 0.148989899 Value: 87400. Ratio: 0.1490\n",
+            "scoreRatio": 0.149
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2151950,
+            "memory": 786432,
+            "msg": "points 0.1945945946 Value: 87530. Ratio: 0.1946\n",
+            "scoreRatio": 0.1946
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3242736,
+            "memory": 786432,
+            "msg": "points 0.0157004831 Value: 86910. Ratio: 0.0157\n",
+            "scoreRatio": 0.0157
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3264758,
+            "memory": 786432,
+            "msg": "points 0.2541841004 Value: 86670. Ratio: 0.2542\n",
+            "scoreRatio": 0.2542
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2014478,
+            "memory": 786432,
+            "msg": "points 0.0939597315 Value: 86570. Ratio: 0.0940\n",
+            "scoreRatio": 0.094
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1894157,
+            "memory": 786432,
+            "msg": "points 0.1186071817 Value: 86615. Ratio: 0.1186\n",
+            "scoreRatio": 0.1186
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2287919,
+            "memory": 786432,
+            "msg": "points 0.0718954248 Value: 86425. Ratio: 0.0719\n",
+            "scoreRatio": 0.0719
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2056096,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 85760. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3216284,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 86460. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2015680,
+            "memory": 786432,
+            "msg": "points 0.1642294713 Value: 87310. Ratio: 0.1642\n",
+            "scoreRatio": 0.1642
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2568862,
+            "memory": 786432,
+            "msg": "points 0.1498405951 Value: 86430. Ratio: 0.1498\n",
+            "scoreRatio": 0.1498
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2249434,
+            "memory": 786432,
+            "msg": "points 0.1520342612 Value: 86750. Ratio: 0.1520\n",
+            "scoreRatio": 0.152
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3090320,
+            "memory": 786432,
+            "msg": "points 0.1738648948 Value: 87660. Ratio: 0.1739\n",
+            "scoreRatio": 0.1739
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4305852,
+            "memory": 786432,
+            "msg": "points 0.0481927711 Value: 86575. Ratio: 0.0482\n",
+            "scoreRatio": 0.0482
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2239397,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 86215. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2067937,
+            "memory": 786432,
+            "msg": "points 0.0068399453 Value: 87105. Ratio: 0.0068\n",
+            "scoreRatio": 0.0068
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2351266,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 86060. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1113336,
+            "memory": 786432,
+            "msg": "points 0.1108742004 Value: 86410. Ratio: 0.1109\n",
+            "scoreRatio": 0.1109
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2059193,
+            "memory": 786432,
+            "msg": "points 0.0575635877 Value: 86710. Ratio: 0.0576\n",
+            "scoreRatio": 0.0576
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2339971,
+            "memory": 786432,
+            "msg": "points 0.0237812128 Value: 86710. Ratio: 0.0238\n",
+            "scoreRatio": 0.0238
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1964501,
+            "memory": 786432,
+            "msg": "points 0.1385176185 Value: 86880. Ratio: 0.1385\n",
+            "scoreRatio": 0.1385
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2046318,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 86870. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2015295,
+            "memory": 786432,
+            "msg": "points 0.0704070407 Value: 86565. Ratio: 0.0704\n",
+            "scoreRatio": 0.0704
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2715254,
+            "memory": 786432,
+            "msg": "points 0.0177267987 Value: 85690. Ratio: 0.0177\n",
+            "scoreRatio": 0.0177
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2202642,
+            "memory": 786432,
+            "msg": "points 0.1409326425 Value: 86535. Ratio: 0.1409\n",
+            "scoreRatio": 0.1409
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2016347,
+            "memory": 790528,
+            "msg": "points 0.1459227468 Value: 86830. Ratio: 0.1459\n",
+            "scoreRatio": 0.1459
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2202121,
+            "memory": 786432,
+            "msg": "points 0.049704142 Value: 86565. Ratio: 0.0497\n",
+            "scoreRatio": 0.0497
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2016067,
+            "memory": 786432,
+            "msg": "points 0.2080253432 Value: 86825. Ratio: 0.2080\n",
+            "scoreRatio": 0.208
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1941805,
+            "memory": 786432,
+            "msg": "points 0.0382387022 Value: 86260. Ratio: 0.0382\n",
+            "scoreRatio": 0.0382
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1955426,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 85835. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2119738,
+            "memory": 786432,
+            "msg": "points 0.0834312573 Value: 86880. Ratio: 0.0834\n",
+            "scoreRatio": 0.0834
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2252522,
+            "memory": 786432,
+            "msg": "points 0.2172972973 Value: 86955. Ratio: 0.2173\n",
+            "scoreRatio": 0.2173
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2124449,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 85915. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1978367,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 85550. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2097771,
+            "memory": 786432,
+            "msg": "points 0.028604119 Value: 86240. Ratio: 0.0286\n",
+            "scoreRatio": 0.0286
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3918542,
+            "memory": 790528,
+            "msg": "points 0.1026455026 Value: 86030. Ratio: 0.1026\n",
+            "scoreRatio": 0.1026
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2118619,
+            "memory": 786432,
+            "msg": "points 0.0235162374 Value: 85735. Ratio: 0.0235\n",
+            "scoreRatio": 0.0235
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2067087,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 86470. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2335426,
+            "memory": 880640,
+            "msg": "points 0.03185438 Value: 86525. Ratio: 0.0319\n",
+            "scoreRatio": 0.0319
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2012595,
+            "memory": 786432,
+            "msg": "points 0.0980810235 Value: 86185. Ratio: 0.0981\n",
+            "scoreRatio": 0.0981
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2050324,
+            "memory": 786432,
+            "msg": "points 0.1913716814 Value: 87040. Ratio: 0.1914\n",
+            "scoreRatio": 0.1914
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2751283,
+            "memory": 786432,
+            "msg": "points 0.1788702929 Value: 86505. Ratio: 0.1789\n",
+            "scoreRatio": 0.1789
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1910602,
+            "memory": 786432,
+            "msg": "points 0.0878661088 Value: 86445. Ratio: 0.0879\n",
+            "scoreRatio": 0.0879
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4833304,
+            "memory": 786432,
+            "msg": "points 0.2647342995 Value: 86810. Ratio: 0.2647\n",
+            "scoreRatio": 0.2647
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2163083,
+            "memory": 786432,
+            "msg": "points 0.0745192308 Value: 86000. Ratio: 0.0745\n",
+            "scoreRatio": 0.0745
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2620660,
+            "memory": 786432,
+            "msg": "points 0.0033594625 Value: 86275. Ratio: 0.0034\n",
+            "scoreRatio": 0.0034
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3166030,
+            "memory": 786432,
+            "msg": "points 0.0703703704 Value: 87020. Ratio: 0.0704\n",
+            "scoreRatio": 0.0704
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1944512,
+            "memory": 786432,
+            "msg": "points 0.1549439348 Value: 86665. Ratio: 0.1549\n",
+            "scoreRatio": 0.1549
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2074668,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 86660. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2425013,
+            "memory": 786432,
+            "msg": "points 0.1314142678 Value: 87205. Ratio: 0.1314\n",
+            "scoreRatio": 0.1314
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2111033,
+            "memory": 786432,
+            "msg": "points 0.084592145 Value: 85745. Ratio: 0.0846\n",
+            "scoreRatio": 0.0846
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2087379,
+            "memory": 786432,
+            "msg": "points 0.0859977949 Value: 86450. Ratio: 0.0860\n",
+            "scoreRatio": 0.086
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2213156,
+            "memory": 786432,
+            "msg": "points 0.03673938 Value: 86765. Ratio: 0.0367\n",
+            "scoreRatio": 0.0367
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2181821,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 86040. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2445316,
+            "memory": 786432,
+            "msg": "points 0.1425702811 Value: 86250. Ratio: 0.1426\n",
+            "scoreRatio": 0.1426
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2338630,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 85615. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3305551,
+            "memory": 798720,
+            "msg": "points 0.1779755284 Value: 87165. Ratio: 0.1780\n",
+            "scoreRatio": 0.178
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2935848,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 86290. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3625384,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 86110. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3653384,
+            "memory": 786432,
+            "msg": "points 0.1611479029 Value: 86445. Ratio: 0.1611\n",
+            "scoreRatio": 0.1611
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3595676,
+            "memory": 667648,
+            "msg": "points 0.1374570447 Value: 86975. Ratio: 0.1375\n",
+            "scoreRatio": 0.1375
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2483015,
+            "memory": 786432,
+            "msg": "points 0.0484359233 Value: 86270. Ratio: 0.0484\n",
+            "scoreRatio": 0.0484
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3654052,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 85475. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2885903,
+            "memory": 786432,
+            "msg": "points 0.172907489 Value: 87090. Ratio: 0.1729\n",
+            "scoreRatio": 0.1729
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3636804,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 86350. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3218059,
+            "memory": 1048576,
+            "msg": "points 0.1107055961 Value: 86780. Ratio: 0.1107\n",
+            "scoreRatio": 0.1107
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4067427,
+            "memory": 880640,
+            "msg": "points 0.2231668438 Value: 86930. Ratio: 0.2232\n",
+            "scoreRatio": 0.2232
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3661566,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 85395. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 7703779,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 86210. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3368794,
+            "memory": 786432,
+            "msg": "points 0.0109756098 Value: 86585. Ratio: 0.0110\n",
+            "scoreRatio": 0.011
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3087610,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 86480. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4292698,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 86160. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2526598,
+            "memory": 786432,
+            "msg": "points 0.0 Value: 86510. Ratio: 0.0000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4053309,
+            "memory": 761856,
+            "msg": "points 0.1239919355 Value: 86385. Ratio: 0.1240\n",
+            "scoreRatio": 0.124
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2575760,
+            "memory": 786432,
+            "msg": "points 0.1053240741 Value: 86410. Ratio: 0.1053\n",
+            "scoreRatio": 0.1053
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2944511,
+            "memory": 786432,
+            "msg": "points 0.0731182796 Value: 86585. Ratio: 0.0731\n",
+            "scoreRatio": 0.0731
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3939479,
+            "memory": 786432,
+            "msg": "points 0.1074626866 Value: 86145. Ratio: 0.1075\n",
+            "scoreRatio": 0.1075
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2543635,
+            "memory": 786432,
+            "msg": "points 0.0120805369 Value: 87170. Ratio: 0.0121\n",
+            "scoreRatio": 0.0121
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3250649,
+            "memory": 786432,
+            "msg": "points 0.1380510441 Value: 86810. Ratio: 0.1381\n",
+            "scoreRatio": 0.1381
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2554769,
+            "memory": 786432,
+            "msg": "points 0.276371308 Value: 87445. Ratio: 0.2764\n",
+            "scoreRatio": 0.2764
+        }
+    ]
+}

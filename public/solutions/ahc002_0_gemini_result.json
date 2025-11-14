@@ -1,0 +1,4 @@
+{
+    "status": "error",
+    "error": "Error: compile failed: main.cpp:4:7: error: 'vector' does not name a type\n    4 |       vector<pair<int, int>> squares;\n      |       ^~~~~~\nmain.cpp:5:7: error: 'vector' does not name a type\n    5 |       vector<int> adj_tiles;\n      |       ^~~~~~\nmain.cpp:7:3: error: 'vector' does not name a type\n    7 |   vector<TileInfo> tiles_info;\n      |   ^~~~~~\n"
+}

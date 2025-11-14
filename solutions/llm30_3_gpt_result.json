@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 71,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 29546333,
+            "memory": 1040384,
+            "msg": "points 1.0 Ratio: 1.000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 307177584,
+            "memory": 1048576,
+            "msg": "points 0.0159574468 Ratio: 0.016\n",
+            "scoreRatio": 0.016
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 387014396,
+            "memory": 1314816,
+            "msg": "points 0.0633802817 Ratio: 0.063\n",
+            "scoreRatio": 0.063
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 422256027,
+            "memory": 1089536,
+            "msg": "points 0.0 Ratio: 0.000\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 28440463,
+            "memory": 1048576,
+            "msg": "points 0.9998979193 Ratio: 1.000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 29363370,
+            "memory": 1048576,
+            "msg": "points 0.9998408058 Ratio: 1.000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 28537290,
+            "memory": 1048576,
+            "msg": "points 0.9998952294 Ratio: 1.000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 33137248,
+            "memory": 1048576,
+            "msg": "points 0.9997436495 Ratio: 1.000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 28512636,
+            "memory": 1048576,
+            "msg": "points 1.0 Ratio: 1.000\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Correct",
+            "time": 28554171,
+            "memory": 1290240,
+            "msg": "points 0.9998576006 Ratio: 1.000\n",
+            "scoreRatio": 1
+        }
+    ]
+}

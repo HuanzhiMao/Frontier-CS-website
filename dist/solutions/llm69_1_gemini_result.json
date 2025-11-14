@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 0,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1148043063,
+            "memory": 64806912,
+            "msg": "terminate called after throwing an instance of 'std::out_of_range'\n  what():  map::at\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1074331976,
+            "memory": 64917504,
+            "msg": "terminate called after throwing an instance of 'std::out_of_range'\n  what():  map::at\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1198836262,
+            "memory": 64552960,
+            "msg": "terminate called after throwing an instance of 'std::out_of_range'\n  what():  map::at\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1699772595,
+            "memory": 64417792,
+            "msg": "terminate called after throwing an instance of 'std::out_of_range'\n  what():  map::at\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1008136337,
+            "memory": 64299008,
+            "msg": "terminate called after throwing an instance of 'std::out_of_range'\n  what():  map::at\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1068793526,
+            "memory": 64172032,
+            "msg": "terminate called after throwing an instance of 'std::out_of_range'\n  what():  map::at\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 989727975,
+            "memory": 64049152,
+            "msg": "terminate called after throwing an instance of 'std::out_of_range'\n  what():  map::at\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 997531075,
+            "memory": 64090112,
+            "msg": "terminate called after throwing an instance of 'std::out_of_range'\n  what():  map::at\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 931751935,
+            "memory": 63885312,
+            "msg": "terminate called after throwing an instance of 'std::out_of_range'\n  what():  map::at\n (signal=unknown)",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1042325306,
+            "memory": 63664128,
+            "msg": "terminate called after throwing an instance of 'std::out_of_range'\n  what():  map::at\n (signal=unknown)",
+            "scoreRatio": 0
+        }
+    ]
+}

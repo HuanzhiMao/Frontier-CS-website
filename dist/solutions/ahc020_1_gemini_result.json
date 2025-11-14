@@ -1,0 +1,608 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 0,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3716808,
+            "memory": 2621440,
+            "msg": "wrong answer Integer 11734 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5487644,
+            "memory": 4194304,
+            "msg": "wrong answer Integer 13561 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5784306,
+            "memory": 4194304,
+            "msg": "wrong answer Integer 12116 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5438219,
+            "memory": 2621440,
+            "msg": "wrong answer Integer 12357 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4182802,
+            "memory": 3145728,
+            "msg": "wrong answer Integer 12473 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4129641,
+            "memory": 3080192,
+            "msg": "wrong answer Integer 11890 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3269542,
+            "memory": 2359296,
+            "msg": "wrong answer Integer 12882 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5778275,
+            "memory": 4378624,
+            "msg": "wrong answer Integer 11873 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3235135,
+            "memory": 2359296,
+            "msg": "wrong answer Integer 11678 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4008869,
+            "memory": 2883584,
+            "msg": "wrong answer Integer 12177 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5457669,
+            "memory": 4194304,
+            "msg": "wrong answer Integer 12706 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3093990,
+            "memory": 2359296,
+            "msg": "wrong answer Integer 11021 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4057207,
+            "memory": 3145728,
+            "msg": "wrong answer Integer 12092 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5377255,
+            "memory": 3932160,
+            "msg": "wrong answer Integer 11664 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5880340,
+            "memory": 4456448,
+            "msg": "wrong answer Integer 11996 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4490593,
+            "memory": 3407872,
+            "msg": "wrong answer Integer 11826 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3583216,
+            "memory": 2621440,
+            "msg": "wrong answer Integer 12702 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3818326,
+            "memory": 2621440,
+            "msg": "wrong answer Integer 11474 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3403928,
+            "memory": 2359296,
+            "msg": "wrong answer Integer 12242 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5140763,
+            "memory": 3936256,
+            "msg": "wrong answer Integer 10617 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4445103,
+            "memory": 3407872,
+            "msg": "wrong answer Integer 10946 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5408450,
+            "memory": 3932160,
+            "msg": "wrong answer Integer 11544 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4981158,
+            "memory": 2883584,
+            "msg": "wrong answer Integer 12185 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3659918,
+            "memory": 2621440,
+            "msg": "wrong answer Integer 11512 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5421005,
+            "memory": 4194304,
+            "msg": "wrong answer Integer 12012 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3671861,
+            "memory": 2621440,
+            "msg": "wrong answer Integer 11507 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5325780,
+            "memory": 3932160,
+            "msg": "wrong answer Integer 12698 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5092559,
+            "memory": 2097152,
+            "msg": "wrong answer Integer 11681 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5813262,
+            "memory": 4456448,
+            "msg": "wrong answer Integer 12077 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3329354,
+            "memory": 2359296,
+            "msg": "wrong answer Integer 11538 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5769170,
+            "memory": 4718592,
+            "msg": "wrong answer Integer 12870 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4106773,
+            "memory": 2883584,
+            "msg": "wrong answer Integer 12412 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 6709985,
+            "memory": 4456448,
+            "msg": "wrong answer Integer 12903 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5658569,
+            "memory": 4456448,
+            "msg": "wrong answer Integer 10859 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4180670,
+            "memory": 3149824,
+            "msg": "wrong answer Integer 13147 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4816504,
+            "memory": 3670016,
+            "msg": "wrong answer Integer 11539 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5100058,
+            "memory": 3936256,
+            "msg": "wrong answer Integer 10161 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5256469,
+            "memory": 4038656,
+            "msg": "wrong answer Integer 11416 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3612332,
+            "memory": 2621440,
+            "msg": "wrong answer Integer 11586 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5629899,
+            "memory": 4194304,
+            "msg": "wrong answer Integer 12665 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3599104,
+            "memory": 2621440,
+            "msg": "wrong answer Integer 11300 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3872080,
+            "memory": 2838528,
+            "msg": "wrong answer Integer 10628 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5669881,
+            "memory": 4194304,
+            "msg": "wrong answer Integer 12428 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3728154,
+            "memory": 2834432,
+            "msg": "wrong answer Integer 11462 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4422484,
+            "memory": 2621440,
+            "msg": "wrong answer Integer 12925 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3324483,
+            "memory": 2359296,
+            "msg": "wrong answer Integer 11704 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2915047,
+            "memory": 2359296,
+            "msg": "wrong answer Integer 11510 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4330406,
+            "memory": 2359296,
+            "msg": "wrong answer Integer 12048 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4223229,
+            "memory": 3145728,
+            "msg": "wrong answer Integer 13008 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3763172,
+            "memory": 2883584,
+            "msg": "wrong answer Integer 11249 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5442672,
+            "memory": 4194304,
+            "msg": "wrong answer Integer 13136 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3457148,
+            "memory": 2359296,
+            "msg": "wrong answer Integer 11302 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4522272,
+            "memory": 3473408,
+            "msg": "wrong answer Integer 12468 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3099571,
+            "memory": 2097152,
+            "msg": "wrong answer Integer 11651 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4286380,
+            "memory": 3145728,
+            "msg": "wrong answer Integer 12255 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5007955,
+            "memory": 3670016,
+            "msg": "wrong answer Integer 12386 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3493758,
+            "memory": 2686976,
+            "msg": "wrong answer Integer 11169 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5273149,
+            "memory": 4194304,
+            "msg": "wrong answer Integer 11954 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5070248,
+            "memory": 3858432,
+            "msg": "wrong answer Integer 11644 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5428644,
+            "memory": 3932160,
+            "msg": "wrong answer Integer 12162 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3808769,
+            "memory": 2883584,
+            "msg": "wrong answer Integer 11707 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5613092,
+            "memory": 4272128,
+            "msg": "wrong answer Integer 12462 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3201217,
+            "memory": 3227648,
+            "msg": "wrong answer Integer 12423 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 6888074,
+            "memory": 4194304,
+            "msg": "wrong answer Integer 11885 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3941954,
+            "memory": 2883584,
+            "msg": "wrong answer Integer 11230 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4609951,
+            "memory": 3407872,
+            "msg": "wrong answer Integer 12860 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3539924,
+            "memory": 2621440,
+            "msg": "wrong answer Integer 12499 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 2926583,
+            "memory": 2097152,
+            "msg": "wrong answer Integer 12422 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5548990,
+            "memory": 3932160,
+            "msg": "wrong answer Integer 11613 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5624688,
+            "memory": 3932160,
+            "msg": "wrong answer Integer 12787 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3102939,
+            "memory": 2097152,
+            "msg": "wrong answer Integer 12750 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5344301,
+            "memory": 4194304,
+            "msg": "wrong answer Integer 12146 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5676692,
+            "memory": 4210688,
+            "msg": "wrong answer Integer 12699 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4121497,
+            "memory": 3145728,
+            "msg": "wrong answer Integer 12389 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4378427,
+            "memory": 3407872,
+            "msg": "wrong answer Integer 11330 violates the range [0, 5000]\n",
+            "scoreRatio": 0
+        }
+    ]
+}

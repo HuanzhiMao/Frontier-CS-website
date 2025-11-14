@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 6,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5566353592,
+            "memory": 8048640,
+            "msg": "points 0.0498693098 OK. n=362380609, queries=158836, Ratio: 0.0499\n",
+            "scoreRatio": 0.0499
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3188207957,
+            "memory": 6311936,
+            "msg": "points 0.1580128265 OK. n=104247795, queries=96365, Ratio: 0.1580\n",
+            "scoreRatio": 0.158
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5942337343,
+            "memory": 8777728,
+            "msg": "points 0.022800464 OK. n=926833802, queries=180000, Ratio: 0.0228\n",
+            "scoreRatio": 0.0228
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 6126503471,
+            "memory": 8957952,
+            "msg": "points 0.022800464 OK. n=761876776, queries=180000, Ratio: 0.0228\n",
+            "scoreRatio": 0.0228
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 4557090810,
+            "memory": 7663616,
+            "msg": "points 0.0814396633 OK. n=363607931, queries=137275, Ratio: 0.0814\n",
+            "scoreRatio": 0.0814
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5924225916,
+            "memory": 9166848,
+            "msg": "points 0.022800464 OK. n=751372453, queries=180000, Ratio: 0.0228\n",
+            "scoreRatio": 0.0228
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5341122948,
+            "memory": 8097792,
+            "msg": "points 0.0466145204 OK. n=569080720, queries=161243, Ratio: 0.0466\n",
+            "scoreRatio": 0.0466
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 6196900683,
+            "memory": 8978432,
+            "msg": "points 0.022800464 OK. n=851253726, queries=180000, Ratio: 0.0228\n",
+            "scoreRatio": 0.0228
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 6028475439,
+            "memory": 8695808,
+            "msg": "points 0.022800464 OK. n=903211015, queries=180000, Ratio: 0.0228\n",
+            "scoreRatio": 0.0228
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3606191797,
+            "memory": 6545408,
+            "msg": "points 0.1292544987 OK. n=182377983, queries=110061, Ratio: 0.1293\n",
+            "scoreRatio": 0.1293
+        }
+    ]
+}

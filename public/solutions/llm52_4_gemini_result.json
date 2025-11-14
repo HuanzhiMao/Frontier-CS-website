@@ -1,0 +1,80 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 0,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1406670,
+            "memory": 786432,
+            "msg": "wrong answer Integer 0 violates the range [1, 7]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1319044,
+            "memory": 524288,
+            "msg": "wrong answer Integer 0 violates the range [1, 7]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 11843881,
+            "memory": 585728,
+            "msg": "wrong answer Integer 0 violates the range [1, 100]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 11208385,
+            "memory": 524288,
+            "msg": "wrong answer Integer 0 violates the range [1, 100]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 8917231,
+            "memory": 524288,
+            "msg": "wrong answer Integer 0 violates the range [1, 100]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 109764271,
+            "memory": 593920,
+            "msg": "wrong answer Integer 0 violates the range [1, 1000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 98177358,
+            "memory": 593920,
+            "msg": "wrong answer Integer 0 violates the range [1, 1000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 105375208,
+            "memory": 524288,
+            "msg": "wrong answer Integer 0 violates the range [1, 1000]\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 103743301,
+            "memory": 524288,
+            "msg": "wrong answer Integer 0 violates the range [1, 1000]\n",
+            "scoreRatio": 0
+        }
+    ]
+}

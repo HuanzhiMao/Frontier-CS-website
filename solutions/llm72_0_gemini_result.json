@@ -1,0 +1,112 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 0,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 8426789,
+            "memory": 2621440,
+            "msg": "<3>WSL (7657 - ) ERROR: UtilGetPpid:1293: Failed to parse: /proc/1/stat, content: 1 (exe) S 0 0 0 0 -1 4194560 3319 14006684 1 560 204 723 242942 16418 20 0 5 0 77651 1275805696 4366 18446744073709551615 1 1 0 0 0 0 0 16423 2143403736 0 0 0 17 12 0 0 0 0 0 0 0 0 0 0 0 0 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 14090261,
+            "memory": 4194304,
+            "msg": "<3>WSL (7659 - ) ERROR: UtilGetPpid:1293: Failed to parse: /proc/1/stat, content: 1 (exe) S 0 0 0 0 -1 4194560 3319 14007832 1 560 204 723 242943 16418 20 0 5 0 77651 1275805696 4366 18446744073709551615 1 1 0 0 0 0 0 16423 2143403736 0 0 0 17 12 0 0 0 0 0 0 0 0 0 0 0 0 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 45042912,
+            "memory": 12144640,
+            "msg": "<3>WSL (7661 - ) ERROR: UtilGetPpid:1293: Failed to parse: /proc/1/stat, content: 1 (exe) S 0 0 0 0 -1 4194560 3319 14010953 1 560 204 723 242947 16419 20 0 5 0 77651 1275805696 4366 18446744073709551615 1 1 0 0 0 0 0 16423 2143403736 0 0 0 17 12 0 0 0 0 0 0 0 0 0 0 0 0 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 28599429,
+            "memory": 6115328,
+            "msg": "<3>WSL (7663 - ) ERROR: UtilGetPpid:1293: Failed to parse: /proc/1/stat, content: 1 (exe) S 0 0 0 0 -1 4194560 3319 14012584 1 560 204 723 242949 16420 20 0 5 0 77651 1275805696 4366 18446744073709551615 1 1 0 0 0 0 0 16423 2143403736 0 0 0 17 12 0 0 0 0 0 0 0 0 0 0 0 0 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 20755066,
+            "memory": 6389760,
+            "msg": "<3>WSL (7665 - ) ERROR: UtilGetPpid:1293: Failed to parse: /proc/1/stat, content: 1 (exe) S 0 0 0 0 -1 4194560 3319 14014291 1 560 204 724 242951 16421 20 0 5 0 77651 1275805696 4366 18446744073709551615 1 1 0 0 0 0 0 16423 2143403736 0 0 0 17 12 0 0 0 0 0 0 0 0 0 0 0 0 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 120732819,
+            "memory": 20185088,
+            "msg": "<3>WSL (7667 - ) ERROR: UtilGetPpid:1293: Failed to parse: /proc/1/stat, content: 1 (exe) R 0 0 0 0 -1 4194560 3319 14019643 1 560 204 724 242961 16422 20 0 5 0 77651 1275805696 4366 18446744073709551615 1 1 0 0 0 0 2147221247 16423 2143403736 0 0 0 17 12 0 0 0 0 0 0 0 0 0 0 0 0 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 8845942,
+            "memory": 2097152,
+            "msg": "<3>WSL (7669 - ) ERROR: UtilGetPpid:1293: Failed to parse: /proc/1/stat, content: 1 (exe) S 0 0 0 0 -1 4194560 3319 14020248 1 560 204 724 242962 16422 20 0 5 0 77651 1275805696 4366 18446744073709551615 1 1 0 0 0 0 0 16423 2143403736 0 0 0 17 12 0 0 0 0 0 0 0 0 0 0 0 0 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 18506919,
+            "memory": 2666496,
+            "msg": "<3>WSL (7671 - ) ERROR: UtilGetPpid:1293: Failed to parse: /proc/1/stat, content: 1 (exe) S 0 0 0 0 -1 4194560 3319 14021028 1 560 204 724 242964 16422 20 0 5 0 77651 1275805696 4366 18446744073709551615 1 1 0 0 0 0 0 16423 2143403736 0 0 0 17 12 0 0 0 0 0 0 0 0 0 0 0 0 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 6489199,
+            "memory": 2211840,
+            "msg": "<3>WSL (7673 - ) ERROR: UtilGetPpid:1293: Failed to parse: /proc/1/stat, content: 1 (exe) S 0 0 0 0 -1 4194560 3319 14021696 1 560 204 724 242964 16422 20 0 5 0 77651 1275805696 4366 18446744073709551615 1 1 0 0 0 0 0 16423 2143403736 0 0 0 17 12 0 0 0 0 0 0 0 0 0 0 0 0 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 5365730,
+            "memory": 2359296,
+            "msg": "<3>WSL (7675 - ) ERROR: UtilGetPpid:1293: Failed to parse: /proc/1/stat, content: 1 (exe) S 0 0 0 0 -1 4194560 3319 14022357 1 560 204 725 242965 16422 20 0 5 0 77651 1275805696 4366 18446744073709551615 1 1 0 0 0 0 0 16423 2143403736 0 0 0 17 12 0 0 0 0 0 0 0 0 0 0 0 0 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 6861272,
+            "memory": 2621440,
+            "msg": "<3>WSL (7677 - ) ERROR: UtilGetPpid:1293: Failed to parse: /proc/1/stat, content: 1 (exe) S 0 0 0 0 -1 4194560 3319 14023110 1 560 204 725 242966 16422 20 0 5 0 77651 1275805696 4366 18446744073709551615 1 1 0 0 0 0 0 16423 2143403736 0 0 0 17 12 0 0 0 0 0 0 0 0 0 0 0 0 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 10696217,
+            "memory": 3407872,
+            "msg": "<3>WSL (7679 - ) ERROR: UtilGetPpid:1293: Failed to parse: /proc/1/stat, content: 1 (exe) S 0 0 0 0 -1 4194560 3319 14024036 1 560 204 725 242967 16422 20 0 5 0 77651 1275805696 4366 18446744073709551615 1 1 0 0 0 0 0 16423 2143403736 0 0 0 17 16 0 0 0 0 0 0 0 0 0 0 0 0 0\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 14247453,
+            "memory": 4485120,
+            "msg": "<3>WSL (7681 - ) ERROR: UtilGetPpid:1293: Failed to parse: /proc/1/stat, content: 1 (exe) R 0 0 0 0 -1 4194560 3319 14025257 1 560 204 725 242967 16423 20 0 5 0 77651 1275805696 4366 18446744073709551615 1 1 0 0 0 0 0 16423 2143403736 0 0 0 17 18 0 0 0 0 0 0 0 0 0 0 0 0 0\n",
+            "scoreRatio": 0
+        }
+    ]
+}

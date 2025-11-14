@@ -1,0 +1,464 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 51,
+    "cases": [
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 828567,
+            "memory": 524288,
+            "msg": "ok 2 number(s): \"3 6\"\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 18497945,
+            "memory": 524288,
+            "msg": "ok 50000 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 34776627,
+            "memory": 524288,
+            "msg": "ok 50000 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 37138473,
+            "memory": 528384,
+            "msg": "ok 50000 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 43976401,
+            "memory": 528384,
+            "msg": "ok 50000 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 54807753,
+            "memory": 786432,
+            "msg": "ok 50000 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 84734874,
+            "memory": 634880,
+            "msg": "ok 50000 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 103804261,
+            "memory": 614400,
+            "msg": "ok 47525 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 148707866,
+            "memory": 524288,
+            "msg": "ok 47367 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 114319227,
+            "memory": 524288,
+            "msg": "ok 47439 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 150436199,
+            "memory": 524288,
+            "msg": "ok 47640 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 346891592,
+            "memory": 626688,
+            "msg": "ok 12322 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 443700063,
+            "memory": 524288,
+            "msg": "ok 6250 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 457027459,
+            "memory": 528384,
+            "msg": "ok 1230 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 469090210,
+            "memory": 880640,
+            "msg": "ok 625 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 101492064,
+            "memory": 880640,
+            "msg": "ok 50000 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3101813431,
+            "memory": 634880,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3101126838,
+            "memory": 630784,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 1188104963,
+            "memory": 524288,
+            "msg": "ok 6250 numbers\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3003845355,
+            "memory": 524288,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3002500665,
+            "memory": 1048576,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3001532842,
+            "memory": 6815744,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3104871188,
+            "memory": 20447232,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3002217367,
+            "memory": 20643840,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3102896910,
+            "memory": 20439040,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3001924450,
+            "memory": 20439040,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3002353959,
+            "memory": 4681728,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3102247782,
+            "memory": 20447232,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3002540427,
+            "memory": 20443136,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3102971579,
+            "memory": 40624128,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3102899238,
+            "memory": 40624128,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3109803912,
+            "memory": 40624128,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3102839090,
+            "memory": 40579072,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3102326821,
+            "memory": 22011904,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3102023692,
+            "memory": 40624128,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 56654782,
+            "memory": 24379392,
+            "msg": "ok 1 number(s): \"194075000001\"\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 371421456,
+            "memory": 40624128,
+            "msg": "ok 1 number(s): \"190902500000\"\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 40739688,
+            "memory": 24379392,
+            "msg": "ok 1 number(s): \"-85570\"\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 702231706,
+            "memory": 35909632,
+            "msg": "ok 1 number(s): \"34540987878\"\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 616956457,
+            "memory": 31711232,
+            "msg": "ok 1 number(s): \"21694456237\"\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 560109719,
+            "memory": 28639232,
+            "msg": "ok 1 number(s): \"12376488483\"\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 458848611,
+            "memory": 26730496,
+            "msg": "ok 1 number(s): \"6644141617\"\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 442307961,
+            "memory": 25710592,
+            "msg": "ok 1 number(s): \"3473460722\"\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 439181383,
+            "memory": 25157632,
+            "msg": "ok 1 number(s): \"1765918758\"\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 367062267,
+            "memory": 24743936,
+            "msg": "ok 1 number(s): \"898259600\"\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 328069826,
+            "memory": 24637440,
+            "msg": "ok 1 number(s): \"445193867\"\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": true,
+            "status": "Correct",
+            "time": 52347962,
+            "memory": 24633344,
+            "msg": "ok 1 number(s): \"205792000001\"\n",
+            "scoreRatio": 1
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3002750606,
+            "memory": 13623296,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3103578610,
+            "memory": 31711232,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3101889772,
+            "memory": 8130560,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3102503145,
+            "memory": 6815744,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3002262389,
+            "memory": 27783168,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3102528129,
+            "memory": 18874368,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3103057606,
+            "memory": 10747904,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3002219320,
+            "memory": 20176896,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3102166236,
+            "memory": 12320768,
+            "msg": "",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 3004974837,
+            "memory": 17555456,
+            "msg": "",
+            "scoreRatio": 0
+        }
+    ]
+}

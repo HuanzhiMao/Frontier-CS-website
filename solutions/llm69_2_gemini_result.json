@@ -1,0 +1,88 @@
+{
+    "status": "done",
+    "passed": false,
+    "result": "Wrong Answer",
+    "score": 0,
+    "cases": [
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1666492225,
+            "memory": 770048,
+            "msg": "points 0.0 wrong answer\n - Query 1: wrong indices; expected (1,14), got (1000,860) (same power).\n - Query 2: wrong indices; expected (2,51), got (1000,997) (same power).\n - Query 3: wrong indices; expected (3,88), got (1000,995) (same power).\n - Query 4: wrong indices; expected (4,125), got (1000,998) (same power).\n - Query 5: wrong indices; expected (5,162), got (1000,994) (same power).\n - Query 6: wrong indices; expected (6,199), got (1000,999) (same power).\n - Query 7: wrong indices; expected (7,236), got (1000,991) (same power).\n - Query 8: wrong indices; expected (8,273), got (1000,860) (same power).\n - Query 9: wrong indices; expected (9,310), got (1000,991) (same power).\n - Query 10: wrong indices; expected (10,347), got (1000,999) (same power).\n - Query 11: wrong indices; expected (11,384), got (1000,994) (same power).\n - Query 12: wrong indices; expected (12,421), got (1000,943) (same power).\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1611978017,
+            "memory": 524288,
+            "msg": "points 0.0 wrong answer\n - Query 1: wrong indices; expected (1,14), got (999,979) (same power).\n - Query 2: wrong indices; expected (2,51), got (999,955) (same power).\n - Query 3: wrong indices; expected (3,88), got (999,991) (same power).\n - Query 4: wrong indices; expected (4,125), got (999,699) (same power).\n - Query 5: wrong indices; expected (5,162), got (999,990) (same power).\n - Query 6: wrong indices; expected (6,199), got (999,959) (same power).\n - Query 7: wrong indices; expected (7,236), got (999,979) (same power).\n - Query 8: wrong indices; expected (8,273), got (999,998) (same power).\n - Query 9: wrong indices; expected (9,310), got (999,813) (same power).\n - Query 10: wrong indices; expected (10,347), got (999,677) (same power).\n - Query 11: wrong indices; expected (11,384), got (999,967) (same power).\n - Query 12: wrong indices; expected (12,421), got (999,966) (same power).\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1503768612,
+            "memory": 524288,
+            "msg": "points 0.0 wrong answer\n - Query 1: wrong indices; expected (1,14), got (998,991) (same power).\n - Query 2: wrong indices; expected (2,51), got (998,445) (same power).\n - Query 3: wrong indices; expected (3,88), got (998,959) (same power).\n - Query 4: wrong indices; expected (4,125), got (998,975) (same power).\n - Query 5: wrong indices; expected (5,162), got (998,875) (same power).\n - Query 6: wrong indices; expected (6,199), got (998,956) (same power).\n - Query 7: wrong indices; expected (7,236), got (998,959) (same power).\n - Query 8: wrong indices; expected (8,273), got (998,997) (same power).\n - Query 9: wrong indices; expected (9,310), got (998,990) (same power).\n - Query 10: wrong indices; expected (10,347), got (998,959) (same power).\n - Query 11: wrong indices; expected (11,384), got (998,863) (same power).\n - Query 12: wrong indices; expected (12,421), got (998,956) (same power).\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1537552234,
+            "memory": 524288,
+            "msg": "points 0.0 wrong answer\n - Query 1: wrong indices; expected (1,14), got (994,819) (same power).\n - Query 2: wrong indices; expected (2,51), got (997,986) (same power).\n - Query 3: wrong indices; expected (3,88), got (997,994) (same power).\n - Query 4: wrong indices; expected (4,125), got (997,986) (same power).\n - Query 5: wrong indices; expected (5,162), got (997,975) (same power).\n - Query 6: wrong indices; expected (6,199), got (997,993) (same power).\n - Query 7: wrong indices; expected (7,236), got (997,894) (same power).\n - Query 8: wrong indices; expected (8,273), got (997,945) (same power).\n - Query 9: wrong indices; expected (9,310), got (997,975) (same power).\n - Query 10: wrong indices; expected (10,347), got (997,984) (same power).\n - Query 11: wrong indices; expected (11,384), got (997,961) (same power).\n - Query 12: wrong indices; expected (12,421), got (997,974) (same power).\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1555929553,
+            "memory": 524288,
+            "msg": "points 0.0 wrong answer\n - Query 1: wrong indices; expected (1,14), got (996,175) (same power).\n - Query 2: wrong indices; expected (2,51), got (991,449) (same power).\n - Query 3: wrong indices; expected (3,88), got (996,942) (same power).\n - Query 4: wrong indices; expected (4,125), got (996,980) (same power).\n - Query 5: wrong indices; expected (5,162), got (996,976) (same power).\n - Query 6: wrong indices; expected (6,199), got (996,995) (same power).\n - Query 7: wrong indices; expected (7,236), got (996,976) (same power).\n - Query 8: wrong indices; expected (8,273), got (996,987) (same power).\n - Query 9: wrong indices; expected (9,310), got (996,947) (same power).\n - Query 10: wrong indices; expected (10,347), got (996,993) (same power).\n - Query 11: wrong indices; expected (11,384), got (996,994) (same power).\n - Query 12: wrong indices; expected (12,421), got (996,980) (same power).\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1506644997,
+            "memory": 520192,
+            "msg": "points 0.0 wrong answer\n - Query 1: wrong indices; expected (1,14), got (995,992) (same power).\n - Query 2: wrong indices; expected (2,51), got (995,983) (same power).\n - Query 3: wrong indices; expected (3,88), got (995,962) (same power).\n - Query 4: wrong indices; expected (4,125), got (995,935) (same power).\n - Query 5: wrong indices; expected (5,162), got (995,978) (same power).\n - Query 6: wrong indices; expected (6,199), got (995,982) (same power).\n - Query 7: wrong indices; expected (7,236), got (995,982) (same power).\n - Query 8: wrong indices; expected (8,273), got (995,935) (same power).\n - Query 9: wrong indices; expected (9,310), got (995,965) (same power).\n - Query 10: wrong indices; expected (10,347), got (995,994) (same power).\n - Query 11: wrong indices; expected (11,384), got (995,975) (same power).\n - Query 12: wrong indices; expected (12,421), got (995,985) (same power).\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1493447780,
+            "memory": 524288,
+            "msg": "points 0.0 wrong answer\n - Query 1: wrong indices; expected (1,14), got (994,937) (same power).\n - Query 2: wrong indices; expected (2,51), got (994,980) (same power).\n - Query 3: wrong indices; expected (3,88), got (994,905) (same power).\n - Query 4: wrong indices; expected (4,125), got (994,976) (same power).\n - Query 5: wrong indices; expected (5,162), got (994,954) (same power).\n - Query 6: wrong indices; expected (6,199), got (994,989) (same power).\n - Query 7: wrong indices; expected (7,236), got (994,618) (same power).\n - Query 8: wrong indices; expected (8,273), got (994,933) (same power).\n - Query 9: wrong indices; expected (9,310), got (994,983) (same power).\n - Query 10: wrong indices; expected (10,347), got (994,989) (same power).\n - Query 11: wrong indices; expected (11,384), got (994,987) (same power).\n - Query 12: wrong indices; expected (12,421), got (994,976) (same power).\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1470180175,
+            "memory": 524288,
+            "msg": "points 0.0 wrong answer\n - Query 1: wrong indices; expected (1,14), got (993,990) (same power).\n - Query 2: wrong indices; expected (2,51), got (993,985) (same power).\n - Query 3: wrong indices; expected (3,88), got (993,989) (same power).\n - Query 4: wrong indices; expected (4,125), got (993,986) (same power).\n - Query 5: wrong indices; expected (5,162), got (993,966) (same power).\n - Query 6: wrong indices; expected (6,199), got (993,812) (same power).\n - Query 7: wrong indices; expected (7,236), got (993,976) (same power).\n - Query 8: wrong indices; expected (8,273), got (993,986) (same power).\n - Query 9: wrong indices; expected (9,310), got (993,814) (same power).\n - Query 10: wrong indices; expected (10,347), got (993,990) (same power).\n - Query 11: wrong indices; expected (11,384), got (993,972) (same power).\n - Query 12: wrong indices; expected (12,421), got (993,369) (same power).\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1487773017,
+            "memory": 524288,
+            "msg": "points 0.0 wrong answer\n - Query 1: wrong indices; expected (1,14), got (992,991) (same power).\n - Query 2: wrong indices; expected (2,51), got (992,965) (same power).\n - Query 3: wrong indices; expected (3,88), got (992,49) (same power).\n - Query 4: wrong indices; expected (4,125), got (992,979) (same power).\n - Query 5: wrong indices; expected (5,162), got (992,974) (same power).\n - Query 6: wrong indices; expected (6,199), got (992,985) (same power).\n - Query 7: wrong indices; expected (7,236), got (992,65) (same power).\n - Query 8: wrong indices; expected (8,273), got (992,979) (same power).\n - Query 9: wrong indices; expected (9,310), got (992,981) (same power).\n - Query 10: wrong indices; expected (10,347), got (992,933) (same power).\n - Query 11: wrong indices; expected (11,384), got (992,762) (same power).\n - Query 12: wrong indices; expected (12,421), got (992,979) (same power).\n",
+            "scoreRatio": 0
+        },
+        {
+            "ok": false,
+            "status": "Wrong Answer",
+            "time": 1414216666,
+            "memory": 626688,
+            "msg": "points 0.0 wrong answer\n - Query 1: wrong indices; expected (1,14), got (991,724) (same power).\n - Query 2: wrong indices; expected (2,51), got (991,678) (same power).\n - Query 3: wrong indices; expected (3,88), got (989,678) (same power).\n - Query 4: wrong indices; expected (4,125), got (991,835) (same power).\n - Query 5: wrong indices; expected (5,162), got (991,955) (same power).\n - Query 6: wrong indices; expected (6,199), got (991,687) (same power).\n - Query 7: wrong indices; expected (7,236), got (991,626) (same power).\n - Query 8: wrong indices; expected (8,273), got (990,895) (same power).\n - Query 9: wrong indices; expected (9,310), got (991,973) (same power).\n - Query 10: wrong indices; expected (10,347), got (991,946) (same power).\n - Query 11: wrong indices; expected (11,384), got (991,988) (same power).\n - Query 12: wrong indices; expected (12,421), got (989,708) (same power).\n",
+            "scoreRatio": 0
+        }
+    ]
+}
