@@ -7,14 +7,14 @@
 #include "testlib.h"
 using namespace std;
 enum {
-    INVALID_INPUT = -1,        // 评测端输入非法（仅评测内部使用）
-    INVALID_T_LENGTH = 1,      // t 长度 != N
-    INVALID_T_CHAR   = 2,      // t 含非法字符
-    WRONG_T          = 3,      // t 与真值不一致
-    INVALID_S_LENGTH = 4,      // s 长度 != 2N+1
-    INVALID_S_CHAR   = 5,      // s 含非法字符
-    QUERY_LIMIT_EXCEEDED = 6,  // 询问次数 > 1000
-    INVALID_OUTPUT   = 9,      // 选手输出行的首字符既不是 '?' 也不是 '!'
+    INVALID_INPUT = -1,        // Invalid grader input (internal use only)
+    INVALID_T_LENGTH = 1,      // t length != N
+    INVALID_T_CHAR   = 2,      // t contains invalid characters
+    WRONG_T          = 3,      // t does not match ground truth
+    INVALID_S_LENGTH = 4,      // s length != 2N+1
+    INVALID_S_CHAR   = 5,      // s contains invalid characters
+    QUERY_LIMIT_EXCEEDED = 6,  // query count > 1000
+    INVALID_OUTPUT   = 9,      // First character of contestant output is neither '?' nor '!'
 };
 
 const int N_MAX = 8000;
@@ -32,7 +32,7 @@ double score(int x){
 }
 
 [[noreturn]] void wrong(const int num) {
-    // 向选手程序写一个标志（避免卡读），随后用 testlib 结束
+    // Write a flag to the contestant's program (to avoid hanging), then terminate with testlib
     fprintf(stdout, "-1\n");
     fflush(stdout);
     quitf(_wa, "translate:wrong\nWrong Answer [%d]\n", num);
@@ -55,10 +55,10 @@ int query(std::string s) {
     }
     QUERY_COUNT++;
 
-    // 将 '0'/'1' 转为 0/1
+    // Convert '0'/'1' characters to 0/1 integers
     for (char &c : s) c -= '0';
 
-    // 自高到低地计算槽输出并折叠到开关 i（XOR 技巧实现 OFF/ON 两种行为）
+    // Compute gate outputs from high to low and fold to switch i (XOR trick implements OFF/ON behavior)
     for (int i = N - 1; i >= 0; --i) {
         const int u = U[i], v = V[i];
         if (T[i] == '&') {
@@ -67,7 +67,7 @@ int query(std::string s) {
             s[i] ^= (s[u] | s[v]);
         }
     }
-    // 返回最终开关 0 的输出
+    // Return the final output of switch 0
     return s[0];
 }
 
@@ -87,7 +87,7 @@ void answer(std::string t) {
 int main(int argc, char* argv[]) {
     registerInteraction(argc, argv);
 
-    // ---------- 读取评测输入（仅评测端使用） ----------
+    // ---------- Read grader input (grader use only) ----------
     N = inf.readInt();     // 1..8000
     R = inf.readInt();     // 1..min(N,120)
     if (N < 1 || N > N_MAX) {
@@ -105,7 +105,7 @@ int main(int argc, char* argv[]) {
        cout<<U[i]<<" "<<V[i]<<endl;
     }
 
-    // 隐藏真值（仅评测端使用，选手不可见）
+    // Hidden ground truth (grader use only, not visible to contestant)
     T = inf.readToken();
     if ((int)T.size() != N) {
         wrong(INVALID_INPUT);
@@ -116,41 +116,41 @@ int main(int argc, char* argv[]) {
         if (c == '|') ++orCount;
     }
     if (orCount > R) {
-        // 评测数据与声明的 R 不一致
+        // Grader data inconsistent with declared R
         wrong(INVALID_INPUT);
     }
 
-    // ---------- 输出给选手的初始可见信息 ----------
-    // 格式：N R，然后 N 行 U[i] V[i]
+    // ---------- Output initial visible information to contestant ----------
+    // Format: N R, then N lines of U[i] V[i]
     /*fprintf(stdout, "%d %d\n", N, R);
     for (int i = 0; i < N; ++i) {
         fprintf(stdout, "%d %d\n", U[i], V[i]);
     }
     fflush(stdout);*/
 
-    // ---------- 交互循环 ----------
+    // ---------- Interaction loop ----------
     while (true) {
-        // 读取操作符（'?', '!'）
-        std::string op = ouf.readToken(); // 读一个 token
+        // Read operator ('?', '!')
+        std::string op = ouf.readToken(); // Read one token
         if (op.empty()) wrong(INVALID_OUTPUT);
         const char type = op[0];
         if (type != '?' && type != '!') wrong(INVALID_OUTPUT);
 
-        // 读取紧随其后的字符串（s 或 t）
+        // Read the following string (s or t)
         std::string payload = ouf.readToken();
 
-        // 兼容性处理：若末尾带换行，去掉（通常 readToken 不会带）
+        // Compatibility: remove trailing newline if present (readToken usually doesn't include it)
         if (!payload.empty() && payload.back() == '\n') payload.pop_back();
 
         if (type == '?') {
-            // 处理查询
+            // Process query
             int res = query(payload);
             fprintf(stdout, "%d\n", res);
             fflush(stdout);
         } else {
-            // 最终回答
+            // Final answer
             answer(payload);
-            // answer() 内部会 quitf；正常不会走到这里
+            // answer() calls quitf internally; should not reach here normally
         }
     }
 }

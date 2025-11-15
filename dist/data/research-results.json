@@ -1,664 +1,1796 @@
 {
   "results": [
     {
-      "solution": "one_shot_gpt_cant_be_late_high_availability_loose_deadline_gemini_gemini_2_5_pro",
+      "solution": "gpt5_cant_be_late_high_availability_loose_deadline",
       "problem": "cant_be_late/high_availability_loose_deadline",
-      "model": "Gemini",
-      "score": 0,
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 8,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_cant_be_late_high_availability_loose_deadline_gpt_5",
+      "solution": "gemini2.5pro_cant_be_late_high_availability_loose_deadline",
       "problem": "cant_be_late/high_availability_loose_deadline",
-      "model": "GPT",
-      "score": 0,
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 19,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_cant_be_late_high_availability_tight_deadline_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_cant_be_late_high_availability_loose_deadline",
+      "problem": "cant_be_late/high_availability_loose_deadline",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_cant_be_late_high_availability_loose_deadline",
+      "problem": "cant_be_late/high_availability_loose_deadline",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "ERROR: Evaluation failed",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_cant_be_late_high_availability_tight_deadline",
       "problem": "cant_be_late/high_availability_tight_deadline",
-      "model": "Gemini",
-      "score": 0,
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 9,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_cant_be_late_high_availability_tight_deadline_gpt_5",
+      "solution": "gemini2.5pro_cant_be_late_high_availability_tight_deadline",
       "problem": "cant_be_late/high_availability_tight_deadline",
-      "model": "GPT",
-      "score": 0,
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 10,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_cant_be_late_low_availability_loose_deadline_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_cant_be_late_high_availability_tight_deadline",
+      "problem": "cant_be_late/high_availability_tight_deadline",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_cant_be_late_high_availability_tight_deadline",
+      "problem": "cant_be_late/high_availability_tight_deadline",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "ERROR: Evaluation failed",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_cant_be_late_low_availability_loose_deadline",
       "problem": "cant_be_late/low_availability_loose_deadline",
-      "model": "Gemini",
-      "score": 0,
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 53,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_cant_be_late_low_availability_loose_deadline_gpt_5",
+      "solution": "gemini2.5pro_cant_be_late_low_availability_loose_deadline",
       "problem": "cant_be_late/low_availability_loose_deadline",
-      "model": "GPT",
-      "score": 0,
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 53,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_cant_be_late_low_availability_tight_deadline_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_cant_be_late_low_availability_loose_deadline",
+      "problem": "cant_be_late/low_availability_loose_deadline",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 52,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_cant_be_late_low_availability_loose_deadline",
+      "problem": "cant_be_late/low_availability_loose_deadline",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "ERROR: Evaluation failed",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_cant_be_late_low_availability_tight_deadline",
       "problem": "cant_be_late/low_availability_tight_deadline",
-      "model": "Gemini",
-      "score": 0,
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 39,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_cant_be_late_low_availability_tight_deadline_gpt_5",
+      "solution": "gemini2.5pro_cant_be_late_low_availability_tight_deadline",
       "problem": "cant_be_late/low_availability_tight_deadline",
-      "model": "GPT",
-      "score": 0,
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 38,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_cant_be_late_multi_high_availability_loose_deadline_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_cant_be_late_low_availability_tight_deadline",
+      "problem": "cant_be_late/low_availability_tight_deadline",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_cant_be_late_low_availability_tight_deadline",
+      "problem": "cant_be_late/low_availability_tight_deadline",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_cant_be_late_multi_high_availability_loose_deadline",
       "problem": "cant_be_late_multi/high_availability_loose_deadline",
-      "model": "Gemini",
-      "score": 0,
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": -41.59750923611122,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_cant_be_late_multi_high_availability_loose_deadline_gpt_5",
+      "solution": "gemini2.5pro_cant_be_late_multi_high_availability_loose_deadline",
       "problem": "cant_be_late_multi/high_availability_loose_deadline",
-      "model": "GPT",
-      "score": 0,
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": -38.94953616666674,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_cant_be_late_multi_high_availability_tight_deadline_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_cant_be_late_multi_high_availability_loose_deadline",
+      "problem": "cant_be_late_multi/high_availability_loose_deadline",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_cant_be_late_multi_high_availability_loose_deadline",
+      "problem": "cant_be_late_multi/high_availability_loose_deadline",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "ERROR: Evaluation failed",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_cant_be_late_multi_high_availability_tight_deadline",
       "problem": "cant_be_late_multi/high_availability_tight_deadline",
-      "model": "Gemini",
-      "score": 0,
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": -126.8279980138902,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_cant_be_late_multi_high_availability_tight_deadline_gpt_5",
+      "solution": "gemini2.5pro_cant_be_late_multi_high_availability_tight_deadline",
       "problem": "cant_be_late_multi/high_availability_tight_deadline",
-      "model": "GPT",
-      "score": 0,
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": -117.77767706250118,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_cant_be_late_multi_low_availability_loose_deadline_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_cant_be_late_multi_high_availability_tight_deadline",
+      "problem": "cant_be_late_multi/high_availability_tight_deadline",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_cant_be_late_multi_high_availability_tight_deadline",
+      "problem": "cant_be_late_multi/high_availability_tight_deadline",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "ERROR: Evaluation failed",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_cant_be_late_multi_low_availability_loose_deadline",
       "problem": "cant_be_late_multi/low_availability_loose_deadline",
-      "model": "Gemini",
-      "score": 0,
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": -23.46471526388883,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_cant_be_late_multi_low_availability_loose_deadline_gpt_5",
+      "solution": "gemini2.5pro_cant_be_late_multi_low_availability_loose_deadline",
       "problem": "cant_be_late_multi/low_availability_loose_deadline",
-      "model": "GPT",
-      "score": 0,
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": -24.28226260416659,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_cant_be_late_multi_low_availability_tight_deadline_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_cant_be_late_multi_low_availability_loose_deadline",
+      "problem": "cant_be_late_multi/low_availability_loose_deadline",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": -31.730247340277767,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_cant_be_late_multi_low_availability_loose_deadline",
+      "problem": "cant_be_late_multi/low_availability_loose_deadline",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "ERROR: Evaluation failed",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_cant_be_late_multi_low_availability_tight_deadline",
       "problem": "cant_be_late_multi/low_availability_tight_deadline",
-      "model": "Gemini",
-      "score": 0,
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": -84.28708031250073,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_cant_be_late_multi_low_availability_tight_deadline_gpt_5",
+      "solution": "gemini2.5pro_cant_be_late_multi_low_availability_tight_deadline",
       "problem": "cant_be_late_multi/low_availability_tight_deadline",
-      "model": "GPT",
-      "score": 0,
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": -105.10692363888994,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_cloudcast_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_cant_be_late_multi_low_availability_tight_deadline",
+      "problem": "cant_be_late_multi/low_availability_tight_deadline",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_cant_be_late_multi_low_availability_tight_deadline",
+      "problem": "cant_be_late_multi/low_availability_tight_deadline",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "ERROR: Evaluation failed",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_cloudcast",
       "problem": "cloudcast",
-      "model": "Gemini",
-      "score": 0,
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 0.08972998297393313,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_cloudcast_gpt_5",
+      "solution": "gemini2.5pro_cloudcast",
       "problem": "cloudcast",
-      "model": "GPT",
-      "score": 0,
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 0.1419416175986678,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_cross_entropy_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_cloudcast",
+      "problem": "cloudcast",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_cloudcast",
+      "problem": "cloudcast",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_cross_entropy",
       "problem": "cross_entropy",
-      "model": "Gemini",
-      "score": 0,
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 47.74487441493007,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_cross_entropy_gpt_5",
+      "solution": "gemini2.5pro_cross_entropy",
       "problem": "cross_entropy",
-      "model": "GPT",
-      "score": 0,
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 55.046221873653515,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_decoding_attn_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_cross_entropy",
+      "problem": "cross_entropy",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 52.66842056536155,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_decoding_attn",
       "problem": "decoding_attn",
-      "model": "Gemini",
-      "score": 0,
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 61.75560106994344,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_decoding_attn_gpt_5",
+      "solution": "gemini2.5pro_decoding_attn",
       "problem": "decoding_attn",
-      "model": "GPT",
-      "score": 0,
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 56.64025718825017,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_flash_attn_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_decoding_attn",
+      "problem": "decoding_attn",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 63.708007189571404,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_decoding_attn",
+      "problem": "decoding_attn",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 52.03308366978308,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_flash_attn",
       "problem": "flash_attn",
-      "model": "Gemini",
+      "model": "GPT-5-2025-08-07 (FC)",
       "score": 0,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_flash_attn_gpt_5",
+      "solution": "gemini2.5pro_flash_attn",
       "problem": "flash_attn",
-      "model": "GPT",
+      "model": "Gemini-2.5-Pro (FC)",
       "score": 0,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_fused_linear_ce_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_flash_attn",
+      "problem": "flash_attn",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_flash_attn",
+      "problem": "flash_attn",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 96.66975425211983,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_fused_linear_ce",
       "problem": "fused_linear_ce",
-      "model": "Gemini",
-      "score": 0,
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 76.50269722109294,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_fused_linear_ce_gpt_5",
+      "solution": "gemini2.5pro_fused_linear_ce",
       "problem": "fused_linear_ce",
-      "model": "GPT",
-      "score": 0,
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 92.85764752597508,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_fused_linear_jsd_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_fused_linear_ce",
+      "problem": "fused_linear_ce",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 92.24216036797255,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_fused_linear_ce",
+      "problem": "fused_linear_ce",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 64.8291123322704,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_fused_linear_jsd",
       "problem": "fused_linear_jsd",
-      "model": "Gemini",
-      "score": 0,
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 43.52071188602186,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_fused_linear_jsd_gpt_5",
+      "solution": "gemini2.5pro_fused_linear_jsd",
       "problem": "fused_linear_jsd",
-      "model": "GPT",
+      "model": "Gemini-2.5-Pro (FC)",
       "score": 0,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_gdpa_attention_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_fused_linear_jsd",
+      "problem": "fused_linear_jsd",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_fused_linear_jsd",
+      "problem": "fused_linear_jsd",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_gdpa_attention",
       "problem": "gdpa_attention",
-      "model": "Gemini",
-      "score": 0,
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 84.40061824600394,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_gdpa_attention_gpt_5",
+      "solution": "gemini2.5pro_gdpa_attention",
       "problem": "gdpa_attention",
-      "model": "GPT",
-      "score": 0,
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 77.1258498867887,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_gemm_optimization_annoying_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_gdpa_attention",
+      "problem": "gdpa_attention",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_gdpa_attention",
+      "problem": "gdpa_attention",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 95.25055087454905,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_gemm_annoying",
       "problem": "gemm_optimization/annoying",
-      "model": "Gemini",
-      "score": 0,
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 47.62235346586645,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_gemm_optimization_annoying_gpt_5",
+      "solution": "gemini2.5pro_gemm_optimization_annoying",
       "problem": "gemm_optimization/annoying",
-      "model": "GPT",
-      "score": 0,
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 21.76015757803106,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_gemm_optimization_k_skewed_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_gemm_optimization_annoying",
+      "problem": "gemm_optimization/annoying",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 23.869764521875602,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_gemm_optimization_annoying",
+      "problem": "gemm_optimization/annoying",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "ERROR: Failed to set up problem environment",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_gemm_k_skewed",
       "problem": "gemm_optimization/k_skewed",
-      "model": "Gemini",
+      "model": "GPT-5-2025-08-07 (FC)",
       "score": 0,
+      "status": "ERROR: Failed to set up problem environment",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_gemm_optimization_k_skewed_gpt_5",
+      "solution": "gemini2.5pro_gemm_optimization_k_skewed",
       "problem": "gemm_optimization/k_skewed",
-      "model": "GPT",
-      "score": 0,
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 60.46757389291142,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_gemm_optimization_near_tile_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_gemm_optimization_k_skewed",
+      "problem": "gemm_optimization/k_skewed",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 66.29802859460014,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_gemm_optimization_k_skewed",
+      "problem": "gemm_optimization/k_skewed",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "ERROR: Failed to set up problem environment",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_gemm_near_tile",
       "problem": "gemm_optimization/near_tile",
-      "model": "Gemini",
-      "score": 0,
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 88.06102817564468,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_gemm_optimization_near_tile_gpt_5",
+      "solution": "gemini2.5pro_gemm_optimization_near_tile",
       "problem": "gemm_optimization/near_tile",
-      "model": "GPT",
-      "score": 0,
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 82.9601060510516,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_gemm_optimization_rectangles_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_gemm_optimization_near_tile",
+      "problem": "gemm_optimization/near_tile",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 83.67253872600575,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_gemm_optimization_near_tile",
+      "problem": "gemm_optimization/near_tile",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "ERROR: Failed to set up problem environment",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_gemm_rectangles",
       "problem": "gemm_optimization/rectangles",
-      "model": "Gemini",
+      "model": "GPT-5-2025-08-07 (FC)",
       "score": 0,
+      "status": "ERROR: Failed to set up problem environment",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_gemm_optimization_rectangles_gpt_5",
+      "solution": "gemini2.5pro_gemm_optimization_rectangles",
       "problem": "gemm_optimization/rectangles",
-      "model": "GPT",
-      "score": 0,
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 28.326303503195394,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_gemm_optimization_squares_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_gemm_optimization_rectangles",
+      "problem": "gemm_optimization/rectangles",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 24.944256921114295,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_gemm_optimization_rectangles",
+      "problem": "gemm_optimization/rectangles",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "ERROR: Failed to set up problem environment",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_gemm_squares",
       "problem": "gemm_optimization/squares",
-      "model": "Gemini",
+      "model": "GPT-5-2025-08-07 (FC)",
       "score": 0,
+      "status": "ERROR: Failed to set up problem environment",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_gemm_optimization_squares_gpt_5",
+      "solution": "gemini2.5pro_gemm_optimization_squares",
       "problem": "gemm_optimization/squares",
-      "model": "GPT",
-      "score": 0,
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 20.335874558960775,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_gemm_optimization_transformerish_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_gemm_optimization_squares",
+      "problem": "gemm_optimization/squares",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 23.35917350320773,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_gemm_optimization_squares",
+      "problem": "gemm_optimization/squares",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "ERROR: Failed to set up problem environment",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_gemm_transformerish",
       "problem": "gemm_optimization/transformerish",
-      "model": "Gemini",
+      "model": "GPT-5-2025-08-07 (FC)",
       "score": 0,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_gemm_optimization_transformerish_gpt_5",
+      "solution": "gemini2.5pro_gemm_optimization_transformerish",
       "problem": "gemm_optimization/transformerish",
-      "model": "GPT",
-      "score": 0,
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 20.227324799807356,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_group_gemm_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_gemm_optimization_transformerish",
+      "problem": "gemm_optimization/transformerish",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 27.63026290104742,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_gemm_optimization_transformerish",
+      "problem": "gemm_optimization/transformerish",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 23.431219803561333,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_group_gemm",
       "problem": "group_gemm",
-      "model": "Gemini",
-      "score": 0,
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 78.91961073316165,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_group_gemm_gpt_5",
+      "solution": "gemini2.5pro_group_gemm",
       "problem": "group_gemm",
-      "model": "GPT",
-      "score": 0,
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 66.03255452089896,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_imagenet_1m_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_group_gemm",
+      "problem": "group_gemm",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 70.72063828918402,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_group_gemm",
+      "problem": "group_gemm",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "ERROR: Failed to set up problem environment",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_imagenet_pareto_1m",
       "problem": "imagenet_pareto/1m",
-      "model": "Gemini",
-      "score": 38.476562499999986,
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 30.175781249999982,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_imagenet_1m_gpt_5",
+      "solution": "gemini2.5pro_imagenet_1m",
       "problem": "imagenet_pareto/1m",
-      "model": "GPT",
-      "score": 0,
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 44.335937499999986,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_imagenet_200k_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_imagenet_1m",
+      "problem": "imagenet_pareto/1m",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_imagenet_1m",
+      "problem": "imagenet_pareto/1m",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_imagenet_pareto_200k",
       "problem": "imagenet_pareto/200k",
-      "model": "Gemini",
-      "score": 0,
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 65.95982142857143,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_imagenet_200k_gpt_5",
+      "solution": "gemini2.5pro_imagenet_200k",
       "problem": "imagenet_pareto/200k",
-      "model": "GPT",
+      "model": "Gemini-2.5-Pro (FC)",
       "score": 0,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_imagenet_2_5m_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_imagenet_200k",
+      "problem": "imagenet_pareto/200k",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_imagenet_200k",
+      "problem": "imagenet_pareto/200k",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_imagenet_pareto_2_5m",
       "problem": "imagenet_pareto/2_5m",
-      "model": "Gemini",
-      "score": 0,
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 19.270833333333346,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_imagenet_2_5m_gpt_5",
+      "solution": "gemini2.5pro_imagenet_2_5m",
       "problem": "imagenet_pareto/2_5m",
-      "model": "GPT",
-      "score": 26.43229166666668,
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 38.80208333333334,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_imagenet_500k_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_imagenet_2_5m",
+      "problem": "imagenet_pareto/2_5m",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 4.947916666666681,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_imagenet_2_5m",
+      "problem": "imagenet_pareto/2_5m",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_imagenet_pareto_500k",
       "problem": "imagenet_pareto/500k",
-      "model": "Gemini",
-      "score": 45.94029017857144,
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 72.44698660714286,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_imagenet_500k_gpt_5",
+      "solution": "gemini2.5pro_imagenet_500k",
       "problem": "imagenet_pareto/500k",
-      "model": "GPT",
-      "score": 0,
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 52.21819196428572,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_imagenet_5m_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_imagenet_500k",
+      "problem": "imagenet_pareto/500k",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_imagenet_500k",
+      "problem": "imagenet_pareto/500k",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_imagenet_pareto_5m",
       "problem": "imagenet_pareto/5m",
-      "model": "Gemini",
-      "score": 0,
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 12.923177083333332,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_imagenet_5m_gpt_5",
+      "solution": "gemini2.5pro_imagenet_5m",
       "problem": "imagenet_pareto/5m",
-      "model": "GPT",
-      "score": 0,
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 43.84765625,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_linear_regression_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_imagenet_5m",
+      "problem": "imagenet_pareto/5m",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_imagenet_5m",
+      "problem": "imagenet_pareto/5m",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_linear_regression",
       "problem": "linear_regression",
-      "model": "Gemini",
-      "score": 56.5,
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "ERROR: Evaluation failed",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_linear_regression_gpt_5",
-      "problem": "linear_regression",
-      "model": "GPT",
-      "score": 56.5,
-      "type": "research"
-    },
-    {
-      "solution": "one_shot_gpt_llm_sql_large_gemini_gemini_2_5_pro",
+      "solution": "gpt5_llm_sql_large",
       "problem": "llm_sql/large",
-      "model": "Gemini",
+      "model": "GPT-5-2025-08-07 (FC)",
       "score": 0,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_llm_sql_large_gpt_5",
+      "solution": "gemini2.5pro_llm_sql_large",
       "problem": "llm_sql/large",
-      "model": "GPT",
-      "score": 0,
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 13.0948301849909,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_llm_sql_small_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_llm_sql_large",
+      "problem": "llm_sql/large",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_llm_sql_large",
+      "problem": "llm_sql/large",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 8.542148955514058,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_llm_sql_small",
       "problem": "llm_sql/small",
-      "model": "Gemini",
+      "model": "GPT-5-2025-08-07 (FC)",
       "score": 0,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_llm_sql_small_gpt_5",
+      "solution": "gemini2.5pro_llm_sql_small",
       "problem": "llm_sql/small",
-      "model": "GPT",
+      "model": "Gemini-2.5-Pro (FC)",
       "score": 0,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_mamba2_scan_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_llm_sql_small",
+      "problem": "llm_sql/small",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 0,
+      "status": "ERROR: Unable to determine result from log",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_llm_sql_small",
+      "problem": "llm_sql/small",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_mamba2_scan",
       "problem": "mamba2_scan",
-      "model": "Gemini",
-      "score": 0,
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 29.37487352790201,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_mamba2_scan_gpt_5",
+      "solution": "gemini2.5pro_mamba2_scan",
       "problem": "mamba2_scan",
-      "model": "GPT",
+      "model": "Gemini-2.5-Pro (FC)",
       "score": 0,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_mixed_gemm_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_mamba2_scan",
+      "problem": "mamba2_scan",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_mamba2_scan",
+      "problem": "mamba2_scan",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 99.69982441898865,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_mixed_gemm",
       "problem": "mixed_gemm",
-      "model": "Gemini",
-      "score": 0,
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 55.193252070673815,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_mixed_gemm_gpt_5",
+      "solution": "gemini2.5pro_mixed_gemm",
       "problem": "mixed_gemm",
-      "model": "GPT",
-      "score": 0,
-      "type": "research"
-    },
-    {
-      "solution": "one_shot_gpt_poc_generation_gemini_gemini_2_5_pro",
-      "problem": "poc_generation",
-      "model": "Gemini",
-      "score": 0,
-      "type": "research"
-    },
-    {
-      "solution": "one_shot_gpt_poc_generation_gpt_5",
-      "problem": "poc_generation",
-      "model": "GPT",
-      "score": 0,
-      "type": "research"
-    },
-    {
-      "solution": "one_shot_gpt_ragged_attention_gemini_gemini_2_5_pro",
-      "problem": "ragged_attention",
-      "model": "Gemini",
-      "score": 0,
-      "type": "research"
-    },
-    {
-      "solution": "one_shot_gpt_ragged_attention_gpt_5",
-      "problem": "ragged_attention",
-      "model": "GPT",
-      "score": 0,
-      "type": "research"
-    },
-    {
-      "solution": "one_shot_gpt_vdb_balanced_gemini_gemini_2_5_pro",
-      "problem": "vdb_pareto/balanced",
-      "model": "Gemini",
-      "score": 0,
-      "type": "research"
-    },
-    {
-      "solution": "one_shot_gpt_vdb_balanced_gpt_5",
-      "problem": "vdb_pareto/balanced",
-      "model": "GPT",
-      "score": 0,
-      "type": "research"
-    },
-    {
-      "solution": "one_shot_gpt_vdb_high_recall_gemini_gemini_2_5_pro",
-      "problem": "vdb_pareto/high_recall",
-      "model": "Gemini",
+      "model": "Gemini-2.5-Pro (FC)",
       "score": 100,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_vdb_high_recall_gpt_5",
+      "solution": "claude4.5sonnet_mixed_gemm",
+      "problem": "mixed_gemm",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 94.7411208137391,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_mixed_gemm",
+      "problem": "mixed_gemm",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_poc_generation",
+      "problem": "poc_generation",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "\"ERROR: /tmp/libfuzzer-74.s:6: Error: no such instruction: `echo \"\"PoC executed.\"\"'\"",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_ragged_attention",
+      "problem": "ragged_attention",
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 94.45079377306735,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gemini2.5pro_ragged_attention",
+      "problem": "ragged_attention",
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 61.34115174217895,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "claude4.5sonnet_ragged_attention",
+      "problem": "ragged_attention",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_ragged_attention",
+      "problem": "ragged_attention",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 89.4679286345396,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_vdb_balanced",
+      "problem": "vdb_pareto/balanced",
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 97.71428571428574,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gemini2.5pro_vdb_balanced",
+      "problem": "vdb_pareto/balanced",
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 95.83193277310926,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "claude4.5sonnet_vdb_balanced",
+      "problem": "vdb_pareto/balanced",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_vdb_balanced",
+      "problem": "vdb_pareto/balanced",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_vdb_high_recall",
       "problem": "vdb_pareto/high_recall",
-      "model": "GPT",
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gemini2.5pro_vdb_high_recall",
+      "problem": "vdb_pareto/high_recall",
+      "model": "Gemini-2.5-Pro (FC)",
       "score": 100,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_vdb_low_latency_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_vdb_high_recall",
+      "problem": "vdb_pareto/high_recall",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 100,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_vdb_high_recall",
+      "problem": "vdb_pareto/high_recall",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 100,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_vdb_low_latency",
       "problem": "vdb_pareto/low_latency",
-      "model": "Gemini",
-      "score": 97.68028240040346,
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 27.483610690872425,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_vdb_low_latency_gpt_5",
+      "solution": "gemini2.5pro_vdb_low_latency",
       "problem": "vdb_pareto/low_latency",
-      "model": "GPT",
-      "score": 0,
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 96.9742813918306,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_vdb_recall80_latency_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_vdb_low_latency",
+      "problem": "vdb_pareto/low_latency",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 11.396873424104873,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_vdb_low_latency",
+      "problem": "vdb_pareto/low_latency",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 7.413010590015098,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_vdb_recall80_latency",
       "problem": "vdb_pareto/recall80_latency",
-      "model": "Gemini",
-      "score": 0,
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 10.999906063079823,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_vdb_recall80_latency_gpt_5",
+      "solution": "gemini2.5pro_vdb_recall80_latency",
       "problem": "vdb_pareto/recall80_latency",
-      "model": "GPT",
+      "model": "Gemini-2.5-Pro (FC)",
       "score": 0,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_vdb_recall95_latency_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_vdb_recall80_latency",
+      "problem": "vdb_pareto/recall80_latency",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_vdb_recall80_latency",
+      "problem": "vdb_pareto/recall80_latency",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_vdb_recall95_latency",
       "problem": "vdb_pareto/recall95_latency",
-      "model": "Gemini",
+      "model": "GPT-5-2025-08-07 (FC)",
       "score": 0,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_vdb_recall95_latency_gpt_5",
+      "solution": "gemini2.5pro_vdb_recall95_latency",
       "problem": "vdb_pareto/recall95_latency",
-      "model": "GPT",
+      "model": "Gemini-2.5-Pro (FC)",
       "score": 0,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_vector_addition_2_20_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_vdb_recall95_latency",
+      "problem": "vdb_pareto/recall95_latency",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_vdb_recall95_latency",
+      "problem": "vdb_pareto/recall95_latency",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_vector_addition_2_20",
       "problem": "vector_addition/2_20",
-      "model": "Gemini",
+      "model": "GPT-5-2025-08-07 (FC)",
       "score": 0,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_vector_addition_2_20_gpt_5",
+      "solution": "gemini2.5pro_vector_addition_2_20",
       "problem": "vector_addition/2_20",
-      "model": "GPT",
+      "model": "Gemini-2.5-Pro (FC)",
       "score": 0,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_vector_addition_2_24_gemini_gemini_2_5_pro",
+      "solution": "claude4.5sonnet_vector_addition_2_20",
+      "problem": "vector_addition/2_20",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_vector_addition_2_20",
+      "problem": "vector_addition/2_20",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_vector_addition_2_24",
       "problem": "vector_addition/2_24",
-      "model": "Gemini",
-      "score": 0,
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 48.698674840019216,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_vector_addition_2_24_gpt_5",
+      "solution": "gemini2.5pro_vector_addition_2_24",
       "problem": "vector_addition/2_24",
-      "model": "GPT",
-      "score": 0,
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 49.75990485446069,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_vector_addition_2_28_gemini_gemini_2_5_pro",
-      "problem": "vector_addition/2_28",
-      "model": "Gemini",
-      "score": 0,
+      "solution": "claude4.5sonnet_vector_addition_2_24",
+      "problem": "vector_addition/2_24",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 48.0518019283884,
+      "status": "SUCCESS",
       "type": "research"
     },
     {
-      "solution": "one_shot_gpt_vector_addition_2_28_gpt_5",
+      "solution": "grokcodefast1_vector_addition_2_24",
+      "problem": "vector_addition/2_24",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 48.074881141052096,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_vector_addition_2_28",
       "problem": "vector_addition/2_28",
-      "model": "GPT",
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 49.77522736064925,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gemini2.5pro_vector_addition_2_28",
+      "problem": "vector_addition/2_28",
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 48.37054273506162,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "claude4.5sonnet_vector_addition_2_28",
+      "problem": "vector_addition/2_28",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 48.121932618879335,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_vector_addition_2_28",
+      "problem": "vector_addition/2_28",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 49.49649141521964,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "claude4.5sonnet_vdb_high_recall",
+      "problem": "vdb_pareto/recall80_latency",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 25.693035125732422,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "claude4.5sonnet_vdb_high_recall",
+      "problem": "vdb_pareto/recall95_latency",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 94.2706451787577,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "claude4.5sonnet_vdb_low_latency",
+      "problem": "vdb_pareto/recall80_latency",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 86.34119431177774,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "claude4.5sonnet_vdb_low_latency",
+      "problem": "vdb_pareto/recall95_latency",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
       "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "claude4.5sonnet_vdb_recall80_latency",
+      "problem": "vdb_pareto/low_latency",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "claude4.5sonnet_vdb_recall80_latency",
+      "problem": "vdb_pareto/recall95_latency",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "claude4.5sonnet_vdb_recall95_latency",
+      "problem": "vdb_pareto/low_latency",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "claude4.5sonnet_vdb_recall95_latency",
+      "problem": "vdb_pareto/recall80_latency",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gemini2.5pro_vdb_high_recall",
+      "problem": "vdb_pareto/recall80_latency",
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 4.500869909922289,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gemini2.5pro_vdb_high_recall",
+      "problem": "vdb_pareto/recall95_latency",
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 92.58571661912002,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gemini2.5pro_vdb_low_latency",
+      "problem": "vdb_pareto/recall80_latency",
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 91.29161039988199,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gemini2.5pro_vdb_low_latency",
+      "problem": "vdb_pareto/recall95_latency",
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 99.36513095707087,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gemini2.5pro_vdb_recall80_latency",
+      "problem": "vdb_pareto/low_latency",
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gemini2.5pro_vdb_recall80_latency",
+      "problem": "vdb_pareto/recall95_latency",
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gemini2.5pro_vdb_recall95_latency",
+      "problem": "vdb_pareto/low_latency",
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gemini2.5pro_vdb_recall95_latency",
+      "problem": "vdb_pareto/recall80_latency",
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_vdb_high_recall",
+      "problem": "vdb_pareto/recall80_latency",
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_vdb_high_recall",
+      "problem": "vdb_pareto/recall95_latency",
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_vdb_low_latency",
+      "problem": "vdb_pareto/recall80_latency",
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 83.7897539138794,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_vdb_low_latency",
+      "problem": "vdb_pareto/recall95_latency",
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_vdb_recall80_latency",
+      "problem": "vdb_pareto/low_latency",
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 46.14220877458399,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_vdb_recall80_latency",
+      "problem": "vdb_pareto/recall95_latency",
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_vdb_recall95_latency",
+      "problem": "vdb_pareto/low_latency",
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 58.295511850731195,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_vdb_recall95_latency",
+      "problem": "vdb_pareto/recall80_latency",
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_vdb_high_recall",
+      "problem": "vdb_pareto/recall80_latency",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 28.36874326070149,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_vdb_high_recall",
+      "problem": "vdb_pareto/recall95_latency",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 94.68713116336178,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_vdb_low_latency",
+      "problem": "vdb_pareto/recall80_latency",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 87.16080586115518,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_vdb_low_latency",
+      "problem": "vdb_pareto/recall95_latency",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_vdb_recall80_latency",
+      "problem": "vdb_pareto/low_latency",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_vdb_recall80_latency",
+      "problem": "vdb_pareto/recall95_latency",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_vdb_recall95_latency",
+      "problem": "vdb_pareto/low_latency",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_vdb_recall95_latency",
+      "problem": "vdb_pareto/recall80_latency",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "claude4.5sonnet_gemm_optimization_annoying",
+      "problem": "gemm_optimization/annoying",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 25.491688823540905,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "claude4.5sonnet_gemm_optimization_squares",
+      "problem": "gemm_optimization/squares",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 23.140458049177926,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "claude4.5sonnet_gemm_optimization_transformerish",
+      "problem": "gemm_optimization/transformerish",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 26.605676230865527,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gemini2.5pro_gemm_optimization_annoying",
+      "problem": "gemm_optimization/annoying",
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 24.943332137771822,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gemini2.5pro_gemm_optimization_k_skewed",
+      "problem": "gemm_optimization/k_skewed",
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 61.756469218418594,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gemini2.5pro_gemm_optimization_near_tile",
+      "problem": "gemm_optimization/near_tile",
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 0,
+      "status": "\"ERROR: \"KeyError: 'geometric_mean_speedup'\"\"",
+      "type": "research"
+    },
+    {
+      "solution": "gemini2.5pro_gemm_optimization_rectangles",
+      "problem": "gemm_optimization/rectangles",
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 28.62935922359908,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gemini2.5pro_gemm_optimization_squares",
+      "problem": "gemm_optimization/squares",
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 22.25452446258084,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gemini2.5pro_gemm_optimization_transformerish",
+      "problem": "gemm_optimization/transformerish",
+      "model": "Gemini-2.5-Pro (FC)",
+      "score": 20.459255424647836,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "claude4.5sonnet_gemm_optimization_near_tile",
+      "problem": "gemm_optimization/near_tile",
+      "model": "Claude-Sonnet-4-5-20250929 (FC)",
+      "score": 0,
+      "status": "\"ERROR: \"KeyError: 'geometric_mean_speedup'\"\"",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_gemm_annoying",
+      "problem": "gemm_optimization/annoying",
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 24.171947009320462,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_gemm_k_skewed",
+      "problem": "gemm_optimization/k_skewed",
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_gemm_rectangles",
+      "problem": "gemm_optimization/rectangles",
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_gemm_squares",
+      "problem": "gemm_optimization/squares",
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_gemm_transformerish",
+      "problem": "gemm_optimization/transformerish",
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_gemm_optimization_annoying",
+      "problem": "gemm_optimization/annoying",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_gemm_optimization_k_skewed",
+      "problem": "gemm_optimization/k_skewed",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 64.78004602197329,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_gemm_optimization_rectangles",
+      "problem": "gemm_optimization/rectangles",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 27.21294281105623,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "gpt5_gemm_near_tile",
+      "problem": "gemm_optimization/near_tile",
+      "model": "GPT-5-2025-08-07 (FC)",
+      "score": 83.44675334385832,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_gemm_optimization_squares",
+      "problem": "gemm_optimization/squares",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 20.25755319790078,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_gemm_optimization_transformerish",
+      "problem": "gemm_optimization/transformerish",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 23.79366996979041,
+      "status": "SUCCESS",
+      "type": "research"
+    },
+    {
+      "solution": "grokcodefast1_gemm_optimization_near_tile",
+      "problem": "gemm_optimization/near_tile",
+      "model": "Grok-Code-Fast-1 (FC)",
+      "score": 0,
+      "status": "\"ERROR: \"KeyError: 'geometric_mean_speedup'\"\"",
       "type": "research"
     }
   ],
   "problems": [
     {
       "name": "cant_be_late/high_availability_loose_deadline",
-      "category": "Operating Systems & Distributed Systems",
+      "category": "Systems",
       "type": "research",
       "displayName": "High Availability Loose Deadline"
     },
     {
       "name": "cant_be_late/high_availability_tight_deadline",
-      "category": "Operating Systems & Distributed Systems",
+      "category": "Systems",
       "type": "research",
       "displayName": "High Availability Tight Deadline"
     },
     {
       "name": "cant_be_late/low_availability_loose_deadline",
-      "category": "Operating Systems & Distributed Systems",
+      "category": "Systems",
       "type": "research",
       "displayName": "Low Availability Loose Deadline"
     },
     {
       "name": "cant_be_late/low_availability_tight_deadline",
-      "category": "Operating Systems & Distributed Systems",
+      "category": "Systems",
       "type": "research",
       "displayName": "Low Availability Tight Deadline"
     },
     {
       "name": "cant_be_late_multi/high_availability_loose_deadline",
-      "category": "Operating Systems & Distributed Systems",
+      "category": "Systems",
       "type": "research",
       "displayName": "High Availability Loose Deadline"
     },
     {
       "name": "cant_be_late_multi/high_availability_tight_deadline",
-      "category": "Operating Systems & Distributed Systems",
+      "category": "Systems",
       "type": "research",
       "displayName": "High Availability Tight Deadline"
     },
     {
       "name": "cant_be_late_multi/low_availability_loose_deadline",
-      "category": "Operating Systems & Distributed Systems",
+      "category": "Systems",
       "type": "research",
       "displayName": "Low Availability Loose Deadline"
     },
     {
       "name": "cant_be_late_multi/low_availability_tight_deadline",
-      "category": "Operating Systems & Distributed Systems",
+      "category": "Systems",
       "type": "research",
       "displayName": "Low Availability Tight Deadline"
     },
     {
       "name": "cloudcast",
-      "category": "Artificial Intelligence",
+      "category": "AI",
       "type": "research",
       "displayName": "Cloudcast"
     },
     {
       "name": "cross_entropy",
-      "category": "Artificial Intelligence",
+      "category": "AI",
       "type": "research",
       "displayName": "Cross Entropy"
     },
     {
       "name": "decoding_attn",
-      "category": "HPC / GPU Systems",
+      "category": "HPC",
       "type": "research",
       "displayName": "Decoding Attn"
     },
     {
       "name": "flash_attn",
-      "category": "HPC / GPU Systems",
+      "category": "HPC",
       "type": "research",
       "displayName": "Flash Attn"
     },
@@ -682,176 +1814,190 @@
     },
     {
       "name": "gemm_optimization/annoying",
-      "category": "HPC / GPU Systems",
+      "category": "HPC",
       "type": "research",
       "displayName": "Annoying"
     },
     {
       "name": "gemm_optimization/k_skewed",
-      "category": "HPC / GPU Systems",
+      "category": "HPC",
       "type": "research",
       "displayName": "K Skewed"
     },
     {
       "name": "gemm_optimization/near_tile",
-      "category": "HPC / GPU Systems",
+      "category": "HPC",
       "type": "research",
       "displayName": "Near Tile"
     },
     {
       "name": "gemm_optimization/rectangles",
-      "category": "HPC / GPU Systems",
+      "category": "HPC",
       "type": "research",
       "displayName": "Rectangles"
     },
     {
       "name": "gemm_optimization/squares",
-      "category": "HPC / GPU Systems",
+      "category": "HPC",
       "type": "research",
       "displayName": "Squares"
     },
     {
       "name": "gemm_optimization/transformerish",
-      "category": "HPC / GPU Systems",
+      "category": "HPC",
       "type": "research",
       "displayName": "Transformerish"
     },
     {
       "name": "group_gemm",
-      "category": "HPC / GPU Systems",
+      "category": "HPC",
       "type": "research",
       "displayName": "Group Gemm"
     },
     {
       "name": "imagenet_pareto/1m",
-      "category": "Artificial Intelligence",
+      "category": "AI",
       "type": "research",
       "displayName": "1m"
     },
     {
       "name": "imagenet_pareto/200k",
-      "category": "Artificial Intelligence",
+      "category": "AI",
       "type": "research",
       "displayName": "200k"
     },
     {
       "name": "imagenet_pareto/2_5m",
-      "category": "Artificial Intelligence",
+      "category": "AI",
       "type": "research",
       "displayName": "2 5m"
     },
     {
       "name": "imagenet_pareto/500k",
-      "category": "Artificial Intelligence",
+      "category": "AI",
       "type": "research",
       "displayName": "500k"
     },
     {
       "name": "imagenet_pareto/5m",
-      "category": "Artificial Intelligence",
+      "category": "AI",
       "type": "research",
       "displayName": "5m"
     },
     {
       "name": "linear_regression",
-      "category": "Artificial Intelligence",
+      "category": "AI",
       "type": "research",
       "displayName": "Linear Regression"
     },
     {
       "name": "llm_sql/large",
-      "category": "Databases & Data Infrastructure",
+      "category": "Database",
       "type": "research",
       "displayName": "Large"
     },
     {
       "name": "llm_sql/small",
-      "category": "Databases & Data Infrastructure",
+      "category": "Database",
       "type": "research",
       "displayName": "Small"
     },
     {
       "name": "mamba2_scan",
-      "category": "HPC / GPU Systems",
+      "category": "HPC",
       "type": "research",
       "displayName": "Mamba2 Scan"
     },
     {
       "name": "mixed_gemm",
-      "category": "HPC / GPU Systems",
+      "category": "HPC",
       "type": "research",
       "displayName": "Mixed Gemm"
     },
     {
       "name": "poc_generation",
-      "category": "Artificial Intelligence",
+      "category": "AI",
       "type": "research",
       "displayName": "Poc Generation"
     },
     {
       "name": "ragged_attention",
-      "category": "Other",
+      "category": "AI",
       "type": "research",
       "displayName": "Ragged Attention"
     },
     {
       "name": "vdb_pareto/balanced",
-      "category": "Databases & Data Infrastructure",
+      "category": "Database",
       "type": "research",
       "displayName": "Balanced"
     },
     {
       "name": "vdb_pareto/high_recall",
-      "category": "Databases & Data Infrastructure",
+      "category": "Database",
       "type": "research",
       "displayName": "High Recall"
     },
     {
       "name": "vdb_pareto/low_latency",
-      "category": "Databases & Data Infrastructure",
+      "category": "Database",
       "type": "research",
       "displayName": "Low Latency"
     },
     {
       "name": "vdb_pareto/recall80_latency",
-      "category": "Databases & Data Infrastructure",
+      "category": "Database",
       "type": "research",
       "displayName": "Recall80 Latency"
     },
     {
       "name": "vdb_pareto/recall95_latency",
-      "category": "Databases & Data Infrastructure",
+      "category": "Database",
       "type": "research",
       "displayName": "Recall95 Latency"
     },
     {
       "name": "vector_addition/2_20",
-      "category": "HPC / GPU Systems",
+      "category": "HPC",
       "type": "research",
       "displayName": "2 20"
     },
     {
       "name": "vector_addition/2_24",
-      "category": "HPC / GPU Systems",
+      "category": "HPC",
       "type": "research",
       "displayName": "2 24"
     },
     {
       "name": "vector_addition/2_28",
-      "category": "HPC / GPU Systems",
+      "category": "HPC",
       "type": "research",
       "displayName": "2 28"
     }
   ],
   "models": [
     {
-      "name": "Gemini",
-      "provider": "Google",
+      "name": "GPT-5-2025-08-07 (FC)",
+      "provider": "OpenAI",
+      "license": "Proprietary",
       "status": "active"
     },
     {
-      "name": "GPT",
-      "provider": "OpenAI",
+      "name": "Gemini-2.5-Pro (FC)",
+      "provider": "Google",
+      "license": "Proprietary",
+      "status": "active"
+    },
+    {
+      "name": "Claude-Sonnet-4-5-20250929 (FC)",
+      "provider": "Anthropic",
+      "license": "Proprietary",
+      "status": "active"
+    },
+    {
+      "name": "Grok-Code-Fast-1 (FC)",
+      "provider": "xAI",
+      "license": "Proprietary",
       "status": "active"
     }
   ]

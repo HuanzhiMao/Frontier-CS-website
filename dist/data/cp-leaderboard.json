@@ -1,46 +1,98 @@
 [
   {
-    "name": "Gemini",
+    "name": "Gemini-2.5-Pro (FC)",
     "provider": "Google",
+    "license": "Proprietary",
     "status": "active",
     "totalProblems": 107,
     "uniqueProblemsSolved": 105,
     "totalAttempts": 525,
     "passedAttempts": 1,
     "avgScore": 11.03,
-    "passRate": 0.19
+    "passRate": 0.19,
+    "categoryScores": {
+      "AtCoder": {
+        "avgScore": 4.79,
+        "attempts": 120,
+        "totalProblems": 25
+      },
+      "Self-Designed": {
+        "avgScore": 12.88,
+        "attempts": 405,
+        "totalProblems": 82
+      }
+    }
   },
   {
-    "name": "GPT",
+    "name": "GPT-5-2025-08-07 (FC)",
     "provider": "OpenAI",
+    "license": "Proprietary",
     "status": "active",
     "totalProblems": 107,
     "uniqueProblemsSolved": 105,
     "totalAttempts": 525,
     "passedAttempts": 1,
     "avgScore": 10.7,
-    "passRate": 0.19
+    "passRate": 0.19,
+    "categoryScores": {
+      "AtCoder": {
+        "avgScore": 5.97,
+        "attempts": 120,
+        "totalProblems": 25
+      },
+      "Self-Designed": {
+        "avgScore": 12.1,
+        "attempts": 405,
+        "totalProblems": 82
+      }
+    }
   },
   {
-    "name": "Grok",
+    "name": "Grok-Code-Fast-1 (FC)",
     "provider": "xAI",
+    "license": "Proprietary",
     "status": "active",
     "totalProblems": 107,
     "uniqueProblemsSolved": 107,
     "totalAttempts": 291,
     "passedAttempts": 3,
     "avgScore": 9.47,
-    "passRate": 1.03
+    "passRate": 1.03,
+    "categoryScores": {
+      "AtCoder": {
+        "avgScore": 6.93,
+        "attempts": 75,
+        "totalProblems": 25
+      },
+      "Self-Designed": {
+        "avgScore": 10.36,
+        "attempts": 216,
+        "totalProblems": 82
+      }
+    }
   },
   {
-    "name": "Claude",
+    "name": "Claude-Sonnet-4-5-20250929 (FC)",
     "provider": "Anthropic",
+    "license": "Proprietary",
     "status": "active",
     "totalProblems": 107,
     "uniqueProblemsSolved": 107,
     "totalAttempts": 535,
     "passedAttempts": 0,
     "avgScore": 1.63,
-    "passRate": 0
+    "passRate": 0,
+    "categoryScores": {
+      "AtCoder": {
+        "avgScore": 0.58,
+        "attempts": 125,
+        "totalProblems": 25
+      },
+      "Self-Designed": {
+        "avgScore": 1.95,
+        "attempts": 410,
+        "totalProblems": 82
+      }
+    }
   }
 ]

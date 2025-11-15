@@ -34,20 +34,18 @@ function parseCPResults(solutionsPath) {
 
       // Map model names to display names
       const modelDisplayNames = {
-        'claude': 'Claude',
-        'gemini': 'Gemini',
-        'gpt': 'GPT',
-        'grok': 'Grok'
+        'claude': 'Claude-Sonnet-4-5-20250929 (FC)',
+        'gemini': 'Gemini-2.5-Pro (FC)',
+        'gpt': 'GPT-5-2025-08-07 (FC)',
+        'grok': 'Grok-Code-Fast-1 (FC)'
       };
 
       const modelName = modelDisplayNames[model] || model;
 
-      // Determine problem category
-      let category = 'Competitive Programming';
+      // Determine problem category - only 2 categories
+      let category = 'Self-Designed';
       if (problem.startsWith('ahc')) {
-        category = 'AtCoder Heuristic Contest';
-      } else if (problem.startsWith('llm')) {
-        category = 'LLM Coding Challenge';
+        category = 'AtCoder';
       }
 
       // Parse score - treat non-numeric as 0
@@ -87,10 +85,14 @@ function parseCPResults(solutionsPath) {
       if (!modelsMap.has(modelName)) {
         modelsMap.set(modelName, {
           name: modelName,
-          provider: modelName === 'GPT' ? 'OpenAI' :
-                    modelName === 'Claude' ? 'Anthropic' :
-                    modelName === 'Gemini' ? 'Google' :
-                    modelName === 'Grok' ? 'xAI' : 'Unknown',
+          provider: modelName.includes('GPT') ? 'OpenAI' :
+                    modelName.includes('Claude') ? 'Anthropic' :
+                    modelName.includes('Gemini') ? 'Google' :
+                    modelName.includes('Grok') ? 'xAI' : 'Unknown',
+          license: modelName.includes('GPT') ? 'Proprietary' :
+                   modelName.includes('Claude') ? 'Proprietary' :
+                   modelName.includes('Gemini') ? 'Proprietary' :
+                   modelName.includes('Grok') ? 'Proprietary' : 'Unknown',
           status: 'active'
         });
       }
@@ -134,7 +136,7 @@ function aggregateByModel(data) {
     }
   }
 
-  // Calculate averages
+  // Calculate averages with category breakdowns
   const leaderboard = Array.from(modelStats.values()).map(stats => {
     const avgScore = stats.scores.length > 0
       ? stats.scores.reduce((a, b) => a + b, 0) / stats.scores.length
@@ -142,16 +144,39 @@ function aggregateByModel(data) {
 
     const modelInfo = data.models.find(m => m.name === stats.model);
 
+    // Calculate category scores
+    const categories = ['AtCoder', 'Self-Designed'];
+    const categoryScores = {};
+
+    categories.forEach(cat => {
+      const catProblems = data.problems.filter(p => p.category === cat);
+      const catResults = data.results.filter(r => {
+        const problem = data.problems.find(p => p.name === r.problem);
+        return r.model === stats.model && problem && problem.category === cat;
+      });
+
+      if (catResults.length > 0) {
+        const catAvg = catResults.reduce((sum, r) => sum + r.score, 0) / catResults.length;
+        categoryScores[cat] = {
+          avgScore: Number(catAvg.toFixed(2)),
+          attempts: catResults.length,
+          totalProblems: catProblems.length
+        };
+      }
+    });
+
     return {
       name: stats.model,
       provider: modelInfo?.provider || 'Unknown',
+      license: modelInfo?.license || 'Unknown',
       status: 'active',
       totalProblems: data.problems.length,
       uniqueProblemsSolved: stats.totalProblems.size,
       totalAttempts: stats.totalAttempts,
       passedAttempts: stats.passed,
       avgScore: Number(avgScore.toFixed(2)),
-      passRate: Number((stats.passed / stats.totalAttempts * 100).toFixed(2))
+      passRate: Number((stats.passed / stats.totalAttempts * 100).toFixed(2)),
+      categoryScores
     };
   }).sort((a, b) => b.avgScore - a.avgScore);
 

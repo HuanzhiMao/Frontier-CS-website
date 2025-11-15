@@ -1,46 +1,107 @@
 [
   {
-    "name": "Gemini",
+    "name": "Gemini 2.5 Pro",
     "provider": "Google",
+    "license": "Proprietary",
     "status": "active",
-    "totalProblems": 107,
-    "uniqueProblemsSolved": 105,
-    "totalAttempts": 525,
-    "passedAttempts": 1,
-    "avgScore": 11.03,
-    "passRate": 0.19
+    "avgScore": 11.69,
+    "categoryScores": {
+      "Avg@5": {
+        "avgScore": 11.03
+      },
+      "Score@5": {
+        "avgScore": 24.1
+      },
+      "Pass@1": {
+        "avgScore": 36.19
+      },
+      "Pass@5": {
+        "avgScore": 60
+      }
+    }
   },
   {
-    "name": "GPT",
+    "name": "GPT 5 Thinking",
     "provider": "OpenAI",
+    "license": "Proprietary",
     "status": "active",
-    "totalProblems": 107,
-    "uniqueProblemsSolved": 105,
-    "totalAttempts": 525,
-    "passedAttempts": 1,
-    "avgScore": 10.7,
-    "passRate": 0.19
+    "avgScore": 9.81,
+    "categoryScores": {
+      "Avg@5": {
+        "avgScore": 10.7
+      },
+      "Score@5": {
+        "avgScore": 22.23
+      },
+      "Pass@1": {
+        "avgScore": 35.24
+      },
+      "Pass@5": {
+        "avgScore": 60.95
+      }
+    }
   },
   {
-    "name": "Grok",
+    "name": "Grok 4",
     "provider": "xAI",
+    "license": "Proprietary",
     "status": "active",
-    "totalProblems": 107,
-    "uniqueProblemsSolved": 107,
-    "totalAttempts": 291,
-    "passedAttempts": 3,
-    "avgScore": 9.47,
-    "passRate": 1.03
+    "avgScore": 6.32,
+    "categoryScores": {
+      "Avg@5": {
+        "avgScore": 8.75
+      },
+      "Score@5": {
+        "avgScore": 18.97
+      },
+      "Pass@1": {
+        "avgScore": 17.76
+      },
+      "Pass@5": {
+        "avgScore": 46.73
+      }
+    }
   },
   {
-    "name": "Claude",
+    "name": "Claude Opus 4.1",
     "provider": "Anthropic",
+    "license": "Proprietary",
     "status": "active",
-    "totalProblems": 107,
-    "uniqueProblemsSolved": 107,
-    "totalAttempts": 535,
-    "passedAttempts": 0,
-    "avgScore": 1.63,
-    "passRate": 0
+    "avgScore": 6.1,
+    "categoryScores": {
+      "Avg@5": {
+        "avgScore": 5.4
+      },
+      "Score@5": {
+        "avgScore": 12.5
+      },
+      "Pass@1": {
+        "avgScore": 28.04
+      },
+      "Pass@5": {
+        "avgScore": 44.86
+      }
+    }
+  },
+  {
+    "name": "Claude Sonnet 4.5",
+    "provider": "Anthropic",
+    "license": "Proprietary",
+    "status": "active",
+    "avgScore": 3.91,
+    "categoryScores": {
+      "Avg@5": {
+        "avgScore": 6.2
+      },
+      "Score@5": {
+        "avgScore": 13.5
+      },
+      "Pass@1": {
+        "avgScore": 21.5
+      },
+      "Pass@5": {
+        "avgScore": 48.6
+      }
+    }
   }
 ]

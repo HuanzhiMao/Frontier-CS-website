@@ -1,4 +1,4 @@
-import React, { useState, useMemo, useCallback } from 'react';
+import React, { useState, useMemo } from 'react';
 import {
   Alert,
   Box,
@@ -8,88 +8,26 @@ import {
   Typography,
   ToggleButtonGroup,
   ToggleButton,
+  Table,
+  TableBody,
+  TableCell,
+  TableContainer,
+  TableHead,
+  TableRow,
+  IconButton,
+  Collapse,
 } from '@mui/material';
+import { MdExpandMore, MdChevronRight } from 'react-icons/md';
 import { useRequest } from 'ahooks';
 import { dataService } from '../data';
-import { BarChart } from '@mui/x-charts/BarChart';
-import type { BarLabelProps } from '@mui/x-charts/BarChart';
-import type { ChartsItemContentProps } from '@mui/x-charts/ChartsTooltip/ChartsItemTooltipContent';
-import { ChartsText } from '@mui/x-charts/ChartsText';
-import type { ChartsTextProps } from '@mui/x-charts/ChartsText';
-
-const OverviewBarLabel: React.FC<BarLabelProps> = ({ style, children, ...rest }) => {
-  const resolvedStyle = style as any;
-  const x = typeof resolvedStyle?.x === 'number' ? resolvedStyle.x : 0;
-  const width = typeof resolvedStyle?.width === 'number' ? resolvedStyle.width : 0;
-  const y = typeof resolvedStyle?.y === 'number' ? resolvedStyle.y : 0;
-
-  return (
-    <text
-      {...rest}
-      x={x - width / 2 + 8}
-      y={y}
-      fill="#f8fafc"
-      fontSize={13}
-      fontWeight={600}
-      textAnchor="start"
-      dominantBaseline="central"
-    >
-      {typeof children === 'string' ? children : undefined}
-    </text>
-  );
-};
-
-type YAxisTickLabelProps = ChartsTextProps & {
-  scoreMap?: Record<string, number>;
-};
-
-const OverviewYAxisTickLabel: React.FC<YAxisTickLabelProps> = ({ scoreMap, style, text, ...rest }) => {
-  const label = typeof text === 'string' ? text : `${text ?? ''}`;
-  const score = label ? scoreMap?.[label] : undefined;
-  const formattedScoreValue =
-    typeof score === 'number' && Number.isFinite(score) ? Number(score.toFixed(1)) : undefined;
-  const shouldRenderScore = formattedScoreValue !== undefined && formattedScoreValue !== 0;
-  const formattedScoreText = shouldRenderScore ? `${formattedScoreValue.toFixed(1)}` : undefined;
-
-  const scoreXOffset = 18;
-
-  const chartTextProps = rest as ChartsTextProps & { ownerState?: unknown };
-  const { ownerState: _ownerState, ...textElementProps } = chartTextProps;
-  void _ownerState;
-
-  const baseXValue = (chartTextProps as { x?: number | string }).x;
-  const baseYValue = (chartTextProps as { y?: number | string }).y;
-
-  const baseX = typeof baseXValue === 'number' ? baseXValue : Number(baseXValue ?? 0);
-  const baseY = typeof baseYValue === 'number' ? baseYValue : Number(baseYValue ?? 0);
-
-  return (
-    <g>
-      <ChartsText {...chartTextProps} style={style} text={label} />
-      {shouldRenderScore && formattedScoreText && (
-        <text
-          {...textElementProps}
-          x={baseX + scoreXOffset}
-          y={baseY}
-          style={{
-            ...((style ?? {}) as React.CSSProperties),
-            fill: '#f8fafc',
-            textAnchor: 'start',
-            pointerEvents: 'none',
-          }}
-          textAnchor="start"
-        >
-          {formattedScoreText}
-        </text>
-      )}
-    </g>
-  );
-};
 
 type ProblemType = 'research' | 'competitive';
 
 export const UnifiedLeaderboard: React.FC = () => {
   const [problemType, setProblemType] = useState<ProblemType>('research');
+  const [expandedRows, setExpandedRows] = useState<Set<string>>(new Set());
+  const [expandAllRows, setExpandAllRows] = useState(false);
+  const [showExtraColumns, setShowExtraColumns] = useState(false);
 
   // Load research leaderboard
   const { data: researchLeaderboard, loading: researchLoading, error: researchError } = useRequest(async () => {
@@ -111,112 +49,51 @@ export const UnifiedLeaderboard: React.FC = () => {
   });
 
   // Filter models by selected problem type
-  const chartRows = useMemo(() => {
+  const tableRows = useMemo(() => {
     const leaderboard = problemType === 'research' ? researchLeaderboard : cpLeaderboard;
     if (!leaderboard) return [];
 
     return leaderboard
       .sort((a, b) => b.avgScore - a.avgScore)
-      .map((model) => {
-        const isCP = problemType === 'competitive';
-        const cpModel = isCP ? (model as any) : null;
-
+      .map((model, index) => {
         return {
+          rank: index + 1,
           id: `${model.provider}/${model.name}`,
           label: model.name,
           organization: model.provider ?? '—',
-          value: model.avgScore,
-          passRate: cpModel?.passRate,
-          totalAttempts: cpModel?.totalAttempts,
-          totalProblems: isCP ? cpModel?.totalProblems : (model as any).totalProblems,
-          attempted: isCP ? cpModel?.totalAttempts : (model as any).attempted,
+          license: (model as any).license ?? 'Unknown',
+          avgScore: model.avgScore,
+          categoryScores: (model as any).categoryScores || {},
         };
       });
   }, [problemType, researchLeaderboard, cpLeaderboard]);
 
-  const scoreLookup = useMemo(() => {
-    const lookup: Record<string, number> = {};
-    chartRows.forEach((row) => {
-      lookup[row.label] = row.value;
+  const toggleRow = (id: string) => {
+    setExpandedRows(prev => {
+      const newSet = new Set(prev);
+      if (newSet.has(id)) {
+        newSet.delete(id);
+      } else {
+        newSet.add(id);
+      }
+      return newSet;
     });
-    return lookup;
-  }, [chartRows]);
+  };
 
-  const renderBarTooltip = useCallback(
-    ({ itemData }: ChartsItemContentProps<'bar'>) => {
-      const dataIndex = itemData.dataIndex ?? -1;
-      if (dataIndex < 0) return null;
-      const row = chartRows[dataIndex];
-      if (!row) return null;
+  const toggleExpandAllRows = () => {
+    if (expandAllRows) {
+      setExpandedRows(new Set());
+      setExpandAllRows(false);
+    } else {
+      const allRowIds = tableRows.map(row => row.id);
+      setExpandedRows(new Set(allRowIds));
+      setExpandAllRows(true);
+    }
+  };
 
-      const formattedValue = Number.isFinite(row.value) ? `${row.value.toFixed(1)}` : '0.0';
-      const isCP = problemType === 'competitive';
-
-      return (
-        <Paper
-          elevation={0}
-          sx={{
-            px: 2,
-            py: 1.5,
-            bgcolor: '#ffffff',
-            borderRadius: 2,
-            border: '1px solid rgba(15, 23, 42, 0.12)',
-            boxShadow: '0 12px 28px rgba(15, 23, 42, 0.18)',
-            minWidth: 240,
-          }}
-        >
-          <Stack spacing={1}>
-            <Stack direction="row" justifyContent="space-between" spacing={3} alignItems="flex-start">
-              <Stack spacing={0.25} alignItems="flex-start">
-                <Typography variant="body2" sx={{ fontWeight: 600, color: '#0f172a' }}>
-                  {row.label}
-                </Typography>
-                <Typography
-                  variant="caption"
-                  sx={{ color: 'text.secondary', textTransform: 'uppercase', letterSpacing: '0.08em' }}
-                >
-                  {row.organization}
-                </Typography>
-              </Stack>
-              <Stack spacing={0.25} alignItems="flex-end">
-                <Typography variant="caption" sx={{ color: 'text.secondary', fontWeight: 600 }}>
-                  Avg Score
-                </Typography>
-                <Typography variant="body2" sx={{ fontWeight: 600, color: '#0f172a' }}>
-                  {formattedValue}
-                </Typography>
-              </Stack>
-            </Stack>
-            {isCP && row.passRate !== undefined && row.totalAttempts !== undefined && (
-              <Stack direction="row" justifyContent="space-between" spacing={2}>
-                <Typography variant="caption" sx={{ color: 'text.secondary' }}>
-                  Pass Rate: <strong>{row.passRate.toFixed(2)}%</strong>
-                </Typography>
-                <Typography variant="caption" sx={{ color: 'text.secondary' }}>
-                  Attempts: <strong>{row.totalAttempts}</strong>
-                </Typography>
-              </Stack>
-            )}
-            {!isCP && (
-              <Stack direction="row" justifyContent="space-between" spacing={2}>
-                <Typography variant="caption" sx={{ color: 'text.secondary' }}>
-                  Problems: <strong>{row.attempted}/{row.totalProblems}</strong>
-                </Typography>
-              </Stack>
-            )}
-          </Stack>
-        </Paper>
-      );
-    },
-    [chartRows, problemType],
-  );
-
-  const barTooltipConfig = useMemo(
-    () => ({
-      trigger: 'item' as const,
-    }),
-    [],
-  );
+  const toggleExtraColumns = () => {
+    setShowExtraColumns(prev => !prev);
+  };
 
   const loading = researchLoading || cpLoading;
   const error = researchError || cpError;
@@ -233,115 +110,555 @@ export const UnifiedLeaderboard: React.FC = () => {
     return <Alert severity="error">Failed to load leaderboard: {error.message}</Alert>;
   }
 
-  const totalSubmissions = problemType === 'research'
-    ? (researchResults?.results.length || 0)
-    : (cpResults?.results.length || 0);
-
-  const totalProblems = problemType === 'research'
-    ? (researchResults?.problems.length || 0)
-    : (cpResults?.problems.length || 0);
+  // Helper function to get rank color/badge
+  const getRankBadge = (rank: number) => {
+    if (rank === 1) {
+      return {
+        background: 'linear-gradient(135deg, #FFD700 0%, #FFA500 100%)',
+        color: '#fff',
+        icon: '🥇',
+      };
+    } else if (rank === 2) {
+      return {
+        background: 'linear-gradient(135deg, #C0C0C0 0%, #808080 100%)',
+        color: '#fff',
+        icon: '🥈',
+      };
+    } else if (rank === 3) {
+      return {
+        background: 'linear-gradient(135deg, #CD7F32 0%, #8B4513 100%)',
+        color: '#fff',
+        icon: '🥉',
+      };
+    }
+    return {
+      background: '#f1f5f9',
+      color: '#64748b',
+      icon: '',
+    };
+  };
 
   return (
     <Stack spacing={3}>
-      <Paper sx={{ p: { xs: 2, md: 3 } }}>
+      <Paper
+        sx={{
+          p: { xs: 2, md: 3 },
+          background: 'linear-gradient(135deg, #fdfbfb 0%, #ebedee 100%)',
+        }}
+      >
         <Stack spacing={2.5}>
-          <Stack
-            direction={{ xs: 'column', md: 'row' }}
-            spacing={2}
-            alignItems={{ xs: 'flex-start', md: 'center' }}
-            justifyContent="space-between"
+          <Box
+            sx={{
+              background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
+              borderRadius: 2,
+              p: 2.5,
+              color: 'white',
+            }}
           >
-            <Stack spacing={0.75} alignItems="flex-start">
-              <Typography variant="h6" sx={{ fontWeight: 600 }}>
+            <Stack
+              direction={{ xs: 'column', md: 'row' }}
+              spacing={2}
+              alignItems={{ xs: 'flex-start', md: 'center' }}
+              justifyContent="space-between"
+            >
+              <Typography variant="h6" sx={{ fontWeight: 600, fontSize: '1.125rem' }}>
                 Frontier-CS Leaderboard
               </Typography>
-              <Typography variant="caption" sx={{ color: 'text.secondary' }}>
-                {totalSubmissions} total submissions across {totalProblems} problems
-              </Typography>
+              <ToggleButtonGroup
+                value={problemType}
+                exclusive
+                onChange={(_, value) => {
+                  if (value !== null) setProblemType(value);
+                }}
+                size="small"
+                sx={{
+                  bgcolor: 'rgba(255, 255, 255, 0.2)',
+                  borderRadius: 2,
+                  '& .MuiToggleButton-root': {
+                    px: 2.5,
+                    py: 0.75,
+                    fontSize: 13,
+                    textTransform: 'none',
+                    color: 'rgba(255, 255, 255, 0.8)',
+                    border: 'none',
+                    fontWeight: 500,
+                    '&:hover': {
+                      bgcolor: 'rgba(255, 255, 255, 0.15)',
+                    },
+                    '&.Mui-selected': {
+                      bgcolor: 'rgba(255, 255, 255, 0.95)',
+                      color: '#667eea',
+                      fontWeight: 700,
+                      '&:hover': {
+                        bgcolor: 'rgba(255, 255, 255, 1)',
+                      },
+                    },
+                  },
+                }}
+              >
+                <ToggleButton value="research">Research Problems</ToggleButton>
+                <ToggleButton value="competitive">Algorithmic Problems</ToggleButton>
+              </ToggleButtonGroup>
             </Stack>
-            <ToggleButtonGroup
-              value={problemType}
-              exclusive
-              onChange={(_, value) => {
-                if (value !== null) setProblemType(value);
-              }}
-              size="small"
-              sx={{
-                width: { xs: '100%', md: 'auto' },
-                '& .MuiToggleButton-root': {
-                  px: 2,
-                  py: 0.5,
-                  fontSize: 13,
-                  textTransform: 'none',
-                },
-              }}
-            >
-              <ToggleButton value="research">Research Problems</ToggleButton>
-              <ToggleButton value="competitive">Competitive Problems</ToggleButton>
-            </ToggleButtonGroup>
-          </Stack>
+          </Box>
 
-          {chartRows.length === 0 && (
+          {tableRows.length === 0 && (
             <Typography variant="body2" sx={{ color: 'text.secondary' }}>
               No models available for this problem type.
             </Typography>
           )}
 
-          {chartRows.length > 0 && (
-            <BarChart
-              height={Math.max(320, chartRows.length * 44)}
-              layout="horizontal"
-              skipAnimation={false}
-              barLabel={({ dataIndex }) => {
-                const row = chartRows[dataIndex];
-                if (!row) return '0.0';
-                return `${row.value.toFixed(1)}`;
+          {tableRows.length > 0 && (
+            <TableContainer
+              sx={{
+                border: '1px solid',
+                borderColor: 'divider',
+                borderRadius: 2,
+                overflowX: 'auto',
+                overflowY: 'hidden',
               }}
-              series={[
-                {
-                  data: chartRows.map((row) => row.value),
-                  label: 'Average Score',
-                  color: problemType === 'research' ? '#8b5cf6' : '#16a34a',
-                  valueFormatter: (_value, context) => {
-                    const row = chartRows[context.dataIndex];
-                    if (!row) return '0.0';
-                    return `${row.value.toFixed(1)}`;
-                  },
-                },
-              ]}
-              yAxis={[
-                {
-                  scaleType: 'band',
-                  data: chartRows.map((row) => row.label),
-                  tickLabelStyle: {
-                    fill: '#1f2937',
-                    fontWeight: 500,
-                    fontSize: 12,
-                    textTransform: 'none',
-                  },
-                },
-              ]}
-              xAxis={[{ min: 0, max: 100 }]}
-              margin={{ top: 16, bottom: 56, left: 180, right: 32 }}
-              tooltip={barTooltipConfig}
-              slots={{
-                barLabel: OverviewBarLabel,
-                axisTickLabel: OverviewYAxisTickLabel,
-                itemContent: renderBarTooltip,
-              }}
-              slotProps={{
-                legend: { hidden: true },
-                itemContent: { sx: { p: 0 } },
-                popper: {
-                  sx: {
-                    pointerEvents: 'none',
-                  },
-                },
-                axisTickLabel: {
-                  scoreMap: scoreLookup,
-                } as unknown as Partial<ChartsTextProps>,
-              }}
-            />
+            >
+              <Table sx={{ minWidth: 650 }}>
+                <TableHead>
+                  <TableRow
+                    sx={{
+                      bgcolor: '#f8fafc',
+                      borderBottom: '2px solid',
+                      borderColor: 'divider',
+                    }}
+                  >
+                    {problemType === 'research' && <TableCell sx={{ width: 50 }} />}
+                    <TableCell
+                      align="center"
+                      sx={{
+                        fontWeight: 700,
+                        fontSize: '0.875rem',
+                        color: '#475569',
+                        textTransform: 'uppercase',
+                        letterSpacing: '0.05em',
+                        py: 2,
+                        width: 80,
+                      }}
+                    >
+                      Rank
+                    </TableCell>
+                    <TableCell
+                      align="center"
+                      sx={{
+                        fontWeight: 700,
+                        fontSize: '0.875rem',
+                        color: '#475569',
+                        textTransform: 'uppercase',
+                        letterSpacing: '0.05em',
+                        py: 2,
+                      }}
+                    >
+                      Model
+                    </TableCell>
+                    <TableCell
+                      align="center"
+                      sx={{
+                        fontWeight: 700,
+                        fontSize: '0.875rem',
+                        color: '#475569',
+                        textTransform: 'uppercase',
+                        letterSpacing: '0.05em',
+                        py: 2,
+                      }}
+                    >
+                      Organization
+                    </TableCell>
+                    <TableCell
+                      align="center"
+                      sx={{
+                        fontWeight: 700,
+                        fontSize: '0.875rem',
+                        color: '#475569',
+                        textTransform: 'uppercase',
+                        letterSpacing: '0.05em',
+                        py: 2,
+                      }}
+                    >
+                      License
+                    </TableCell>
+                    <TableCell
+                      align="center"
+                      sx={{
+                        fontWeight: 700,
+                        fontSize: '0.875rem',
+                        color: '#475569',
+                        textTransform: 'uppercase',
+                        letterSpacing: '0.05em',
+                        py: 2,
+                      }}
+                    >
+                      {problemType === 'research' ? (
+                        'Score'
+                      ) : (
+                        showExtraColumns ? 'Score@1' : (
+                          <Stack direction="row" alignItems="center" justifyContent="center" spacing={1}>
+                            <span>Score@1</span>
+                            <IconButton
+                              size="small"
+                              onClick={toggleExtraColumns}
+                              sx={{
+                                transition: 'transform 0.2s',
+                                color: '#475569',
+                                '&:hover': {
+                                  bgcolor: 'rgba(0, 0, 0, 0.04)',
+                                },
+                              }}
+                            >
+                              <MdChevronRight size={16} />
+                            </IconButton>
+                          </Stack>
+                        )
+                      )}
+                    </TableCell>
+                    {problemType === 'competitive' && showExtraColumns && (
+                      <>
+                        <TableCell
+                          align="center"
+                          sx={{
+                            fontWeight: 700,
+                            fontSize: '0.875rem',
+                            color: '#475569',
+                            textTransform: 'uppercase',
+                            letterSpacing: '0.05em',
+                            py: 2,
+                          }}
+                        >
+                          Avg@5
+                        </TableCell>
+                        <TableCell
+                          align="center"
+                          sx={{
+                            fontWeight: 700,
+                            fontSize: '0.875rem',
+                            color: '#475569',
+                            textTransform: 'uppercase',
+                            letterSpacing: '0.05em',
+                            py: 2,
+                          }}
+                        >
+                          Score@5
+                        </TableCell>
+                        <TableCell
+                          align="center"
+                          sx={{
+                            fontWeight: 700,
+                            fontSize: '0.875rem',
+                            color: '#475569',
+                            textTransform: 'uppercase',
+                            letterSpacing: '0.05em',
+                            py: 2,
+                          }}
+                        >
+                          Pass@1
+                        </TableCell>
+                        <TableCell
+                          align="center"
+                          sx={{
+                            fontWeight: 700,
+                            fontSize: '0.875rem',
+                            color: '#475569',
+                            textTransform: 'uppercase',
+                            letterSpacing: '0.05em',
+                            py: 2,
+                          }}
+                        >
+                          <Stack direction="row" alignItems="center" justifyContent="center" spacing={1}>
+                            <span>Pass@5</span>
+                            <IconButton
+                              size="small"
+                              onClick={toggleExtraColumns}
+                              sx={{
+                                transition: 'transform 0.2s',
+                                transform: 'rotate(180deg)',
+                                color: '#475569',
+                                '&:hover': {
+                                  bgcolor: 'rgba(0, 0, 0, 0.04)',
+                                },
+                              }}
+                            >
+                              <MdChevronRight size={16} />
+                            </IconButton>
+                          </Stack>
+                        </TableCell>
+                      </>
+                    )}
+                  </TableRow>
+                </TableHead>
+                <TableBody>
+                  {tableRows.map((row, index) => {
+                    const isExpanded = expandedRows.has(row.id);
+                    const categories = Object.keys(row.categoryScores);
+                    const hasCategories = categories.length > 0 && problemType === 'research';
+
+                    return (
+                      <React.Fragment key={row.id}>
+                        <TableRow
+                          sx={{
+                            bgcolor: index % 2 === 0 ? '#ffffff' : '#f9fafb',
+                            '&:hover': {
+                              bgcolor: '#f1f5f9',
+                              transition: 'background-color 0.2s ease',
+                            },
+                            borderBottom: isExpanded ? 'none' : '1px solid',
+                            borderColor: 'divider',
+                          }}
+                        >
+                          {problemType === 'research' && (
+                            <TableCell align="center" sx={{ py: 2, px: 2, width: 50 }}>
+                              {hasCategories && (
+                                <IconButton
+                                  size="small"
+                                  onClick={() => toggleRow(row.id)}
+                                  sx={{
+                                    transition: 'transform 0.2s',
+                                    transform: isExpanded ? 'rotate(90deg)' : 'rotate(0deg)',
+                                    color: '#475569',
+                                    '&:hover': {
+                                      bgcolor: 'rgba(0, 0, 0, 0.04)',
+                                    },
+                                  }}
+                                >
+                                  <MdChevronRight size={20} />
+                                </IconButton>
+                              )}
+                            </TableCell>
+                          )}
+                          <TableCell
+                            align="center"
+                            sx={{
+                              py: 2.5,
+                              px: 3,
+                            }}
+                          >
+                            <Box
+                              sx={{
+                                display: 'inline-flex',
+                                alignItems: 'center',
+                                justifyContent: 'center',
+                                minWidth: 36,
+                                height: 36,
+                                borderRadius: '8px',
+                                background: getRankBadge(row.rank).background,
+                                color: getRankBadge(row.rank).color,
+                                fontWeight: 700,
+                                fontSize: '0.95rem',
+                                boxShadow: row.rank <= 3 ? '0 2px 8px rgba(0,0,0,0.15)' : 'none',
+                              }}
+                            >
+                              {getRankBadge(row.rank).icon || row.rank}
+                            </Box>
+                          </TableCell>
+                          <TableCell align="center" sx={{ py: 2.5, px: 3 }}>
+                            <Typography
+                              variant="body1"
+                              sx={{
+                                fontWeight: 600,
+                                fontSize: '0.95rem',
+                                color: '#0f172a',
+                              }}
+                            >
+                              {row.label}
+                            </Typography>
+                          </TableCell>
+                          <TableCell align="center" sx={{ py: 2.5, px: 3 }}>
+                            <Typography
+                              variant="body2"
+                              sx={{
+                                color: '#64748b',
+                                fontSize: '0.875rem',
+                                fontWeight: 500,
+                              }}
+                            >
+                              {row.organization}
+                            </Typography>
+                          </TableCell>
+                          <TableCell align="center" sx={{ py: 2.5, px: 3 }}>
+                            <Typography
+                              variant="body2"
+                              sx={{
+                                color: '#64748b',
+                                fontSize: '0.875rem',
+                                fontWeight: 500,
+                              }}
+                            >
+                              {row.license}
+                            </Typography>
+                          </TableCell>
+                          <TableCell align="center" sx={{ py: 2.5, px: 3 }}>
+                            <Box
+                              sx={{
+                                display: 'inline-block',
+                                px: 2.5,
+                                py: 1,
+                                borderRadius: '12px',
+                                background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
+                                color: '#fff',
+                                fontWeight: 700,
+                                fontSize: '1.05rem',
+                                boxShadow: '0 2px 8px rgba(0,0,0,0.12)',
+                              }}
+                            >
+                              {row.avgScore.toFixed(2)}
+                            </Box>
+                          </TableCell>
+                          {problemType === 'competitive' && showExtraColumns && (
+                            <>
+                              <TableCell align="center" sx={{ py: 2.5, px: 3 }}>
+                                <Box
+                                  sx={{
+                                    display: 'inline-block',
+                                    px: 2.5,
+                                    py: 1,
+                                    borderRadius: '12px',
+                                    background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
+                                    color: '#fff',
+                                    fontWeight: 700,
+                                    fontSize: '1.05rem',
+                                    boxShadow: '0 2px 8px rgba(0,0,0,0.12)',
+                                  }}
+                                >
+                                  {row.categoryScores['Avg@5']?.avgScore.toFixed(2) ?? '—'}
+                                </Box>
+                              </TableCell>
+                              <TableCell align="center" sx={{ py: 2.5, px: 3 }}>
+                                <Box
+                                  sx={{
+                                    display: 'inline-block',
+                                    px: 2.5,
+                                    py: 1,
+                                    borderRadius: '12px',
+                                    background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
+                                    color: '#fff',
+                                    fontWeight: 700,
+                                    fontSize: '1.05rem',
+                                    boxShadow: '0 2px 8px rgba(0,0,0,0.12)',
+                                  }}
+                                >
+                                  {row.categoryScores['Score@5']?.avgScore.toFixed(2) ?? '—'}
+                                </Box>
+                              </TableCell>
+                              <TableCell align="center" sx={{ py: 2.5, px: 3 }}>
+                                <Box
+                                  sx={{
+                                    display: 'inline-block',
+                                    px: 2.5,
+                                    py: 1,
+                                    borderRadius: '12px',
+                                    background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
+                                    color: '#fff',
+                                    fontWeight: 700,
+                                    fontSize: '1.05rem',
+                                    boxShadow: '0 2px 8px rgba(0,0,0,0.12)',
+                                  }}
+                                >
+                                  {row.categoryScores['Pass@1']?.avgScore.toFixed(2) ?? '—'}%
+                                </Box>
+                              </TableCell>
+                              <TableCell align="center" sx={{ py: 2.5, px: 3 }}>
+                                <Box
+                                  sx={{
+                                    display: 'inline-block',
+                                    px: 2.5,
+                                    py: 1,
+                                    borderRadius: '12px',
+                                    background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
+                                    color: '#fff',
+                                    fontWeight: 700,
+                                    fontSize: '1.05rem',
+                                    boxShadow: '0 2px 8px rgba(0,0,0,0.12)',
+                                  }}
+                                >
+                                  {row.categoryScores['Pass@5']?.avgScore.toFixed(2) ?? '—'}%
+                                </Box>
+                              </TableCell>
+                            </>
+                          )}
+                        </TableRow>
+
+                        {hasCategories && (
+                          <TableRow>
+                            <TableCell
+                              sx={{
+                                py: 0,
+                                px: 0,
+                                borderBottom: '1px solid',
+                                borderColor: 'divider',
+                              }}
+                              colSpan={6}
+                            >
+                              <Collapse in={isExpanded} timeout="auto" unmountOnExit>
+                                <Box sx={{ bgcolor: '#fafbfc', py: 2, px: 6 }}>
+                                  <Stack spacing={1.5}>
+                                    {categories.map((category, idx) => {
+                                      const catData = row.categoryScores[category];
+                                      // Cycle through gradient colors for categories
+                                      // Order: OS, HPC, AI, DB
+                                      const gradients = [
+                                        'linear-gradient(135deg, #ff6b6b 0%, #ee5a6f 100%)', // OS - Red
+                                        'linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)', // HPC - Blue
+                                        'linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)', // AI - Green
+                                        'linear-gradient(135deg, #fa709a 0%, #fee140 100%)', // DB - Pink/Yellow
+                                      ];
+                                      return (
+                                        <Stack
+                                          key={category}
+                                          direction="row"
+                                          justifyContent="space-between"
+                                          alignItems="center"
+                                          sx={{
+                                            py: 1.5,
+                                            px: 2.5,
+                                            bgcolor: '#ffffff',
+                                            borderRadius: 2,
+                                            border: '1px solid',
+                                            borderColor: 'divider',
+                                            boxShadow: '0 1px 3px rgba(0,0,0,0.05)',
+                                          }}
+                                        >
+                                          <Typography
+                                            variant="body2"
+                                            sx={{
+                                              fontWeight: 600,
+                                              color: '#334155',
+                                              fontSize: '0.875rem',
+                                            }}
+                                          >
+                                            {category}
+                                          </Typography>
+                                          <Box
+                                            sx={{
+                                              px: 2,
+                                              py: 0.75,
+                                              borderRadius: '8px',
+                                              background: gradients[idx % gradients.length],
+                                              color: '#fff',
+                                              fontWeight: 700,
+                                              fontSize: '0.875rem',
+                                              boxShadow: '0 2px 6px rgba(0,0,0,0.1)',
+                                            }}
+                                          >
+                                            {catData.avgScore.toFixed(2)}
+                                          </Box>
+                                        </Stack>
+                                      );
+                                    })}
+                                  </Stack>
+                                </Box>
+                              </Collapse>
+                            </TableCell>
+                          </TableRow>
+                        )}
+                      </React.Fragment>
+                    );
+                  })}
+                </TableBody>
+              </Table>
+            </TableContainer>
           )}
         </Stack>
       </Paper>

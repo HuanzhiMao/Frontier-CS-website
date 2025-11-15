@@ -5,10 +5,10 @@ using namespace std;
 int main(int argc, char* argv[]) {
     registerTestlibCmd(argc, argv);
 
-    // 从输入文件读取 n
+    // Read n from input file
     int n = inf.readInt();
 
-    // 读取选手输出 f_user
+    // Read user's answer f_user
     vector<int> f_user(n + 1);
     for (int i = 1; i <= n; ++i) {
         f_user[i] = ouf.readInt();
@@ -17,7 +17,7 @@ int main(int argc, char* argv[]) {
     }
     ouf.ensuref(ouf.seekEof(), "Extra output after %d numbers", n);
 
-    // 读取标准答案 f_std
+    // Read standard answer f_std
     vector<int> f_std(n + 1);
     for (int i = 1; i <= n; ++i) {
         f_std[i] = ans.readInt();
@@ -25,8 +25,8 @@ int main(int argc, char* argv[]) {
             quitf(_fail, "Invalid standard output: f_std(%d) = %d", i, f_std[i]);
     }
 
-    // 验证完全积性：f(xy) = f(x)*f(y)
-    // 这里采用 O(n log n) 检查（枚举倍数）
+    // Verify multiplicative property: f(xy) = f(x)*f(y)
+    // Using O(n log n) check (enumerate multiples)
     for (int x = 1; x <= n; ++x) {
         for (int xy = x, y = 1; xy <= n; ++y, xy += x) {
             if (f_user[xy] != f_user[x] * f_user[y])
@@ -35,21 +35,21 @@ int main(int argc, char* argv[]) {
         }
     }
 
-    // 计算最大前缀和幅度（用户）
+    // Calculate maximum prefix sum magnitude: user solution
     long long s_user = 0, M_user = 0;
     for (int i = 1; i <= n; ++i) {
         s_user += f_user[i];
         M_user = max(M_user, llabs(s_user));
     }
 
-    // 计算最大前缀和幅度（标准答案）
+    // Calculate maximum prefix sum magnitude: standard answer
     long long s_std = 0, M_std = 0;
     for (int i = 1; i <= n; ++i) {
         s_std += f_std[i];
         M_std = max(M_std, llabs(s_std));
     }
 
-    // 打分规则：越小越好
+    // Prevent division by 0, smaller is better
     if (M_user == 0)
         quitf(_fail, "User M=0 (impossible)");
 

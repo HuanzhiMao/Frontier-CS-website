@@ -4,7 +4,6 @@ import { Outlet, useLocation, useNavigate } from 'react-router-dom';
 
 import { defaultHero, findProjectByPath } from '../projects/config';
 import { findBlogByPath } from '../blog';
-import { QuickNavigation } from './QuickNavigation';
 import { OverviewFilter, OverviewFilterContext } from './OverviewFilterContext';
 
 export const Layout: React.FC = () => {
@@ -135,30 +134,39 @@ export const Layout: React.FC = () => {
         sx={{
           borderBottom: '1px solid',
           borderColor: 'divider',
-          bgcolor: 'background.paper',
+          background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
         }}
       >
-        <Container maxWidth="lg" sx={{ py: { xs: 3, md: 4 } }}>
+        <Container maxWidth="lg" sx={{ py: { xs: 4, md: 5 } }}>
           <Stack spacing={2}>
-            <Stack spacing={1}>
-              <Typography variant="h2" sx={{ fontSize: { xs: '1.75rem', md: '2.2rem' }, fontWeight: 500 }}>
+            <Stack spacing={2} alignItems="center" textAlign="center">
+              <Typography
+                variant="h2"
+                sx={{
+                  fontSize: { xs: '1.75rem', md: '2.2rem' },
+                  fontWeight: 700,
+                  color: 'white',
+                }}
+              >
                 {currentHero.title}
               </Typography>
               <Typography
-                variant="body2"
+                variant="body1"
                 sx={{
-                  color: 'text.secondary',
+                  color: 'rgba(255, 255, 255, 0.95)',
                   maxWidth: {
                     xs: '100%',
-                    md: activeBlog ? 600 : 720,
+                    md: activeBlog ? 600 : 800,
                   },
+                  fontSize: { xs: '0.95rem', md: '1rem' },
+                  lineHeight: 1.7,
                 }}
               >
                 {currentHero.description}
               </Typography>
             </Stack>
 
-            <Stack direction="row" spacing={1} flexWrap="wrap">
+            <Stack direction="row" spacing={1} flexWrap="wrap" justifyContent="center">
               {navigationLinks.map((link, index) => {
                 const active = isProjectTabActive(link.path);
                 return (
@@ -169,11 +177,25 @@ export const Layout: React.FC = () => {
                       color={active ? 'navPurple' : 'inherit'}
                       onClick={() => navigate(link.path)}
                       sx={{
-                        fontWeight: active ? 600 : 500,
+                        fontWeight: active ? 700 : 500,
                         borderRadius: '999px',
-                        px: 2,
-                        ...(active ? {} : { color: 'text.secondary' }),
-                        '&:hover': { color: 'primary.light' },
+                        px: 2.5,
+                        py: 0.75,
+                        ...(active
+                          ? {
+                              bgcolor: 'rgba(255, 255, 255, 0.95)',
+                              color: '#667eea',
+                              '&:hover': {
+                                bgcolor: 'rgba(255, 255, 255, 1)',
+                              },
+                            }
+                          : {
+                              color: 'rgba(255, 255, 255, 0.8)',
+                              '&:hover': {
+                                bgcolor: 'rgba(255, 255, 255, 0.15)',
+                                color: 'rgba(255, 255, 255, 1)',
+                              },
+                            }),
                       }}
                     >
                       {link.label}
@@ -191,15 +213,15 @@ export const Layout: React.FC = () => {
                           rel="noopener"
                           sx={{
                             borderRadius: '999px',
-                            px: 1.5,
-                            py: 0.25,
+                            px: 2.5,
+                            py: 0.75,
                             fontSize: 13,
                             fontWeight: 500,
-                            color: 'text.secondary',
-                          '&:hover': {
-                            backgroundColor: 'rgba(15, 23, 42, 0.08)',
-                            color: 'primary.light',
-                          },
+                            color: 'rgba(255, 255, 255, 0.8)',
+                            '&:hover': {
+                              bgcolor: 'rgba(255, 255, 255, 0.15)',
+                              color: 'rgba(255, 255, 255, 1)',
+                            },
                           }}
                         >
                           {externalLink.label}
@@ -215,16 +237,9 @@ export const Layout: React.FC = () => {
 
       <Container maxWidth="lg" sx={{ py: { xs: 3, md: 4 } }}>
         <OverviewFilterContext.Provider value={{ filter: overviewFilter, setFilter: setOverviewFilter }}>
-          <Stack
-            direction={{ xs: 'column', md: 'row' }}
-            spacing={{ xs: 3, md: 5 }}
-            sx={{ width: '100%' }}
-          >
-            <QuickNavigation />
-            <Box component="main" sx={{ flex: 1, width: '100%', minWidth: 0 }}>
-              <Outlet />
-            </Box>
-          </Stack>
+          <Box component="main" sx={{ width: '100%' }}>
+            <Outlet />
+          </Box>
         </OverviewFilterContext.Provider>
       </Container>
     </Box>

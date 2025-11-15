@@ -5,13 +5,13 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "prebuild": "node scripts/parse-results.js && node scripts/parse-cp-results.js && node scripts/copy-problem-files.js",
+    "prebuild": "node scripts/parse-results.js && node scripts/generate-cp-leaderboard.js && node scripts/copy-problem-files.js",
     "build": "tsc -b && vite build",
     "postbuild": "node scripts/create-404.js",
     "lint": "eslint .",
     "preview": "vite preview",
     "generate-client": "openapi-ts --input https://webhook.cp-bench.orzzh.com/openapi.json --output ./src/api --client @hey-api/client-axios",
-    "parse-data": "node scripts/parse-results.js && node scripts/parse-cp-results.js"
+    "parse-data": "node scripts/parse-results.js && node scripts/generate-cp-leaderboard.js"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
@@ -22,6 +22,7 @@
     "@mui/x-charts": "^7.27.0",
     "@mui/x-data-grid": "^7.25.0",
     "@types/d3": "^7.4.3",
+    "@types/react-syntax-highlighter": "^15.5.13",
     "ahooks": "^3.8.4",
     "d3": "^7.9.0",
     "d3-scale-chromatic": "^3.1.0",
@@ -30,6 +31,7 @@
     "react-dom": "^18.3.1",
     "react-icons": "^5.4.0",
     "react-router-dom": "^7.6.1",
+    "react-syntax-highlighter": "^16.1.0",
     "vue-echarts": "^7.0.3"
   },
   "devDependencies": {

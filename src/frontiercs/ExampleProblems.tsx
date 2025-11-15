@@ -1,125 +1,110 @@
-import React, { useMemo, useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import {
   Alert,
   Box,
-  Button,
-  Chip,
+  Card,
+  CardContent,
   CircularProgress,
+  Grid,
   Paper,
   Stack,
-  Table,
-  TableBody,
-  TableCell,
-  TableContainer,
-  TableHead,
-  TableRow,
   Typography,
 } from '@mui/material';
 import { useRequest } from 'ahooks';
 import { dataService } from '../data';
-import type { CPResult } from '../data/types';
 import { ProblemDetailModal } from './ProblemDetailModal';
 
 interface ProblemExample {
   problem: string;
   displayName: string;
-  category: string;
-  solutions: {
-    model: string;
-    status: string;
-    passed: boolean;
-    score: number;
-    passedCases: number;
-    totalCases: number;
-  }[];
-}
-
-// Seeded random number generator for consistent sampling
-function seededRandom(seed: number) {
-  let s = seed;
-  return function() {
-    s = Math.sin(s) * 10000;
-    return s - Math.floor(s);
+  title: string;
+  summary: string;
+  scores: {
+    maxScore: number;
+    modelScores: { model: string; score: number }[];
   };
 }
 
+// Curated problem information
+const CURATED_PROBLEMS: Record<string, { title: string; summary: string }> = {
+  llm1: {
+    title: 'Treasure Packing',
+    summary: 'Optimize treasure selection with dual constraints on weight and volume to maximize total value.',
+  },
+  llm10: {
+    title: 'Tree Distance Query',
+    summary: 'Interactive problem requiring strategic queries to discover distances in a weighted tree structure.',
+  },
+  llm11: {
+    title: 'Palindrome Path',
+    summary: 'Navigate a grid maze where valid movement sequences must form palindromic patterns.',
+  },
+  llm101: {
+    title: 'Circuit Discovery',
+    summary: 'Identify hidden AND/OR logic gates through minimal strategic queries to the circuit.',
+  },
+  llm104: {
+    title: 'Attendance Check',
+    summary: 'Find the absent student using range queries despite dishonest responses from other students.',
+  },
+  llm106: {
+    title: 'Bipartite Verification',
+    summary: 'Determine if a hidden graph is bipartite with minimal edge subset queries.',
+  },
+};
+
 export const ExampleProblems: React.FC = () => {
-  const [selectedProblem, setSelectedProblem] = useState<{ problem: string; displayName: string } | null>(null);
+  const [selectedProblem, setSelectedProblem] = useState<{
+    problem: string;
+    displayName: string;
+    modelScores: { model: string; score: number }[];
+  } | null>(null);
+  const [examples, setExamples] = useState<ProblemExample[]>([]);
 
   const { data: cpResults, loading, error } = useRequest(async () => {
     return await dataService.loadCPResults();
   });
 
-  // Sample random problems (fixed seed for consistency)
-  const examples = useMemo((): ProblemExample[] => {
-    if (!cpResults) return [];
+  // Select 6 curated problems and compute their scores
+  useEffect(() => {
+    if (!cpResults) return;
 
-    const { results, problems } = cpResults;
+    const { results } = cpResults;
+    const curatedProblemNames = Object.keys(CURATED_PROBLEMS);
 
-    // Use seed for consistent random sampling
-    const random = seededRandom(12345);
+    const examplesData = curatedProblemNames.map((problemName) => {
+      const curatedInfo = CURATED_PROBLEMS[problemName];
 
-    // Group results by problem
-    const problemResultsMap = new Map<string, CPResult[]>();
-    results.forEach(result => {
-      if (!problemResultsMap.has(result.problem)) {
-        problemResultsMap.set(result.problem, []);
-      }
-      problemResultsMap.get(result.problem)!.push(result);
-    });
+      // Get all results for this problem (shot 0 only for display)
+      const problemResults = results.filter(
+        (r: any) => r.problem === problemName && r.shot === 0
+      );
 
-    // Get problems that have results from all models
-    const completeProblems = Array.from(problemResultsMap.entries())
-      .filter(([_, results]) => {
-        const models = new Set(results.map(r => r.model));
-        return models.size >= 3; // At least 3 different models
-      })
-      .map(([problem, _]) => problem);
+      // Calculate model scores
+      const modelScores = problemResults.map((r: any) => ({
+        model: r.model.split(' ')[0], // Short name: "GPT-5-2025-08-07 (FC)" -> "GPT-5-2025-08-07"
+        score: r.score || 0,
+      }));
 
-    // Shuffle with seeded random
-    const shuffled = completeProblems
-      .map(p => ({ problem: p, sort: random() }))
-      .sort((a, b) => a.sort - b.sort)
-      .map(({ problem }) => problem);
-
-    // Take first 5 problems
-    const sampledProblems = shuffled.slice(0, 5);
-
-    // Build examples
-    return sampledProblems.map(problemName => {
-      const problemInfo = problems.find(p => p.name === problemName);
-      const problemResults = problemResultsMap.get(problemName) || [];
-
-      // Get best result per model
-      const bestByModel = new Map<string, CPResult>();
-      problemResults.forEach(result => {
-        const existing = bestByModel.get(result.model);
-        if (!existing || (result.score ?? 0) > (existing.score ?? 0)) {
-          bestByModel.set(result.model, result);
-        }
-      });
-
-      const solutions = Array.from(bestByModel.values())
-        .sort((a, b) => (b.score ?? 0) - (a.score ?? 0))
-        .map(result => ({
-          model: result.model,
-          status: result.status,
-          passed: result.passed,
-          score: result.score ?? 0,
-          passedCases: result.passedCases,
-          totalCases: result.cases,
-        }));
+      // Find max score among all models
+      const maxScore = Math.max(...modelScores.map(m => m.score), 0);
 
       return {
         problem: problemName,
-        displayName: problemInfo?.displayName || problemName.replace(/_/g, ' ').toUpperCase(),
-        category: problemInfo?.category || 'Unknown',
-        solutions,
+        displayName: curatedInfo.title,
+        title: curatedInfo.title,
+        summary: curatedInfo.summary,
+        scores: {
+          maxScore,
+          modelScores,
+        },
       };
     });
+
+    setExamples(examplesData);
   }, [cpResults]);
 
-  if (loading) {
+  if (loading || examples.length === 0) {
     return (
       <Box sx={{ display: 'flex', justifyContent: 'center', alignItems: 'center', minHeight: 300 }}>
         <CircularProgress />
@@ -131,119 +116,131 @@ export const ExampleProblems: React.FC = () => {
     return <Alert severity="error">Failed to load example problems: {error.message}</Alert>;
   }
 
-  const getStatusColor = (passed: boolean, status: string) => {
-    if (passed) return 'success';
-    if (status === 'Wrong Answer') return 'warning';
-    return 'error';
-  };
+  // Color palette for cards
+  const cardColors = [
+    { gradient: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)', light: '#f3e8ff' },
+    { gradient: 'linear-gradient(135deg, #f093fb 0%, #f5576c 100%)', light: '#fce7f3' },
+    { gradient: 'linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)', light: '#dbeafe' },
+    { gradient: 'linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)', light: '#d1fae5' },
+    { gradient: 'linear-gradient(135deg, #fa709a 0%, #fee140 100%)', light: '#fef3c7' },
+    { gradient: 'linear-gradient(135deg, #30cfd0 0%, #330867 100%)', light: '#e0e7ff' },
+  ];
 
   return (
-    <Paper sx={{ p: { xs: 2, md: 3 } }}>
+    <Paper
+      sx={{
+        p: { xs: 2, md: 3 },
+        background: 'linear-gradient(135deg, #fdfbfb 0%, #ebedee 100%)',
+      }}
+    >
       <Stack spacing={3}>
-        <Stack spacing={0.75}>
-          <Typography variant="h6" sx={{ fontWeight: 600 }}>
+        <Box
+          sx={{
+            background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
+            borderRadius: 2,
+            p: 2.5,
+            color: 'white',
+          }}
+        >
+          <Typography variant="h6" sx={{ fontWeight: 600, fontSize: '1.125rem' }}>
             Example Problems
           </Typography>
-          <Typography variant="caption" sx={{ color: 'text.secondary' }}>
-            Randomly sampled competitive programming problems showing model performance
-          </Typography>
-        </Stack>
+        </Box>
 
-        <Stack spacing={3}>
-          {examples.map((example, idx) => (
-            <Box key={example.problem}>
-              <Stack spacing={1.5}>
-                <Stack direction="row" spacing={1.5} alignItems="center" flexWrap="wrap">
-                  <Typography variant="subtitle1" sx={{ fontWeight: 600 }}>
-                    {idx + 1}. {example.displayName}
-                  </Typography>
-                  <Chip
-                    label={example.category}
-                    size="small"
-                    sx={{
-                      height: 20,
-                      fontSize: 11,
-                      fontWeight: 500,
-                      bgcolor: 'rgba(99, 102, 241, 0.1)',
-                      color: 'rgb(99, 102, 241)',
-                    }}
-                  />
-                </Stack>
-
-                <TableContainer>
-                  <Table size="small" sx={{ minWidth: 500 }}>
-                    <TableHead>
-                      <TableRow>
-                        <TableCell sx={{ fontWeight: 600, fontSize: 12 }}>Model</TableCell>
-                        <TableCell sx={{ fontWeight: 600, fontSize: 12 }}>Status</TableCell>
-                        <TableCell align="right" sx={{ fontWeight: 600, fontSize: 12 }}>
-                          Score
-                        </TableCell>
-                        <TableCell align="right" sx={{ fontWeight: 600, fontSize: 12 }}>
-                          Test Cases
-                        </TableCell>
-                      </TableRow>
-                    </TableHead>
-                    <TableBody>
-                      {example.solutions.map((solution) => (
-                        <TableRow
-                          key={solution.model}
+        <Grid container spacing={2.5}>
+          {examples.map((example, index) => {
+            const colorTheme = cardColors[index % cardColors.length];
+            return (
+              <Grid item xs={12} sm={6} md={4} key={example.problem}>
+                <Card
+                  sx={{
+                    height: '100%',
+                    cursor: 'pointer',
+                    transition: 'all 0.3s ease',
+                    border: '1px solid',
+                    borderColor: 'divider',
+                    position: 'relative',
+                    overflow: 'hidden',
+                    '&::before': {
+                      content: '""',
+                      position: 'absolute',
+                      top: 0,
+                      left: 0,
+                      right: 0,
+                      height: '4px',
+                      background: colorTheme.gradient,
+                    },
+                    '&:hover': {
+                      borderColor: 'primary.main',
+                      boxShadow: '0 8px 24px rgba(0, 0, 0, 0.12)',
+                      transform: 'translateY(-4px)',
+                    },
+                  }}
+                  onClick={() =>
+                    setSelectedProblem({
+                      problem: example.problem,
+                      displayName: example.title,
+                      modelScores: example.scores.modelScores,
+                    })
+                  }
+                >
+                  <CardContent sx={{ pt: 2.5 }}>
+                    <Stack spacing={1.5}>
+                      <Box
+                        sx={{
+                          display: 'inline-block',
+                          px: 1.5,
+                          py: 0.5,
+                          borderRadius: '12px',
+                          background: colorTheme.light,
+                          alignSelf: 'flex-start',
+                          mb: 0.5,
+                        }}
+                      >
+                        <Typography
+                          variant="caption"
                           sx={{
-                            '&:last-child td, &:last-child th': { border: 0 },
-                            bgcolor: solution.passed ? 'rgba(34, 197, 94, 0.05)' : 'transparent',
+                            fontWeight: 700,
+                            fontSize: '0.7rem',
+                            textTransform: 'uppercase',
+                            letterSpacing: '0.05em',
+                            background: colorTheme.gradient,
+                            WebkitBackgroundClip: 'text',
+                            WebkitTextFillColor: 'transparent',
+                            backgroundClip: 'text',
                           }}
                         >
-                          <TableCell sx={{ fontSize: 13, fontWeight: 500 }}>{solution.model}</TableCell>
-                          <TableCell>
-                            <Chip
-                              label={solution.status}
-                              size="small"
-                              color={getStatusColor(solution.passed, solution.status)}
-                              variant={solution.passed ? 'filled' : 'outlined'}
-                              sx={{ height: 22, fontSize: 11 }}
-                            />
-                          </TableCell>
-                          <TableCell align="right" sx={{ fontSize: 13, fontWeight: 500 }}>
-                            {solution.score.toFixed(2)}
-                          </TableCell>
-                          <TableCell align="right" sx={{ fontSize: 13 }}>
-                            <span style={{ color: solution.passedCases > 0 ? '#16a34a' : '#64748b' }}>
-                              {solution.passedCases}
-                            </span>
-                            <span style={{ color: '#94a3b8' }}> / {solution.totalCases}</span>
-                          </TableCell>
-                        </TableRow>
-                      ))}
-                    </TableBody>
-                  </Table>
-                </TableContainer>
-
-                <Box sx={{ mt: 2 }}>
-                  <Button
-                    variant="outlined"
-                    size="small"
-                    onClick={() => setSelectedProblem({ problem: example.problem, displayName: example.displayName })}
-                    sx={{
-                      textTransform: 'none',
-                      borderColor: 'rgba(99, 102, 241, 0.5)',
-                      color: 'rgb(99, 102, 241)',
-                      '&:hover': {
-                        borderColor: 'rgb(99, 102, 241)',
-                        bgcolor: 'rgba(99, 102, 241, 0.05)',
-                      }
-                    }}
-                  >
-                    View Problem Statement & Codes
-                  </Button>
-                </Box>
-              </Stack>
-
-              {idx < examples.length - 1 && (
-                <Box sx={{ height: 1, bgcolor: 'divider', mt: 3 }} />
-              )}
-            </Box>
-          ))}
-        </Stack>
+                          Problem {index + 1}
+                        </Typography>
+                      </Box>
+                      <Typography
+                        variant="h6"
+                        sx={{
+                          fontWeight: 700,
+                          fontSize: '1.05rem',
+                          lineHeight: 1.4,
+                          color: '#1a202c',
+                        }}
+                      >
+                        {example.title}
+                      </Typography>
+                      <Typography
+                        variant="body2"
+                        color="text.secondary"
+                        sx={{
+                          fontSize: '0.875rem',
+                          lineHeight: 1.6,
+                        }}
+                      >
+                        {example.summary}
+                      </Typography>
+                    </Stack>
+                  </CardContent>
+                </Card>
+              </Grid>
+            );
+          })}
+        </Grid>
       </Stack>
 
       <ProblemDetailModal
@@ -251,6 +248,7 @@ export const ExampleProblems: React.FC = () => {
         onClose={() => setSelectedProblem(null)}
         problem={selectedProblem?.problem || ''}
         problemName={selectedProblem?.displayName || ''}
+        modelScores={selectedProblem?.modelScores || []}
       />
     </Paper>
   );
